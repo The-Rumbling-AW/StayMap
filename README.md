@@ -384,6 +384,7 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
 	</tbody>
 </table>
 
+
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
 **- Enfoque en el descubrimiento de música en vivo diversa**
