@@ -969,6 +969,85 @@ Además, las decisiones tomadas en torno a los sistemas de organización, etique
 - En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
 - Como pie de página se muestra un formulario para suscribirse al newsletter y las diferentes secciones de nuestra landing page.
 
+# 4.4. Web Applications UX/UI Design
+
+## 4.4.1. Web Applications Wireframes
+
+Pantalla de inicio:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_inicio.png" alt="Web Application Wireframe Inicio" style="width: 80%">
+</div>
+
+Sesión iniciada correctamente:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_sesioniniciada.png" alt="Web Application Wireframe Sesión iniciada" style="width: 80%">
+</div>
+
+Crear cuenta: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_registro.png" alt="Web Application Wireframe Registro" style="width: 80%">
+</div>
+
+
+Verificar cuenta cuenta: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_verificacion.png" alt="Web Application Wireframe Verificacion" style="width: 80%">
+</div>
+
+Cuenta creada:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_cuentacreada.png" alt="Web Application Wireframe Cuenta creada" style="width: 80%">
+</div>
+
+Página principal: Conciertos: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_conciertos.png" alt="Web Application Wireframe Conciertos" style="width: 80%">
+</div>
+
+
+Filtrar: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_filtrar.png" alt="Web Application Wireframe Filtrar" style="width: 80%">
+</div>
+
+Mapa:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_mapa.png" alt="Web Application Wireframe mapa" style="width: 80%">
+</div>
+
+
+Comunidad:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_comunidad.png" alt="Web Application Wireframe comunidad" style="width: 80%">
+</div>
+
+Concierto: 
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_concierto.png" alt="Web Application Wireframe Concierto" style="width: 80%">
+</div>
+
+Perfil de fan:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_perfil_fan.png" alt="Web Application Wireframe Perfil fan" style="width: 80%">
+</div>
+
+
+Perfil de artista:
+
+<div align="center">
+  <img src="assets/web_application/web_applications_uxui_desing_wireframe_perfil_artista.png" alt="Web Application Wireframe Artista" style="width: 80%">
+</div>
 
 
 
