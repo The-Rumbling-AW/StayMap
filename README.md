@@ -240,7 +240,11 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </tbody>
 </table>
 
+# Project Report Collaboration Insights
 
+# CAPÍTULO I: INTRODUCCIÓN
+
+# 1.1. Startup Profile
 
 
 # CAPÍTULO II: Requirements Elicitation & Analysis
