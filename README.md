@@ -360,7 +360,16 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 - Convertir la movilidad urbana en una experiencia musical enriquecedora: Transformar el modo en que los usuarios se mueven por la ciudad, conectando lugares con emociones, música y comunidad.
 - Promover la participación activa en la escena local: Fomentar que los usuarios asistan a más eventos, descubran artistas emergentes y compartan sus experiencias.
 
+**Alcances**
 
+Asistencia personalizada en tiempo real
+- Recomendaciones de conciertos y eventos musicales según los intereses, ubicación y estado de ánimo del usuario.
+- Actualizaciones en vivo sobre afluencia, horarios y cambios importantes en los eventos.
+- Mapas interactivos para encontrar eventos cercanos con rutas claras desde la ubicación actual.
+
+Accesibilidad y usabilidad
+- Interfaz sencilla, moderna e intuitiva para todo tipo de usuarios.
+- Disponible en smartphones, tablets y computadoras, incluso con acceso limitado a internet en algunos casos.
 
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
