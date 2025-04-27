@@ -236,6 +236,81 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </tbody>
 </table>
 
+## 5.1.4. Software Deployment Configuration
+
+Para la publicación de nuestra landing page y aplicación web, utilizamos GitHub Pages, una herramienta gratuita de GitHub que permite alojar sitios estáticos directamente desde un repositorio. Esta opción resultó ideal para presentar el proyecto de forma accesible, sin necesidad de servidores adicionales ni configuraciones complejas.
+
+A continuación, se detallan los pasos que seguimos para configurar el despliegue:
+
+1. Creación del repositorio en GitHub:
+Iniciamos el proceso creando un nuevo repositorio en GitHub, donde alojaremos todos los archivos relacionados con el proyecto de la landing page, incluyendo el HTML, CSS y JavaScript.
+
+2. Preparación del entorno local:
+Clonamos el repositorio en nuestra computadora utilizando Git, lo que nos permitió trabajar de manera local, realizar pruebas y organizar el contenido antes de subirlo a la nube.
+
+3. Organización de los archivos del proyecto:
+Diseñamos una estructura clara de carpetas que incluyera el archivo principal index.html, las hojas de estilo y los scripts necesarios para el correcto funcionamiento de la página. Esta organización facilitó el mantenimiento y despliegue del proyecto.
+
+4. Configuración de GitHub Pages:
+Una vez que el contenido estuvo listo y subido al repositorio, procedimos a activar GitHub Pages. Para ello:
+
+- Accedimos a la pestaña Settings del repositorio.
+
+- En la sección Pages, seleccionamos la rama principal (por ejemplo, main) y la carpeta raíz como fuente de publicación.
+
+- Guardamos los cambios y GitHub generó automáticamente la URL pública para visualizar el sitio.
+
+5. Verificación del despliegue:
+Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible nuestra landing page en línea. Accedimos al enlace proporcionado para comprobar que todo funcionaba correctamente y que los archivos se renderizaban sin errores.
+
+# 5.2. Landing Page, Services & Applications Implementation
+
+## 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-04-19</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>11:00PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual, via discord</td>
+  </tr>
+  <tr>
+    <td>Prepared by</td>
+    <td>Lizarbe Álvarez, Ariana Nickole</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Lizarbe Alvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / Zegarra López, Renato Rubber Sebastian</td>
+  </tr>
+  <tr>
+    <td>Sprint Goal & User Stories</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprint n Goal</td>
+    <td>Diseñar y desarrollar una landing page funcional y responsiva que comunique efectivamente los valores de StayMap, permita la navegación básica y esté alineada con la arquitectura de información planteada para fans y artistas.</td>
+  </tr>
+  <tr>
+    <td>Sprint n Velocity</td>
+    <td>Para la planificación de este sprint se utilizará la escala de Fibonacci (1, 2, 3, 5, 8...) para estimar el esfuerzo relativo de cada historia de usuario, permitiendo una mejor comparación y afinación de la carga de trabajo.</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>15</td>
+  </tr>
+</table>
+
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 <table border="1" cellpadding="5" cellspacing="0">
