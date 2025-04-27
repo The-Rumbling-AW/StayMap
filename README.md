@@ -733,6 +733,14 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+# Capítulo IV: Product Design
+
+# 4.1. Style Guidelines
+
+En esta sección se define la línea visual que guiará el diseño de la aplicación y la versión web de StayMap. El objetivo es ofrecer una interfaz clara, accesible y coherente, que facilite la exploración de eventos musicales en distintos contextos urbanos. Para ello, se han seleccionado elementos gráficos funcionales y modernos, con una paleta de colores contrastante que permite una navegación intuitiva y una rápida identificación de la información relevante.
+La Guía de Estilo establece principios fundamentales como el uso de tipografías legibles, un sistema de iconografía simple y una estructura visual organizada. Este documento sirve como referencia para mantener una identidad visual unificada a medida que la plataforma evoluciona, asegurando consistencia en todos los puntos de contacto con el usuario, tanto en dispositivos móviles como en la web.
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 # 5.1. Software Configuration Management
