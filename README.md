@@ -398,6 +398,18 @@ Conexión con expertos y comunidad
 - Conexión más directa entre fans y artistas mediante notificaciones personalizadas y herramientas de descubrimiento.
 - Reducción de la desconexión entre la oferta musical local y los potenciales asistentes.
 
+**Features**
+- Mapas interactivos de conciertos: Visualización clara y precisa de eventos musicales cercanos, filtrados por fecha, género y ubicación.
+- Buscador inteligente: Permite encontrar conciertos específicos o artistas favoritos al instante, con autocompletado y filtros avanzados.
+- Sección para fans: Acceso a beneficios exclusivos, contenido especial y eventos recomendados según el historial del usuario.
+- Sección para artistas: Herramientas para promocionar conciertos, interactuar con fans y analizar datos de audiencia local.
+- Filtros por género musical: El usuario puede descubrir eventos según sus gustos musicales, desde pop y rock hasta K-pop o electrónica.
+- Experiencia personalizada: La app muestra eventos relevantes según la ubicación actual del usuario y sus preferencias previas.
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
