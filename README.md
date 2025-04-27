@@ -236,6 +236,50 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </tbody>
 </table>
 
+**Screenshots de las principales vistas:**
+
+Sección de Inicio:
+
+<div align="center">
+  <img src="assets/capturas/captura-inicio.png" alt="inicio" style="width: 80%">
+</div>
+
+Sección de Para Fans:
+
+<div align="center">
+  <img src="assets/capturas/captura-fans.png" alt="cap fans" style="width: 80%">
+</div>
+
+Sección de Para Artistas:
+
+<div align="center">
+  <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
+</div>
+
+**Enlace de la Landing Page:** https://the-rumbling.github.io/StayMap-Landing_Page/
+
+**Link de video de visualización y navegación:**
+Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
+
+
+### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+**Las principales actividades de Deployment llevadas a cabo fueron:**
+
+   - Creación de repositorio en GitHub: Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
+
+   - Configuración de Git: Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario (git config --global user.name y git config --global user.email).
+
+   - Inicialización de proyecto Git: Se ejecutó la inicialización del repositorio local (git init), la adición de archivos (git add .) y la generación de un primer commit (git commit -m "Subiendo landing page").
+
+   - Asociación a repositorio remoto: Se estableció el enlace entre el repositorio local y GitHub mediante git remote add origin, permitiendo realizar el push del proyecto.
+
+**Publicación mediante GitHub Pages:**
+
+   - En la sección Settings > Pages del repositorio, se configuró la publicación seleccionando la rama main y la carpeta raíz (/ (root)).
+
+   - Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un URL público proporcionado por GitHub.
 
 1. Repositorio creado en GitHub:
 
