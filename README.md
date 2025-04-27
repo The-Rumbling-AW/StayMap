@@ -371,6 +371,18 @@ Accesibilidad y usabilidad
 - Interfaz sencilla, moderna e intuitiva para todo tipo de usuarios.
 - Disponible en smartphones, tablets y computadoras, incluso con acceso limitado a internet en algunos casos.
 
+Conexión con expertos y comunidad
+- Espacio para recibir recomendaciones de expertos en musica o experiencias de otros usuarios.
+- Comunidad que comparte tips y lugares seguros, con opción de valorar y comentar.
+
+**Escalabilidad**
+- Adaptable a distintas ciudades, regiones y culturas urbanas.
+- Capacidad para expandirse globalmente, integrando datos locales específicos según cada comunidad.
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+- Interfaz clara, amigable y acogedora.
+- Fluidez en la experiencia, con transiciones suaves, botones accesibles y navegación simple.
+- Alta confiabilidad en los datos mostrados y bajo margen de error en recomendaciones.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
