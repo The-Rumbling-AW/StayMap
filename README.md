@@ -305,6 +305,18 @@ StayMap aborda esta problemática mediante una aplicación móvil que centraliza
 - Acceder a eventos independientes que usualmente no aparecen en medios tradicionales.
 - Compartir y recomendar eventos con amigos, generando una comunidad activa.
 
+Esta solución integra datos de distintas fuentes, incluyendo registros de eventos, publicaciones de artistas y recomendaciones sociales, facilitando una experiencia fluida, espontánea y enriquecedora.
+
+**How much:**
+
+Las consecuencias de no atender esta problemática incluyen:
+- Pérdida de oportunidades para artistas de darse a conocer, generar ingresos y construir una base de fans sólida.
+- Reducción en la asistencia a conciertos, afectando la economía de espacios culturales, bares y promotores locales.
+- Empobrecimiento de la vida cultural urbana, donde eventos valiosos pasan desapercibidos y la diversidad musical queda eclipsada.
+- Frustración del público, que quiere vivir experiencias auténticas pero no encuentra cómo hacerlo fácilmente.
+
+Al mismo tiempo, existe un alto potencial de impacto positivo: al facilitar la conexión entre público y música en vivo, se promueve la cultura local, se fomenta el descubrimiento musical y se apoya directamente al ecosistema artístico independiente.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
