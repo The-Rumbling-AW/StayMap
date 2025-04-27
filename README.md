@@ -239,6 +239,7 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
 </table>
 
 
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
