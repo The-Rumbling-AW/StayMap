@@ -793,7 +793,7 @@ Opinión y expectativas sobre StayMap:
 **Duración:** 9:30:20
 **Inicio:** 00:35:37
 
-Link del video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link del video de las entrevistas: [entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ---
 
@@ -867,13 +867,11 @@ Para Juan, StatMap representa una oportunidad concreta para hacer visible el tal
 
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En StayMap, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
 
-<p align="center">
-  <img src="assets/user_persona/valeria_torres.png" alt="user_persona" width="700">
-</p>
 
-<p align="center">
-  <img src="assets/user_persona/diego_rivas.png" alt="user_persona" width="700">
-</p>
+![user_persona](assets/user_persona/valeria_torres.png)
+
+
+![user_persona](assets/user_persona/diego_rivas.png)
 
 ## 2.3.2. User Task Matrix
 
@@ -901,15 +899,13 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Fans de la música**
 
-<p align="center">
-  <img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" width="700">
-</p>
+
+![user_persona](assets/user_journey_mapping/user-journey-mapping-fans.png)
 
 **Artistas emergentes**
 
-<p align="center">
-  <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" width="700">
-</p>
+![user_persona](assets/user_journey_mapping/user-journey-mapping-artista.png)
+
 
 
 ## 2.3.4. Empathy Mapping
@@ -917,13 +913,12 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 **Diego Rivas**
 
-<img src="assets/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
-
+![user_persona](assets/empathy_map/empathy_map_artistas.png)
 
 **Valeria Torres**
 
-<img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
+![user_persona](assets/empathy_map/empathy_map_fan.png)
 
 ## 2.3.5. As-is Scenario Mapping
 
@@ -1930,8 +1925,8 @@ Notificaciones:
 
 |Tipo|Link del video|
 |---|--------------|
-|Desktop|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
-|Mobile|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|Desktop|[desktop](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|Mobile|[mobile](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 
 Estos videos muestran los prototipos interactivos de StayMap para navegador web en versiones desktop y mobile, destacando cómo se han aplicado principios clave de arquitectura de información y decisiones de diseño centradas en el usuario.
 La simulación inicia con una introducción al sistema de navegación, explicando cómo se estructura la información para garantizar una experiencia clara y personalizada tanto para fans de la música como para artistas emergentes. Se evidencian las decisiones relacionadas con:
@@ -2599,7 +2594,7 @@ Sección de Para Artistas:
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
+Link: [landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B)
 
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
@@ -2692,7 +2687,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 **Videos de Exposiciones:**
 
-- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz
+- TB1: [exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz)
   
 # Bibliografía
 
