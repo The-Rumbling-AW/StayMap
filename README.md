@@ -458,6 +458,23 @@ Creemos que, si StayMap destaca a los artistas más destacados y organiza concie
       </ul>
     </td>
   </tr>
+   <tr>
+    <th>Hypotheses</th>
+    <th>What’s the most important thing we need to learn first?</th>
+    <th>What’s the least amount of work we need to do to learn the most important thing?</th>
+  </tr>
+  <tr>
+    <td>
+      Creemos que, al brindar una solución que conecta a personas y artistas a través de conciertos geolocalizados y notificaciones personalizadas, los usuarios asistirán a más eventos y los artistas lograrán una mayor difusión, fortaleciendo la comunidad musical local y mejorando la experiencia en ambos sentidos.
+    </td>
+    <td>
+      Es clave validar si los fans encuentran útil la app para descubrir conciertos relevantes, y si los artistas consideran valioso el canal para promover sus presentaciones.
+    </td>
+    <td>
+      Crear un prototipo funcional que muestre conciertos cercanos según ubicación e intereses musicales, incluyendo una opción para que artistas registren eventos. Luego, probarlo con un grupo de fans y músicos para obtener retroalimentación directa sobre la utilidad y experiencia.
+    </td>
+  </tr>
+</table>
 
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
