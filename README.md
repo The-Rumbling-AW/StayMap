@@ -414,6 +414,14 @@ Creemos que, si StayMap proporciona recomendaciones de conciertos basadas en los
 
 Creemos que, si StayMap integra una comunidad activa donde los usuarios pueden reportar incidentes o compartir experiencias, se generará confianza colectiva y participación constante, fortaleciendo el valor colaborativo de la app.
 
+Creemos que, si StayMap ofrece una interfaz intuitiva y optimizada para dispositivos móviles, los usuarios, incluso aquellos con poca experiencia tecnológica, podrán localizar fácilmente conciertos cercanos y acceder a la información relevante sin dificultad.
+
+Creemos que, si StayMap proporciona una plataforma que permite a los artistas emergentes listar sus conciertos, aumentar su visibilidad y conectar con un público local, los músicos tendrán más oportunidades de crecer y ganar seguidores leales, lo que potenciará su carrera a largo plazo.
+
+Creemos que, si StayMap permite a los usuarios dejar reseñas y comentarios sobre conciertos y actuaciones, los artistas podrán recibir retroalimentación constructiva y mejorar su performance, lo que contribuirá a su evolución profesional y éxito en futuros eventos.
+
+Creemos que, si StayMap destaca a los artistas más destacados y organiza conciertos a gran escala, brindará una plataforma para que los músicos emergentes se presenten junto a artistas establecidos, lo que aumentará sus oportunidades de ser reconocidos por profesionales de la industria y contribuirá a su crecimiento.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
