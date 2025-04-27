@@ -410,6 +410,10 @@ Conexión con expertos y comunidad
 
 Creemos que, si StayMap tiene una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán usar la aplicación fácilmente para orientarse y explorar nuevas zonas.
 
+Creemos que, si StayMap proporciona recomendaciones de conciertos basadas en los intereses y preferencias del usuario, así como la proximidad de estos eventos, los usuarios tendrán una experiencia más personalizada y disfrutarán de una exploración más fluida de los eventos musicales a su alrededor.
+
+Creemos que, si StayMap integra una comunidad activa donde los usuarios pueden reportar incidentes o compartir experiencias, se generará confianza colectiva y participación constante, fortaleciendo el valor colaborativo de la app.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
