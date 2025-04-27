@@ -733,6 +733,474 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
   </tbody>
 </table>
 
+# CAPÍTULO III: Requirements Specification
+
+# 3.1 To-Be Scenario Mapping
+
+**SEGMENTO #1: Fans de la música**
+
+<p align="center">
+	<img src="assets/to-be_scenario/to-be-scenrio-fans-musica.png" alt="to be scenario fans" style="width: 700px"/>
+</p>
+
+**SEGMENTO #2: Artistas emergentes y bandas independientes**
+
+<p align="center">
+<img src="assets/to-be_scenario/to-be-scenrio-artistas-emergentes.png" alt="to be scenario artistas" style="width: 700px"/>
+</p>
+
+# 3.2. User stories
+
+**Epics**
+
+
+| Epic ID | Título                                             | Descripción                                                                                                                                                                                       |
+|---------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP01    | Exploración y descubrimiento de conciertos         | Funcionalidades que permiten a los fans descubrir eventos musicales en su ciudad mediante mapas interactivos, búsquedas personalizadas y recomendaciones según ubicación y preferencias musicales. |
+| EP02    | Notificaciones personalizadas                      | Desarrollo de notificaciones para fans y artistas, configuradas según intereses, ubicación y actividades recientes para mantener a los usuarios informados y comprometidos.                       |
+| EP03    | Visibilidad para artistas emergentes               | Herramientas que permiten a los artistas emergentes destacar sus eventos, promocionar su música y conectar con nuevos públicos dentro de la comunidad musical.                                    |
+| EP04    | Interacción social y comunidades                   | Funcionalidades sociales como chats, comentarios y acceso a comunidades de fans, diseñadas para fomentar la conexión entre usuarios y compartir experiencias musicales.                           |
+| EP05    | Plataforma informativa (Landing Page y acceso)     | Experiencia inicial del usuario incluyendo la landing page, navegación básica, autenticación y presentación de la propuesta de valor de StayMap.                                                  |
+| EP06    | Desarrollo técnico del backend (RESTful API)       | Implementación del backend con una API RESTful robusta, integración de base de datos y soporte técnico para las funcionalidades clave de la aplicación web y móvil.                              |
+
+<br>
+
+
+**User Stories**
+
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Ver beneficios para fans</td>
+      <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
+      <td>
+        <strong>Escenario: Acceso a sección para fans</strong><br>
+        <strong>Dado que</strong> el visitante accede a la landing page,<br>
+        <strong>Cuando</strong> visualiza la sección "Para fans de la música"<br>
+        <strong>Entonces</strong> puede leer los beneficios de unirse a la app.<br><br>
+        <strong>Escenario: Decisión de registro influenciada por beneficios</strong><br>
+        <strong>Dado que</strong> el visitante revisa los beneficios presentados<br>
+        <strong>Cuando</strong> encuentra opciones que se alinean con sus intereses<br>
+        <strong>Entonces</strong> aumenta su intención de registrarse en la plataforma
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Ver beneficios para artista</td>
+      <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
+      <td>
+        <strong>Escenario: Acceso a sección para artistas</strong><br>
+        <strong>Dado que</strong> el visitante está en la landing page<br>
+        <strong>Cuando</strong> revisa la sección "Para artistas"<br>
+        <strong>Entonces</strong> puede visualizar herramientas y ventajas destacadas.<br><br>
+        <strong>Escenario: Evaluación del valor de la app</strong><br>
+        <strong>Dado que</strong> el visitante es un artista emergente<br>
+        <strong>Cuando</strong> analiza las herramientas promocionales disponibles<br>
+        <strong>Entonces</strong> comprende cómo StayMap puede ayudarle a crecer
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Acceder a testimonios</td>
+      <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app</td>
+      <td>
+        <strong>Escenario: Visualización de comentarios de usuarios</strong><br>
+        <strong>Dado que</strong> el visitante navega por la landing<br>
+        <strong>Cuando</strong> encuentra la sección de testimonios<br>
+        <strong>Entonces</strong> puede leer comentarios y valoraciones de otros usuarios.<br><br>
+        <strong>Escenario: Confianza reforzada por experiencias ajenas</strong><br>
+        <strong>Dado que</strong> el visitante tiene dudas sobre la app<br>
+        <strong>Cuando</strong> lee testimonios positivos<br>
+        <strong>Entonces</strong> se siente más confiado para unirse.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registrarse en la landing page</td>
+      <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
+      <td>
+        <strong>Escenario: Botón de registro visible en la landing</strong><br>
+        <strong>Dado que</strong> el visitante accede a la landing page<br>
+        <strong>Cuando</strong> navega por el contenido<br>
+        <strong>Entonces</strong> encuentra un botón destacado y accesible con la etiqueta "Registrarse".<br><br>
+        <strong>Escenario: Redirección inmediata al formulario de registro</strong><br>
+        <strong>Dado que</strong> el visitante hace clic en el botón "Registrarse"<br>
+        <strong>Cuando</strong> se redirige al formulario de creación de cuenta<br>
+        <strong>Entonces</strong> puede ingresar sus datos para crear su cuenta.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Iniciar sesión en la landing page</td>
+      <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
+      <td>
+        <strong>Escenario: Botón de inicio de sesión accesible en la landing</strong><br>
+        <strong>Dado que</strong> el visitante ya tiene cuenta<br>
+        <strong>Cuando</strong> accede a la landing page<br>
+        <strong>Entonces</strong> encuentra un botón o enlace con la etiqueta "Iniciar sesión".<br><br>
+        <strong>Escenario: Redirección al login</strong><br>
+        <strong>Dado que</strong> el visitante hace clic en "Iniciar sesión"<br>
+        <strong>Cuando</strong> se redirige al formulario correspondiente<br>
+        <strong>Entonces</strong> puede ingresar sus credenciales para acceder a su perfil.
+      </td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Explorar eventos cercanos</td>
+      <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
+      <td>
+        <strong>Escenario: Visualización de eventos geolocalizados</strong><br>
+        <strong>Dado que</strong> el usuario está logueado<br>
+        <strong>Cuando</strong> accede al mapa interactivo<br>
+        <strong>Entonces</strong> visualiza los eventos en su área geográfica.<br><br>
+        <strong>Escenario: Uso del mapa para tomar decisiones</strong><br>
+        <strong>Dado que</strong> el usuario desea asistir a conciertos<br>
+        <strong>Cuando</strong> observa la oferta de eventos cercana<br>
+        <strong>Entonces</strong> puede elegir con mayor facilidad.
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Filtrar eventos por género musical</td>
+      <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
+      <td>
+        <strong>Escenario: Uso del filtro de género</strong><br>
+        <strong>Dado que</strong> el usuario abre los filtros<br>
+        <strong>Cuando</strong> selecciona un género<br>
+        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario: Interacción fluida con el filtrado</strong><br>
+        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
+        <strong>Cuando</strong> se elige uno<br>
+        <strong>Entonces</strong> la vista se actualiza dinámicamente.
+      </td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Recibir notificaciones de artistas favoritos</td>
+      <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
+      <td>
+        <strong>Escenario: Seguimiento de artista favorito</strong><br>
+        <strong>Dado que</strong> el usuario sigue a un artista<br>
+        <strong>Cuando</strong> el usuario sigue a un artista<br>
+        <strong>Entonces</strong> recibe una notificación inmediata.<br><br>
+        <strong>Escenario: Notificación oportuna y relevante</strong><br>
+        <strong>Dado que</strong> la notificación es enviada<br>
+        <strong>Cuando</strong> el evento es reciente y cercano<br>
+        <strong>Entonces</strong> el usuario tiene tiempo suficiente para asistir.
+      </td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Compartir asistencia a un concierto</td>
+      <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
+      <td>
+        <strong>Escenario: Confirmación de asistencia</strong><br>
+        <strong>Dado que</strong> el usuario accede a un evento<br>
+        <strong>Cuando</strong> presiona "Asistiré"<br>
+        <strong>Entonces</strong> se registra su asistencia.<br><br>
+        <strong>Escenario: Compartir en redes o con amigos</strong><br>
+        <strong>Dado que</strong> se confirmó asistencia<br>
+        <strong>Cuando</strong> el usuario desea compartirlo<br>
+        <strong>Entonces</strong> puede hacerlo por redes o dentro de la app.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Calificar un evento asistido</td>
+      <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
+      <td>
+        <strong>Escenario: Acceso a evento pasado</strong><br>
+        <strong>Dado que</strong> el usuario asistió a un evento<br>
+        <strong>Cuando</strong> accede al historial o evento pasado<br>
+        <strong>Entonces</strong> puede dejar una valoración y comentario.<br><br>
+        <strong>Escenario: Comentario visible para la comunidad</strong><br>
+        <strong>Dado que</strong> la valoración ha sido enviada<br>
+        <strong>Cuando</strong> otros usuarios exploran ese evento<br>
+        <strong>Entonces</strong> pueden leer la experiencia compartida.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Publicar nuevo concierto</td>
+      <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
+      <td>
+        <strong>Escenario: Acceso al formulario de creación de evento</strong><br>
+        <strong>Dado que</strong> el artista inicia sesión<br>
+        <strong>Cuando</strong> accede a "Crear evento"<br>
+        <strong>Entonces</strong> puede ingresar datos y publicarlo en el mapa.<br><br>
+        <strong>Escenario: Publicación inmediata y visible</strong><br>
+        <strong>Dado que</strong> los datos son válidos<br>
+        <strong>Cuando</strong> se confirma la creación<br>
+        <strong>Entonces</strong> el evento aparece visible en la plataforma.
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Medir asistencia estimada</td>
+      <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
+      <td>
+        <strong>Escenario: Visualización de estadísticas de evento</strong><br>
+        <strong>Dado que</strong> el evento está publicado<br>
+        <strong>Cuando</strong> abre las estadísticas<br>
+        <strong>Entonces</strong> visualiza el número de asistentes confirmados.<br><br>
+        <strong>Escenario: Reacción ante datos en tiempo real</strong><br>
+        <strong>Dado que</strong> los usuarios marcan "Asistiré"<br>
+        <strong>Cuando</strong> se actualizan los datos<br>
+        <strong>Entonces</strong> el artista ve reflejado el interés real.
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>US13</td>
+      <td>Personalizar perfil de artista</td>
+      <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
+      <td>
+        <strong>Escenario: Edición del perfil</strong><br>
+        <strong>Dado que</strong> el artista abre su perfil<br>
+        <strong>Cuando</strong> edita sus datos<br>
+        <strong>Entonces</strong> puede agregar enlaces, descripción y foto.<br><br>
+        <strong>Escenario: Atractivo visual para fans</strong><br>
+        <strong>Dado que</strong> el perfil ha sido personalizado<br>
+        <strong>Cuando</strong> un fan lo visita<br>
+        <strong>Entonces</strong> puede conocer mejor al artista.
+      </td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Crear comunidad con seguidores</td>
+      <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
+      <td>
+        <strong>Escenario: Acceso a lista de seguidores</strong><br>
+        <strong>Dado que</strong> el artista accede a su perfil<br>
+        <strong>Cuando</strong> visualiza la lista de seguidores<br>
+        <strong>Entonces</strong> puede ver quiénes lo siguen.<br><br>
+        <strong>Escenario: Envío de mensajes o actualizaciones</strong><br>
+        <strong>Dado que</strong> el artista desea interactuar<br>
+        <strong>Cuando</strong> selecciona un seguidor<br>
+        <strong>Entonces</strong> puede enviar mensajes o novedades.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Ingresar a comunidad de fans</td>
+      <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
+      <td>
+        <strong>Escenario: Acceso a la comunidad</strong><br>
+        <strong>Dado que</strong> el usuario es un fan autenticado<br>
+        <strong>Cuando</strong> accede a la sección "Comunidad"<br>
+        <strong>Entonces</strong> puede unirse y participar en grupos temáticos o de eventos.<br><br>
+        <strong>Escenario: Interacción dentro de la comunidad</strong><br>
+        <strong>Dado que</strong> el fan ya forma parte de la comunidad<br>
+        <strong>Cuando</strong> publica un mensaje o comenta<br>
+        <strong>Entonces</strong> su contenido es visible para otros miembros.
+      </td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Ver mapa con geolocalización</td>
+      <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
+      <td>
+        <strong>Escenario: Visualización del mapa con eventos</strong><br>
+        <strong>Dado que</strong> el usuario está logueado y ha permitido el acceso a su ubicación<br>
+        <strong>Cuando</strong> entra a la sección de mapa<br>
+        <strong>Entonces</strong> visualiza su ubicación y los conciertos cercanos.<br><br>
+        <strong>Escenario: Información de eventos en el mapa</strong><br>
+        <strong>Dado que</strong> el usuario interactúa con un marcador de evento<br>
+        <strong>Cuando</strong> hace clic en un ícono del mapa<br>
+        <strong>Entonces</strong> puede ver detalles del evento como nombre, hora y lugar.
+      </td>
+      <td>EP01</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Technical Stories:
+
+
+| Story ID | Título                              | Descripción                                                                 | Criterios de Aceptación                | Relacionado con (Epic ID) |
+|----------|-------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| TS-01    | Endpoint para crear eventos         | Como developer, quiero un endpoint POST para crear eventos musicales        | **Escenario: Creación exitosa de evento (POST)**  <br> Dado que el cliente envía una petición POST a /api/events con body válido <br> Cuando los datos están completos <br> Entonces el servidor responde 201 y guarda el evento <br><br> **Escenario: Respuesta con evento registrado** <br> Dado que el evento fue creado <br> Cuando se revisa la base de datos <br> Entonces aparece con los campos ingresados | EP6                        |
+| TS-02    | Endpoint para obtener eventos por ubicación | Como developer, quiero un endpoint GET que devuelva eventos cerca de una lat/lon | **Escenario: Consulta exitosa por lat/lon (GET)** <br> Dado que el usuario envía lat/lon como query params <br> Cuando hay eventos cercanos <br> Entonces devuelve una lista de eventos georreferenciados <br><br> **Escenario: Consulta sin resultados** <br> Dado que no hay eventos en la zona <br> Cuando se hace la petición <br> Entonces el servidor responde con lista vacía | EP6                        |
+| TS-03    | Endpoint para seguir artistas       | Como developer, quiero permitir que un usuario siga a un artista            | **Escenario: Seguimiento exitoso** <br> Dado que el usuario está autenticado <br> Cuando envía PUT a /api/follow/{artist_id} <br> Entonces se almacena el seguimiento y se actualiza la lista <br><br> **Escenario: Prevención de duplicados** <br> Dado que el usuario ya sigue al artista <br> Cuando intenta seguirlo nuevamente <br> Entonces se evita el duplicado y se mantiene una sola relación | EP6                        |
+| TS-04    | Endpoint para recibir notificaciones| Como developer, quiero permitir que el backend envíe notificaciones push al usuario | **Escenario: Notificación enviada** <br> Dado que un evento relevante ocurre <br> Cuando el usuario está suscrito a notificaciones <br> Entonces se envía una notificación a su dispositivo <br><br> **Escenario: Usuario no suscrito** <br> Dado que el usuario no tiene activadas las notificaciones <br> Cuando ocurre un evento relevante <br> Entonces no se envía ninguna alerta | EP6                        |
+| TS-05    | Endpoint para registrar asistencia  | Como developer, quiero que los usuarios puedan confirmar asistencia a eventos | **Escenario: Confirmación registrada** <br> Dado que el usuario hace clic en "Asistiré" <br> Cuando se envía el POST <br> Entonces se actualiza el conteo en la base de datos <br><br> **Escenario: Asistencia ya registrada** <br> Dado que el usuario ya marcó su asistencia <br> Cuando intenta hacerlo otra vez <br> Entonces se impide duplicar el registro | EP6                        |
+| TS-06    | Endpoint para valorar un evento     | Como developer, quiero permitir que el usuario envíe una calificación y comentario | **Escenario: Envío de valoración válida** <br> Dado que el evento ya ocurrió <br> Cuando el usuario hace un POST con la valoración <br> Entonces se guarda en la base de datos y se actualiza el perfil del evento <br><br> **Escenario: Prevención de múltiples valoraciones** <br> Dado que el usuario ya dejó una valoración <br> Cuando intenta enviar otra <br> Entonces se muestra un mensaje de error o se actualiza la anterior | EP6                        |
+| TS-07    | Validaciones para crear eventos     | Como developer, quiero validar que los campos obligatorios estén presentes al crear eventos | **Escenario: Body incompleto al crear evento** <br> Dado que el body del POST está incompleto <br> Cuando falta título o ubicación <br> Entonces el servidor responde con 400 Bad Request y el error correspondiente <br><br> **Escenario: Datos correctos aceptados** <br> Dado que el body contiene todos los campos requeridos <br> Cuando se realiza el POST <br> Entonces el servidor responde con éxito | EP6                        |
+
+
+# 3.3. Impact Mapping
+
+
+**Fans de la Música:**
+
+<p align="center">
+<img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
+</p>
+**Artistas emergentes y bandas independientes:**
+
+<p align="center">
+<img src="assets/impact_mapping/Impact-Mapping-Artista.png" alt="impact mapping Artista" style="width: 700px">
+</p>
+
+# 3.4. Product Backlog
+
+<div class="product-backlog">
+  <h3>3.4. Product Backlog</h3>
+  
+  <table class="backlog-table">
+    <thead>
+      <tr>
+        <th># Orden</th>
+        <th>User Story Id</th>
+        <th>Título</th>
+        <th>Description</th>
+        <th>Story Points<br>(1/2/3/5/8)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!--  User Stories -->
+      <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>Ver beneficios para fans</td>
+        <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>US02</td>
+        <td>Ver beneficios para artista</td>
+        <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>US03</td>
+        <td>Acceder a testimonios</td>
+        <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>US04</td>
+        <td>Registrarse en la landing page</td>
+        <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>US05</td>
+        <td>Iniciar sesión en la landing page</td>
+        <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>US06</td>
+        <td>Explorar eventos cercanos</td>
+        <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>US07</td>
+        <td>Filtrar eventos por género musical</td>
+        <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>US08</td>
+        <td>Recibir notificaciones de artistas favoritos</td>
+        <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>US09</td>
+        <td>Compartir asistencia a un concierto</td>
+        <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>US10</td>
+        <td>Calificar un evento asistido</td>
+        <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>US11</td>
+        <td>Publicar nuevo concierto</td>
+        <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>US12</td>
+        <td>Medir asistencia estimada</td>
+        <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>US13</td>
+        <td>Personalizar perfil de artista</td>
+        <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>US14</td>
+        <td>Crear comunidad con seguidores</td>
+        <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>US15</td>
+        <td>Ingresar a comunidad de fans</td>
+        <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>US16</td>
+        <td>Ver mapa con geolocalización</td>
+        <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
+        <td>8</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 # Capítulo IV: Product Design
 
 # 4.1. Style Guidelines
