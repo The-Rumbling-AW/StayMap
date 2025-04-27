@@ -917,6 +917,60 @@ Estas son las principales secciones de navegación:
 
 Esta estructura de navegación garantiza que tanto los fans como los artistas encuentren valor en cada interacción con la plataforma, promoviendo una experiencia musical accesible, personalizada y eficiente.
 
+# 4.3. Landing Page UI Design
+
+La propuesta de UI para la Landing Page de StayMap refleja un diseño centrado en el usuario, enfocado en facilitar el acceso inmediato a la oferta musical y los beneficios de la plataforma tanto para fans como para artistas. La arquitectura de la información garantiza que los usuarios puedan encontrar rápidamente eventos, artistas destacados y funcionalidades clave como el filtrado por género musical o la barra de búsqueda de conciertos.
+
+Además, las decisiones tomadas en torno a los sistemas de organización, etiquetado, búsqueda y navegación optimizan la experiencia general, permitiendo que cada visitante explore fácilmente la plataforma desde su primera interacción. La landing transmite un equilibrio entre estilo moderno, accesibilidad y pasión por la música, captando la atención de nuevos usuarios y promoviendo una navegación clara, rápida y efectiva.
+
+## 4.3.1. Landing Page Wireframe
+
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-inicio.png" alt="StayMap Landing Page Wireframe Inicio" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-fans.png" alt="StayMap Landing Page Wireframe Fans" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-wireframe-artistas.png" alt="StayMap Landing Page Wireframe Artistas" style="width: 80%">
+</div>
+
+## 4.3.2. Landing Page Mock-up
+
+**Web:**
+
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-inicio.png" alt="StayMap Landing Page Mockup Inicio" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-fans.png" alt="StayMap Landing Page Mockup Fans" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-artista.png" alt="StayMap Landing Page Mockup Artistas" style="width: 80%">
+</div>
+
+
+**Mobile:**
+
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-inicio.png" alt="StayMap Landing Page Mockup Mobile Inicio" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-menu.png" alt="StayMap Landing Page Mockup Mobile Menu" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-fans.png" alt="StayMap Landing Page Mockup Mobile Fans" style="width: 80%">
+</div>
+<div align="center">
+<img src="assets/landing_page_ui_desing/landing-page-mockup-mobile-artistas.png" alt="StayMap Landing Page Mockup Mobile Artistas" style="width: 80%">
+</div>
+
+- En la sección de “Para fans” podrás encontrar los beneficios de los usuarios que se registren como fans en StayMap.
+- En la sección de “Para artistas” podrás encontrar los beneficios de los usuarios que se registren como artistas en StayMap.
+- Como pie de página se muestra un formulario para suscribirse al newsletter y las diferentes secciones de nuestra landing page.
+
+
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
