@@ -383,6 +383,21 @@ Conexión con expertos y comunidad
 - Fluidez en la experiencia, con transiciones suaves, botones accesibles y navegación simple.
 - Alta confiabilidad en los datos mostrados y bajo margen de error en recomendaciones.
 
+**Business Outcomes**
+- Convertirse en la aplicación de referencia para movilizarse de forma segura y emocionalmente coherente con el usuario.
+- Establecer alianzas con ONGs, municipalidades, plataformas turísticas y de seguridad ciudadana.
+- Recolectar datos anónimos que aporten a la mejora del diseño urbano y políticas públicas de bienestar ciudadano.
+- Ser pioneros en una nueva categoría de apps: navegación inteligente y segura.
+- Crear un ecosistema de servicios y datos donde StayMap se posicione como punto de conexión entre usuarios, ciudades y experiencias positivas.
+  
+**User Outcomes**
+- Mayor facilidad para descubrir conciertos en vivo, especialmente de artistas emergentes e independientes.
+- Acceso rápido a información actualizada sobre eventos musicales cercanos.
+- Incremento en la asistencia a conciertos que se alinean con sus gustos musicales y disponibilidad.
+- Mejora en la visibilidad y alcance de artistas, cantantes y bandas independientes o formales.
+- Conexión más directa entre fans y artistas mediante notificaciones personalizadas y herramientas de descubrimiento.
+- Reducción de la desconexión entre la oferta musical local y los potenciales asistentes.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
