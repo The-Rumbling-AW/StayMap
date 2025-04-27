@@ -187,7 +187,7 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1: Desarrollé la Landing Page de STAYMAP, como modelo inicial en figma, enfocándome en un diseño atractivo y funcional. Mi objetivo fue comunicar claramente el propósito de la plataforma a los usuarios potenciales y recoger sus primeras impresiones.<br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Elaboré el Modelo C4 de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos.<br>
+        TB1: Elaboré el Modelo C4 y diagrama de clases UML de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos.<br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Diseñé la base de datos de STAYMAP, definiendo las tablas, relaciones y consultas principales. Mi trabajo aseguró que los datos se almacenaran de manera eficiente y estuvieran listos para su implementación.<br>
         <strong>Zúñiga Murillo, Diego Sebastián</strong><br>
