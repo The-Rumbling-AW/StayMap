@@ -242,6 +242,8 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
 
 # Project Report Collaboration Insights
 
+URL del repositorio de "StayMap": https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW.git
+
 # CAPÍTULO I: INTRODUCCIÓN
 
 # 1.1. Startup Profile
@@ -2593,7 +2595,7 @@ Sección de Para Artistas:
   <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
 </div>
 
-**Enlace de la Landing Page:** https://the-rumbling.github.io/StayMap-Landing_Page/
+**Enlace de la Landing Page:** https://the-rumbling-aw.github.io/StayMap_Landing_PageAW/
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
