@@ -235,3 +235,51 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
     </tr>
   </tbody>
 </table>
+
+
+1. Repositorio creado en GitHub:
+
+<div align="center">
+  <img src="assets/capturas/captura-repositorio.png" alt="repositorio" style="width: 80%">
+</div>
+
+2. Configuración de Git y primer Push:
+
+<div align="center">
+  <img src="assets/capturas/captura-bash.png" alt="bash" style="width: 80%">
+</div>
+
+3. Configuración de GitHub Pages:
+
+<div align="center">
+  <img src="assets/capturas/captura-pages.png" alt="pages" style="width: 80%">
+</div>
+
+4. Landing Page publicada:
+
+<div align="center">
+  <img src="assets/capturas/captura-landing.png" alt="landing" style="width: 80%">
+</div>
+
+### 5.2.1.7. Team Collaboration Insights during Sprint
+
+Desarrollo de Actividades de Implementación:
+Durante este Sprint, el equipo trabajó de manera colaborativa para la implementación de la Landing Page del proyecto. Las tareas principales incluyeron:
+
+	- Diseño y estructuración del contenido HTML.
+
+	- Aplicación de estilos CSS para el diseño visual.
+
+	- Configuración del entorno local de desarrollo.
+
+	- Uso de Git para control de versiones.
+
+	- Coordinación para el despliegue de la Landing Page mediante GitHub Pages.
+
+La colaboración se realizó principalmente a través de GitHub, donde cada miembro del equipo realizó commits documentando los avances individuales y contribuyendo al repositorio compartido. Se fomentó la revisión mutua de cambios y la sincronización de actividades para garantizar una entrega integrada y de calidad.
+
+**Gráficos de colaboración (GitHub Insights):**
+
+
+
+Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
