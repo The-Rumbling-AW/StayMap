@@ -395,6 +395,7 @@ Estrategia: Facilitar el descubrimiento espontáneo de conciertos cercanos al us
 
 Táctica: Implementar un mapa interactivo que muestre eventos activos cerca del usuario con filtros por género, horario y tipo de artista
 
+
 **- Alianzas con agentes locales**
 
 Estrategia: Fortalecer la oferta de eventos mediante colaboraciones directas con organizadores independientes
