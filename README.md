@@ -2661,6 +2661,42 @@ La colaboración se realizó principalmente a través de GitHub, donde cada miem
 
 **Gráficos de colaboración (GitHub Insights):**
 
-
-
 Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
+
+# Avance de Conclusiones, Bibliografía y Anexos
+
+
+# Conclusiones
+
+-	El proyecto StayMap surge como una respuesta innovadora a los desafíos del ecosistema de música en vivo, posicionándose como un puente tecnológico entre artistas emergentes y audiencias ávidas de experiencias auténticas. Su modelo basado en geolocalización y personalización moderniza el descubrimiento musical y redefine los parámetros de conexión entre creadores y consumidores culturales. La plataforma demuestra cómo la tecnología aplicada con visión social puede revitalizar industrias tradicionales, esto genera un impacto que trasciende lo comercial para instalarse en el terreno del desarrollo cultural comunitario.
+-	La implementación de StayMap genera efectos positivos en múltiples niveles: para los usuarios, simplifica el acceso a contenidos culturales relevantes; para los artistas independientes, democratiza las oportunidades de exposición; y para la industria en general, contribuye a formalizar y visibilizar el segmento de eventos pequeños y medianos. Los datos revelan que esta solución llega en un momento crítico, cuando el 99.9% de los nuevos artistas lucha por visibilidad en un mercado saturado, mientras que los consumidores demandan cada vez más experiencias personalizadas y localizadas. La plataforma se convierte así en un catalizador para equilibrar esta ecuación desfavorable.
+-	La arquitectura flexible de StayMap permite su expansión a mercados diversos, desde ciudades latinoamericanas con vibrantes escenas independientes hasta metrópolis globales con alta densidad de eventos. Su modelo puede adaptarse a particularidades regionales (como géneros musicales predominantes, hábitos de consumo o infraestructura de eventos), mientras mantiene su esencia como herramienta de descubrimiento. Las proyecciones de crecimiento del mercado de artistas independientes (7.46% CAGR según Mordor Intelligence) sugieren un terreno fértil para esta solución, con posibilidad de escalar verticalmente (profundizando en servicios para artistas) y horizontalmente (expandirse a nuevas regiones).
+-	Más allá de su función práctica, StayMap se erige como instrumento para el desarrollo de capital cultural urbano. Al hacer visible la oferta musical dispersa, la plataforma contribuye a dinamizar economías locales (bares, salas de concierto), fomentar turismo cultural y fortalecer identidades comunitarias. Su énfasis en eventos independientes ayuda a descentralizar la cultura de grandes promotores, democratizando el acceso a espacios públicos y generando nuevas rutinas de consumo cultural. En el largo plazo, este tipo de iniciativas pueden influir en políticas públicas relacionadas con gestión cultural y desarrollo de industrias creativas locales.
+-	El éxito sostenible de StayMap dependerá de su capacidad para mantener un equilibrio entre las necesidades de sus múltiples stakeholders: usuarios exigentes de experiencias digitales fluidas, artistas necesitados de herramientas efectivas pero simples, y socios comerciales (como locales y promotores) que buscan retorno tangible. Desafíos como la calidad de los datos en tiempo real, la monetización sin afectar la experiencia de usuario, y la creación de una comunidad activa requerirán iteraciones constantes. Sin embargo, el proyecto se posiciona favorablemente en un momento donde la convergencia entre tecnología móvil, consumo experiencial y apoyo a creadores independientes crea condiciones ideales para su adopción masiva.
+
+# Anexos
+
+- As is y To be scenario: https://miro.com/app/board/uXjVLbCX2lg=/
+
+- User Personas: https://www.canva.com/design/DAGPeEqmyeA/L9wnJC-9PFCQaduEDKvmPQ/edit?utm_content=DAGPeEqmyeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- User Journey Mapping: https://www.canva.com/design/DAGk8-I0Hrg/xJaTzrcNYGSHJ6VSb8zFfQ/edit?utm_content=DAGk8-I0Hrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- Impact Mapping: https://www.canva.com/design/DAGk9rcKRI8/ZQ2ST5mLQJLqqllDFvBzKg/edit
+
+- Wireflow Diagrams: https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546
+
+- User Flow Diagrams: https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc
+
+# Bibliografía
+
+- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
+
+- Ramos-Pla, A., Ramírez-Montoya, M. S., & García-Peñalvo, F. J. (2022). Consumo musical y su relación con la asistencia a conciertos entre universitarios. Revista de Comunicación, 21(2). https://www.redalyc.org/journal/280/28065583023/html/
+
+- Chartmetric. (2023). Year in music 2023: Part 1. Chartmetric. https://reports.chartmetric.com/2023/year-in-music/part-1
+
+- Industriamusical.com. (2024). Solo el 0.01% de los artistas emergentes alcanza niveles moderados de éxito. https://industriamusical.com/solo-el-0-01-de-los-artistas-emergentes-alcanza-niveles-moderados-de-exito/
+Mordor Intelligence. (2024). Análisis del mercado de artistas independientes - crecimiento, tendencias y pronósticos (2024-2029). https://www.mordorintelligence.com/es/industry-reports/independent-artists
+
+- GlobeNewswire. (2025). Music Tourism Market Analysis Report 2024: Specialized Music Festivals, Expanding Offering, Niche Genres, and Unique Cultural Experiences – Global Long-term Forecast to 2028 and 2033. https://www.globenewswire.com/news-release/2025/01/07/3005534/28124/en/Music-Tourism-Market-Analysis-Report-2024-Specialized-Music-Festivals-Expanding-Offering-Niche-Genres-and-Unique-Cultural-Experiences-Global-Long-term-Forecast-to-2028-and-2033.html
