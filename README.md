@@ -337,6 +337,18 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 - Puede utilizarse al planificar una salida, durante una caminata, mientras se viaja o simplemente para descubrir nuevos espacios alineados con su estilo de vida.
 - Funcionará como una guía personalizada que acompaña al usuario constantemente, facilitando la exploración urbana y la conexión con experiencias que realmente le interesan.
 
+**¿Qué problemas tiene nuestro producto?**
+- Falta de información confiable y en tiempo real sobre la seguridad, ambiente o calidad de los lugares públicos.
+- Inseguridad urbana o zonas desconocidas que pueden generar ansiedad al moverse sin una guía confiable.
+- Escasez de soluciones intuitivas que integren datos, bienestar y mapas personalizados de forma sencilla para el usuario común.
+
+**¿Cuándo y cómo es nuestro producto utilizado?**
+- StayMap se usa cuando las personas están por salir y quieren conocer un nuevo lugar..
+- A lo largo del día: durante el trabajo, caminatas, paseos, o al momento de organizar actividades personales.
+- Disponible en móviles y web, debe ser intuitiva y accesible para usuarios con distintos niveles de experiencia tecnológica.
+
+
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
