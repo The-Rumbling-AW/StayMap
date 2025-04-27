@@ -1191,6 +1191,45 @@ Notificaciones:
   <img src="assets/web_application/web_applications_uxui_desing_userflow_4.png" alt="Web Application Userflow 4" style="width: 80%">
 </div>
 
+# 4.5. Web Applications Prototyping
+
+|Tipo|Link del video|
+|---|--------------|
+|Desktop|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+|Mobile|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+
+Estos videos muestran los prototipos interactivos de StayMap para navegador web en versiones desktop y mobile, destacando cómo se han aplicado principios clave de arquitectura de información y decisiones de diseño centradas en el usuario.
+La simulación inicia con una introducción al sistema de navegación, explicando cómo se estructura la información para garantizar una experiencia clara y personalizada tanto para fans de la música como para artistas emergentes. Se evidencian las decisiones relacionadas con:
+
+- Organización jerárquica y temática del contenido, permitiendo explorar conciertos por ubicación, género, fecha y popularidad.
+
+- Sistemas de etiquetado claros y funcionales, como Conciertos, Para Fans, Para Artistas, Filtro y Mapa Interactivo.
+
+- Sistemas de navegación que conectan eficientemente cada sección, optimizando la exploración y el acceso a eventos relevantes.
+
+Se presenta la interacción fluida entre secciones y se simulan caminos típicos del usuario según los User Flow Diagrams propuestos, como descubrir conciertos cercanos, gestionar eventos favoritos y acceder a beneficios exclusivos.
+Este prototipo demuestra cómo StayMap traduce la arquitectura de información en una experiencia visual intuitiva y coherente, adaptada a las necesidades reales de los usuarios en distintos dispositivos.
+
+# 4.6. Domain-Driven Software Architecture
+
+## 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="assets/c4_model/context-diagram.png" alt="C4 Context Diagram" style="width: 80%">
+</div>
+
+## 4.6.2. Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="assets/c4_model/container-diagram.png" alt="C4 Container Diagram" style="width: 80%">
+</div>
+
+## 4.6.3. Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="assets/c4_model/component-diagram.png" alt="C4 Components Diagram" style="width: 80%">
+</div>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
