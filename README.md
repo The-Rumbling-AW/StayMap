@@ -347,6 +347,19 @@ Creemos que nuestros usuarios son personas jóvenes, adultos y turistas cultural
 - A lo largo del día: durante el trabajo, caminatas, paseos, o al momento de organizar actividades personales.
 - Disponible en móviles y web, debe ser intuitiva y accesible para usuarios con distintos niveles de experiencia tecnológica.
 
+**¿Qué características son importantes?**
+- Mapas interactivos y personalizados según los géneros musicales favoritos del usuario, mostrando eventos y conciertos en zonas cercanas.
+- Información en tiempo real sobre afluencia estimada, accesibilidad y ambiente del evento, permitiendo una mejor planificación.
+- Alertas contextuales sobre cambios relevantes en los conciertos (como hora, lugar o disponibilidad de entradas).
+- Recomendaciones musicales basadas en gustos del usuario, historial de asistencia y ubicación actual.
+- Sistema de perfiles personalizados para fans y artistas, con beneficios únicos según su rol en la comunidad.
+  
+**Objetivos**
+- Facilitar el descubrimiento de eventos cercanos: Ayudar a los usuarios a encontrar conciertos y actividades musicales de forma personalizada y rápida.
+- Impulsar la conexión entre fans y artistas: Crear una red activa donde los fans puedan seguir sus artistas favoritos, recibir alertas y acceder a beneficios exclusivos.
+- Convertir la movilidad urbana en una experiencia musical enriquecedora: Transformar el modo en que los usuarios se mueven por la ciudad, conectando lugares con emociones, música y comunidad.
+- Promover la participación activa en la escena local: Fomentar que los usuarios asistan a más eventos, descubran artistas emergentes y compartan sus experiencias.
+
 
 
 # CAPÍTULO II: Requirements Elicitation & Analysis
