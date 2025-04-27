@@ -59,7 +59,7 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 	- Zegarra Lopez, Renato Sebastian Rubber <br> 
 	- Zúñiga Murillo, Diego Sebastian <br>
       </td>
-      <td></td>
+      <td>Se ha llevado a cabo un trabajo integral que abarca desde la investigación inicial hasta las primeras fases de diseño del producto.Se han realizado entrevistas y análisis de usuarios para comprender mejor las necesidades y expectativas del público objetivo, lo que ha permitido definir de manera clara el enfoque de la solución.Además, se ha trabajado en la construcción de perfiles de usuario, journey maps, mapas de empatía y escenarios, fortaleciendo así la comprensión de la experiencia del usuario.Posteriormente, se elaboraron wireframes, mockups y diagramas de arquitectura de información y software, estableciendo una base visual y técnica para el desarrollo de la aplicación.Todo este proceso ha sido clave para estructurar adecuadamente el producto, alineándolo tanto a las necesidades detectadas como a los objetivos estratégicos del proyecto.Actualmente, el equipo cuenta con una visión sólida y organizada que guiará las próximas etapas de prototipado, validación e implementación.</td>
     </tr>
     <tr>
       <td>TP</td>
@@ -1230,6 +1230,66 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
   <img src="assets/c4_model/component-diagram.png" alt="C4 Components Diagram" style="width: 80%">
 </div>
 
+# 4.7. Software Object-Oriented Design
+
+## 4.7.1. Class Diagrams
+
+<div align="center">
+  <img src="assets/class_diagram/class_diagram.png" alt="UML Class Diagram" style="width: 80%">
+</div>
+
+## 4.7.2. Class Dictionary
+
+|Clase|Nombre de atributo|Descripcion|Tipo de dato|
+|-----|------------------|-----------|------------|
+|Mapa |id|Identificador del mapa|Ubicacion|
+|Mapa|ubicacion|Ubicación geográfica del mapa|Ubicacion|
+|Mapa|conciertos|Lista de conciertos en el mapa|list<Concierto>|
+|Recinto|id|Identificador del recinto|string|
+|Recinto|nombre|Nombre del recinto|string|
+|Recinto|ubicacion|Ubicación del recinto|Ubicacion|
+|PromocionConcierto|id|Identificador de la promoción|string|
+|PromocionConcierto|conciertoId|Identificador del concierto asociado|string|
+|PromocionConcierto|fechaInicio|Fecha de inicio de la promoción|string|
+|PromocionConcierto|fechaFin|Fecha de fin de la promoción|string|
+|PromocionConcierto|vigente|Estado vigente de la promoción|boolean|
+|PromocionConcierto|descripcion|Descripción de la promoción|string|
+|Concierto|id|Identificador del concierto|string|
+|Concierto|idRecinto|Identificador del recinto|string|
+|Concierto|artista|Artista que se presenta|Artista|
+|Ubicacion|ciudad|Ciudad de la ubicación|string|
+|Ubicacion|pais|País de la ubicación|string|
+|Comentario|id|Identificador del comentario|string|
+|Comentario|idConcierto|Identificador del concierto comentado|string|
+|Comentario|idUsuario|Identificador del usuario que comenta|string|
+|Comentario|valoracion|Valoración numérica del comentario|int|
+|Usuario|id|Identificador del usuario|string|
+|Usuario|name|Nombre del usuario|string|
+|Usuario|email|Email del usuario|string|
+|Usuario|ubicacion|Ubicación del usuario|Ubicacion|
+|Fan|conciertosAsistidos|Lista de conciertos asistidos|List<Concierto>|
+|Comunidad|id|Identificador de la comunidad|string|
+|Comunidad|nombre|Nombre de la comunidad|string|
+|Comunidad|descripcion|Descripción de la comunidad|string|
+|Comunidad|artista|Artista asociado a la comunidad|Artista|
+|Comunidad|miembros|Lista de fans miembros|List<Fan>|
+|ControladorNotificaciones|(atributo interno) obj|Estrategia de notificación usada|NotificacionStrategy|
+|CheckIn|id|Identificador del check-in|string|
+|CheckIn|objUsuario|Usuario que realiza el check-in|Usuario|
+|CheckIn|objConcierto|Concierto donde se realiza el check-in|Concierto|
+|CheckIn|asistencia|Estado de asistencia|bool|
+|GestionConciertos|conciertos|Lista de conciertos administrados|List<Concierto>|
+|Artista|biografia|Biografia del artista|String|
+
+# 4.8. Database Design
+
+# 4.8.1. Database Diagram
+
+<div align="center">
+  <img src="assets/database_diagram/database_diagram.png" alt="Database Diagram" style="width: 80%">
+</div>
+
+En la base de datos de StayMap, el modelo lógico define la tabla usuario, cuyos registros pueden ser simplemente usuarios o convertirse en fans o artistas. Si un usuario es artista, tiene la posibilidad de organizar cero, uno o varios conciertos. La tabla organizar_concierto se conecta de forma uno a uno con concierto, ya que cada organización corresponde a un solo evento. A su vez, los conciertos están asociados a un recinto, donde un concierto se realiza en un único recinto, pero un recinto puede albergar muchos conciertos a lo largo del tiempo. Los usuarios pueden consultar los conciertos cercanos y también guardar aquellos conciertos a los que planean asistir o los que ya han asistido, todo esto mediante relaciones de uno a muchos con la tabla de conciertos. Además, los fans pueden unirse a cero o muchas comunidades, dejar múltiples comentarios sobre conciertos o artistas, y también calificar tanto a los conciertos como a los artistas.
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
