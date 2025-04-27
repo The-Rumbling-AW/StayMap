@@ -493,6 +493,21 @@ Necesidades principales:
 - Compartir su asistencia a eventos con su red social.
 - Acceder fácilmente a la información sobre conciertos pequeños que muchas veces no se promocionan ampliamente.
 
+**Artistas emergentes y bandas independientes:** 
+Según el informe Year in Music 2023 de Chartmetric, de los aproximadamente 710,000 nuevos artistas agregados a su plataforma durante el año, solo una fracción mínima logró posicionarse entre los 35,000 artistas más exitosos, lo que evidencia la alta competitividad y dificultad para destacar en la industria musical actual. Por otro lado, el mercado global de artistas independientes continúa en expansión: se estima en 104,61 mil millones de dólares en 2024 y se proyecta que alcance los 149,91 mil millones para el año 2029, con una tasa de crecimiento anual compuesta (CAGR) del 7,46% (Mordor Intelligence, 2024). Esta tendencia refleja el creciente protagonismo de los artistas emergentes y el potencial económico de este segmento en la industria musical.
+
+Edad: 18 a 40 años
+
+Ubicación: Regiones urbanas o semiurbanas con crecimiento cultural y musical (por ejemplo, Lima, Cusco, Medellín, Guadalajara, Valparaíso).
+
+Características demográficas y de comportamiento: Generalmente, son artistas autogestionados o bandas que aún no tienen el respaldo de una disquera grande. Se apoyan en redes sociales para crecer orgánicamente y generar engagement con su audiencia. Están abiertos a usar nuevas plataformas digitales para promocionarse, sobre todo si estas les permiten interactuar directamente con los fans.
+
+Necesidades principales:
+- Promocionar conciertos y obtener mayor visibilidad local.
+- Crear comunidad y fidelizar audiencia.
+- Usar herramientas simples de geolocalización y calendario para difundir sus eventos.
+- Medir la asistencia a sus presentaciones.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
