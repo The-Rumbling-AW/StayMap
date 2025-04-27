@@ -476,6 +476,23 @@ Creemos que, si StayMap destaca a los artistas más destacados y organiza concie
   </tr>
 </table>
 
+# 1.3. Segmentos objetivo
+
+**Fans de la música (jóvenes y adultos jóvenes):**
+Según el Instituto de Estudios Peruanos (2019), el 54% de los estudiantes universitarios asiste ocasionalmente a conciertos musicales (1 o 2 veces al año), mientras que un 34% lo hace con mayor frecuencia (3 o más veces al año) y solo un 11% nunca ha asistido. Además, se observa que las mujeres (54,6%) muestran una mayor preferencia por géneros como la balada romántica, cumbia, pop, salsa y música clásica, mientras que los hombres (45,4%) se inclinan por el heavy metal, hip-hop y reggaetón. Por otro lado, según Ramos-Pla, Ramírez-Montoya y García-Peñalvo (2022), 4 de cada 10 personas escuchan música con mucha frecuencia, siendo los jóvenes de entre 18 y 24 años los oyentes más asiduos de distintos géneros musicales.
+
+Edad: 16 a 35 años
+
+Ubicación: Principalmente en zonas urbanas y ciudades con una oferta cultural variada (como Lima, Buenos Aires, Ciudad de México, Madrid o Nueva York).
+ 
+Características demográficas y de comportamiento: Son personas que integran la música en su estilo de vida diario. Utilizan servicios de streaming como Spotify o Apple Music, siguen a sus artistas favoritos en redes sociales como Instagram, TikTok o X (Twitter), y suelen compartir sus gustos musicales con sus amistades. Buscan experiencias auténticas y momentos memorables.
+
+Necesidades principales:
+- Descubrir nuevos conciertos y presentaciones en vivo cerca de su ubicación.
+- Recibir notificaciones sobre giras de sus artistas favoritos.
+- Compartir su asistencia a eventos con su red social.
+- Acceder fácilmente a la información sobre conciertos pequeños que muchas veces no se promocionan ampliamente.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
