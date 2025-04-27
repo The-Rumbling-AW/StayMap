@@ -296,6 +296,15 @@ Esta problemática afecta principalmente a dos grupos:
 - Fans de la música en vivo, tanto jóvenes como adultos, que desean descubrir conciertos interesantes cerca de ellos pero carecen de información actualizada, personalizada o centralizada.
 - Artistas emergentes y bandas independientes, que enfrentan grandes barreras para visibilizar sus presentaciones en un entorno saturado y competitivo, sin contar con recursos o redes de difusión eficientes.
 
+**How**:
+
+StayMap aborda esta problemática mediante una aplicación móvil que centraliza, personaliza y geolocaliza la información sobre conciertos en vivo. Utilizando tecnología basada en ubicación y preferencias del usuario, StayMap permite:
+- Descubrir eventos en tiempo real cerca de su ubicación.
+- Filtrar por géneros, fechas y tipo de eventos.
+- Recibir notificaciones personalizadas sobre conciertos de artistas favoritos o nuevos talentos similares.
+- Acceder a eventos independientes que usualmente no aparecen en medios tradicionales.
+- Compartir y recomendar eventos con amigos, generando una comunidad activa.
+
 # CAPÍTULO II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
