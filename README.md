@@ -236,6 +236,117 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </tbody>
 </table>
 
+# 5.1.2. Source Code Management
+
+## 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron tecnologías web como HTML, CSS y JavaScript. A continuación, se presentan las convenciones seguidas en la implementación:
+
+**HTML**
+
+Se aplicó una estructura clara y organizada mediante el uso de etiquetas semánticas y contenedores:
+
+	<header></header>
+
+
+Encabezado general de la página.
+
+	<nav></nav>
+
+Barra de navegación.
+
+	<main></main>
+
+Contenedor principal del contenido.
+
+
+	<div class="container">
+	
+Se utilizó para agrupar bloques de contenido relacionados.
+
+	<footer>
+
+Pie de página con información adicional.
+
+
+Los títulos se declararon jerárquicamente usando las etiquetas 
+
+	<h1> a <h6>
+
+Las imágenes se insertaron mediante la etiqueta 
+
+	<img>
+
+incluyendo el atributo alt.
+
+Ejemplo:
+
+	<header>
+ 	 <h1>StayMap</h1>
+	</header>
+
+
+
+	<div class="container">
+  	<p>Contenido relacionado agrupado.</p>
+	</div>
+
+
+	<img src="imagen.jpg" alt="Descripción de la imagen">
+
+
+**CSS**
+Los estilos se definieron en un archivo externo. Se emplearon las siguientes prácticas:
+Nombres de clases en formato kebab-case (ej. .contenedor-principal).
+
+
+- Separación por secciones (tipografía, layout, botones).
+
+
+- Uso de media queries para diseño responsive.
+
+
+- Colores definidos por variables CSS para facilitar su reutilización.
+
+
+Ejemplo:
+
+
+	h1 {
+ 	 font-size: 24px;
+	  color: #0066cc;
+	}
+
+**JavaScript**
+
+Se utilizó JavaScript para interacciones básicas de la interfaz. Las principales convenciones fueron:
+Uso de nombres en camelCase.
+
+
+- Separación del código en archivos externos.
+
+
+- Comentarios explicativos cuando fue necesario.
+
+
+
+		function mostrarMenu() {
+  			// Código para mostrar u ocultar el menú
+		}
+
+**Buenas prácticas generales**
+
+- Indentación de 2 espacios.
+
+
+- Uso correcto de etiquetas semánticas y atributos de accesibilidad.
+
+
+- Organización de archivos en carpetas: /css, /js, /img.
+
+
+- Separación del contenido (HTML), presentación (CSS) y comportamiento (JavaScript).
+
 ## 5.1.4. Software Deployment Configuration
 
 Para la publicación de nuestra landing page y aplicación web, utilizamos GitHub Pages, una herramienta gratuita de GitHub que permite alojar sitios estáticos directamente desde un repositorio. Esta opción resultó ideal para presentar el proyecto de forma accesible, sin necesidad de servidores adicionales ni configuraciones complejas.
