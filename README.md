@@ -63,9 +63,15 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     </tr>
     <tr>
       <td>TP</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>16/05/2025</td>
+      <td>	- Collantes Carrillo, Diego Mateo <br>
+	- Lizarbe Alvarez, Ariana Nickole <br>
+	- Ortiz Cardenas, Johanna Antuanete <br>
+	- Zegarra Lopez, Renato Sebastian Rubber <br> 
+	- Zúñiga Murillo, Diego Sebastian <br></td>
+      <td>El equipo ha logrado avances significativos en el desarrollo de las funcionalidades principales del proyecto. Se ha optimizado la página principal incorporando mejoras derivadas de los comentarios obtenidos durante la fase inicial de desarrollo. La interfaz de usuario ya cuenta con su primera versión operativa, cumpliendo con todos los estándares técnicos y requerimientos de diseño previamente establecidos.
+Durante la segunda fase de trabajo, se llevó a cabo una planificación minuciosa donde se designaron líderes para cada área funcional clave. El equipo completó exitosamente todas las tareas programadas, evidenciado en los módulos desarrollados, pruebas realizadas y documentación técnica generada. Como parte del proceso continuo de mejora, se actualizaron los documentos del proyecto, incluyendo el informe de colaboración y los resultados académicos, donde se refleja claramente el progreso colectivo y la evolución de las capacidades del equipo.
+El trabajo colaborativo y la distribución efectiva de responsabilidades han permitido consolidar los componentes esenciales del sistema. Cada integrante ha contribuido activamente al desarrollo de las soluciones técnicas, asegurando que los diferentes módulos funcionen de manera integrada. Las iteraciones constantes y las revisiones periódicas han facilitado la identificación temprana de áreas de mejora, optimizando así tanto el proceso de desarrollo como los resultados obtenidos.</td>
     </tr>
     <tr>
       <td>TB2</td>
@@ -184,57 +190,121 @@ ABET - EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un ra
   </thead>
   <tbody>
     <tr>
-      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
+      <td>Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Como parte del equipo de STAYMAP, me encargué de diseñar los diagramas C4 y UML para representar la arquitectura del sistema. Presenté estos diagramas al equipo y a los stakeholders, explicando su estructura y cómo cada componente se integra en el proyecto.<br>
+        TB1: Como responsable del primer sprint, coordiné meticulosamente las reuniones diarias, garantizando que cada integrante compartiera su progreso, dificultades y planes. Establecí una rotación en el rol de facilitador para fomentar el desarrollo de habilidades de liderazgo en todos los miembros.<br>
+	      <br>
+        TP: Durante esta etapa, distribuí estratégicamente la función de líder para potenciar las capacidades del equipo. Colaboramos en la migración de Figma a WebStorm, realizando evaluaciones técnicas que evidenciaron mejoras de rendimiento para nuestro proyecto.
+	      <br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: Desarrollé la Landing Page de STAYMAP, como modelo inicial en figma, enfocándome en un diseño atractivo y funcional. Mi objetivo fue comunicar claramente el propósito de la plataforma a los usuarios potenciales y recoger sus primeras impresiones.<br>
+        TB1:  Elaboré el diagrama entidad-relación inicial y documenté detalladamente las normas de validación. Coordiné sesiones de programación colaborativa para desarrollar endpoints críticos, además de crear un repositorio con ejemplos y estándares de codificación. Medié en discusiones sobre prioridades para equilibrar aspectos técnicos y de experiencia de usuario. <br>
+	      	      <br>
+        TP: M Dirigí el diseño de la interfaz de STAYMAP, implementando características como el sistema de autenticación y la visualización de eventos musicales.
+	      <br>
+	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Elaboré el Modelo C4 y diagrama de clases UML de STAYMAP, detallando los niveles de abstracción del sistema. Mi contribución ayudó a que tanto el equipo técnico como los clientes entendieran la escalabilidad y las conexiones entre módulos.<br>
+        TB1: Conduje el diseño iterativo de la página de inicio, integrando feedback mediante encuestas y herramientas colaborativas. Documenté guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad para enriquecer el enfoque del equipo. <br>
+	      	      <br>
+        TP: Facilité talleres de cocreación donde todos participaron en el prototipado, validando modificaciones mediante pruebas controladas para cumplir con los objetivos parciales.
+	      <br>
+	      <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Diseñé la base de datos de STAYMAP, definiendo las tablas, relaciones y consultas principales. Mi trabajo aseguró que los datos se almacenaran de manera eficiente y estuvieran listos para su implementación.<br>
-        <strong>Zúñiga Murillo, Diego Sebastián</strong><br>
-        TB1: Realicé los análisis de entrevistas con usuarios potenciales de STAYMAP y señalé sus necesidades. Registré y comuniqué los hallazgos al equipo para que el desarrollo se alineara con las expectativas del público objetivo.
+        TB1: Actué como enlace con stakeholders externos, simplificando requerimientos técnicos y organizando sesiones de sincronización. Recluté participantes para pruebas de usabilidad y optimicé la distribución de tareas para mejorar la eficiencia grupal.<br>
+	      	      <br>
+        TP:Mejoré la interfaz de STAYMAP, asegurando su funcionalidad y alineación con las metas establecidas.
+	      <br>
+	      <br>
+<strong>Zuniga Murillo, Diego Sebastian</strong><br>
+        TB1: Coordiné la evaluación de entrevistas para detectar áreas críticas de mejora en STAYMAP, generando informes con recomendaciones específicas. <br>
+	      <br>
+        TP:  Adapté el proyecto a los requisitos de esta fase, desarrollando una API para visualizar eventos musicales en mapas interactivos con detalles de artistas.
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Los diagramas que creé facilitaron la comunicación técnica dentro del equipo y con los stakeholders, evitando malentendidos en las fases iniciales de STAYMAP.<br>
+        TB1: Los esquemas técnicos que desarrollé permitieron establecer una comunicación más efectiva con los interesados, previniendo posibles confusiones durante las fases iniciales del proyecto.<br><br>
+	      TP:  Las mejoras implementadas optimizaron significativamente la interfaz de STAYMAP, logrando una navegación más intuitiva y fluida para los usuarios finales.
+	      <br> <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: La Landing Page que desarrollé no solo presentó STAYMAP de manera profesional, sino que también nos permitió validar el interés de los usuarios antes del lanzamiento.<br>
+        TB1: Diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Lideré múltiples sesiones de programación en pareja para implementar los endpoints clave, y creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron diferencias en las prioridades, medié para encontrar soluciones balanceadas. <br><br>
+	      TP: Me enfoqué en desarrollar la experiencia de usuario de STAYMAP, implementando personalmente funcionalidades clave como el sistema de autenticación y la visualización de conciertos. Cada elemento lo diseñé pensando en la usabilidad y coherencia con nuestro sistema.
+	      <br> <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: El Modelo C4 que elaboré se convirtió en una herramienta clave para explicar la complejidad técnica de STAYMAP de manera accesible, incluso para perfiles no técnicos.<br>
+        TB1: Lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback del equipo mediante encuestas estructuradas. Documenté minuciosamente las guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad que enriquecieron nuestro enfoque. <br><br>
+	      TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos. Validé los cambios mediante pruebas controladas, asegurándome de que cumplieran con todos los requisitos establecidos para esta entrega.
+	      <br> <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: El diseño de la base de datos que propuse optimizó el rendimiento de STAYMAP, sentando las bases para un sistema escalable y confiable.<br>
+        TB1: Gestioné la comunicación con los stakeholders, traduciendo requerimientos técnicos a lenguaje accesible. Organicé sesiones de alineación y recluté usuarios para pruebas de usabilidad. Identifiqué y resolví problemas de carga de trabajo mediante una redistribución equitativa de tareas. <br><br>
+	      TP:   Me encargué personalmente de revisar y mejorar el frontend de STAYMAP, implementando ajustes que garantizaron una experiencia de usuario más fluida y efectiva para cumplir con nuestros objetivos.
+	      <br> <br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Las entrevistas que conduje revelaron insights valiosos, permitiendo que STAYMAP priorizara funciones clave como la personalización de búsquedas y la confiabilidad de las reseñas.
+        TB1: Lideré la gestión y análisis de entrevistas para identificar puntos críticos en STAYMAP, creando guías detalladas con las áreas de mejora prioritarias. <br>
+	      TP: Ajusté personalmente la entrega del proyecto para alinearlo con los nuevos requerimientos. Desarrollé e implementé una API funcional que genera mapas dinámicos con la ubicación de conciertos, incluyendo detalles clave como los nombres de los artistas.
+	      <br> <br><br>
       </td>
     </tr>
     <tr>
-      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td>Crea un entorno colaborativo e
+inclusivo, establece metas,
+planifica tareas y cumple
+objetivos</td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Lideré la creación de documentos técnicos especializados para STAYMAP, transformando complejos diagramas arquitectónicos en guías accesibles con versiones para equipos de desarrollo (detalle técnico) y stakeholders (enfoque ejecutivo).<br>
+        TB1: 
+Desarrollé la documentación técnica especializada para STAYMAP, transformando diagramas arquitectónicos complejos en guías accesibles con versiones adaptadas: detalladas para equipos técnicos y resumidas para stakeholders.
+<br><br>
+	      TP: Elaboré la documentación oficial del proyecto, definiendo estándares para la creación de diagramas y actualizando las guías con todos los cambios implementados en esta fase.
+	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: Diseñé la estrategia de contenido multiplataforma para STAYMAP, desarrollando desde whitepapers técnicos hasta copywriting persuasivo para la Landing Page, ajustando registro y profundidad según cada canal.<br>
+	       TB1: 
+Creé la estrategia de contenido integral para STAYMAP, produciendo desde documentos técnicos especializados hasta textos persuasivos para la web, adaptando el lenguaje según cada audiencia y plataforma.
+<br><br>
+	      TP: Documenté en profundidad la estructura y funcionamiento de la base de datos, resaltando sus componentes esenciales y características fundamentales para el proyecto.
+	      <br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Estructuré el sistema de documentación modular de STAYMAP, creando plantillas estandarizadas para reportes técnicos que permitieron escalar la comunicación del proyecto sin perder consistencia.<br>
+        TB1: Implementé un sistema de documentación modular con plantillas estandarizadas que permitió mantener la coherencia técnica mientras el proyecto escalaba.<br>
+	      <br>
+	      TP: Generé documentación detallada sobre el proceso de selección e implementación de APIs, facilitando su comprensión y aprovechamiento por parte del equipo.
+	      <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Publiqué artículos técnicos en el blog interno de STAYMAP explicando patrones de diseño de bases de datos, estableciéndome como referente para consultas escritas del equipo.<br>
+        TB1: Redacté artículos técnicos especializados sobre diseño de bases de datos para el blog interno, convirtiéndome en el punto de referencia para consultas documentadas.<br>
+	      <br>
+	      TP: Produje un análisis técnico exhaustivo que permitió al equipo comprender en profundidad la implementación y capacidades de nuestro sistema de base de datos.
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Implementé un sistema de síntesis de feedback con dashboards escritos automatizados para STAYMAP, transformando datos cualitativos en informes ejecutivos mensuales.
+        TB1: Implementé un sistema de dashboards automatizados para procesar feedback de usuarios, generando informes mensuales con insights accionables..<br>
+	       <br>
+	      TP: Desarrollé una guía completa que documenta el proceso de toma de decisiones técnicas, incluyendo la justificación detallada de cada implementación.
+	      <br> <br>
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: La documentación que preparé se convirtió en la referencia principal para el equipo técnico, asegurando una correcta implementación de los diagramas en STAYMAP.<br>
+        TB1: Mi documentación se estableció como referencia técnica clave, asegurando una implementación precisa de la arquitectura del sistema.<br>
+	      <br>
+	      TP:  Los estándares documentados mejoraron significativamente la calidad y consistencia de los diagramas del proyecto.
+	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: Los textos que desarrollé comunicaron efectivamente el propósito de STAYMAP, recibiendo comentarios positivos tanto de usuarios como del equipo interno.<br>
+        TB1: Mis materiales comunicativos lograron transmitir efectivamente el valor de STAYMAP a diferentes audiencias.<br>   <br>
+	      TP:  La documentación de la base de datos permitió su manejo eficiente y consistente por todo el equipo.
+	      <br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Las guías que escribí permitieron que nuevos integrantes del equipo pudieran entender rápidamente el Modelo C4 y su aplicación en STAYMAP.<br>
+        TB1:  Mis guías aceleraron la incorporación de nuevos miembros al simplificar la comprensión de la arquitectura del sistema.
+	         <br>
+	      TP: La documentación de APIs clarificó su funcionamiento y contribución al proyecto.
+	      <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: La documentación de la base de datos que elaboré facilitó el trabajo diario del equipo, evitando confusiones en el manejo de la información.<br>
+        TB1: Mis artículos técnicos optimizaron los flujos de trabajo al eliminar ambigüedades en el manejo de datos.<br>
+	         <br>
+	      TP: Los análisis profundos mejoraron la capacidad del equipo para implementar requerimientos complejos.
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Mis informes organizaron el feedback de los usuarios de manera clara, permitiendo priorizar funciones importantes para STAYMAP.
+        TB1: Mis informes transformaron feedback cualitativo en priorizaciones claras de desarrollo.
+	         <br>
+	      TP: La guía de decisiones técnicas unificó el entendimiento del proyecto entre todos los colaboradores.
+	      <br><br>
       </td>
     </tr>
   </tbody>
