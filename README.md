@@ -2774,51 +2774,32 @@ Sección login:
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
+Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B)
 
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
-**Las principales actividades de Deployment llevadas a cabo fueron:**
+Durante el Sprint 2, se realizó el despliegue de la aplicación web funcional de StayMap utilizando la plataforma Vercel, la cual permite hacer deploy continuo desde un repositorio en GitHub con facilidad. A continuación, se detallan las principales actividades realizadas en el proceso de deployment:
 
-   - Creación de repositorio en GitHub: Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
+Creación del repositorio para la app web: Se creó un nuevo repositorio en GitHub donde se alojó el código completo de la aplicación Vue, incluyendo los bounded contexts de comunidades, conciertos y usuarios.
 
-   - Configuración de Git: Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario (git config --global user.name y git config --global user.email).
+Configuración del entorno en Vercel:
 
-   - Inicialización de proyecto Git: Se ejecutó la inicialización del repositorio local (git init), la adición de archivos (git add .) y la generación de un primer commit (git commit -m "Subiendo landing page").
+Se conectó el repositorio de GitHub a Vercel desde el panel de proyectos.
 
-   - Asociación a repositorio remoto: Se estableció el enlace entre el repositorio local y GitHub mediante git remote add origin, permitiendo realizar el push del proyecto.
+Se configuraron las variables de entorno necesarias, como VITE_API_BASE_URL y los paths para los recursos (/concerts, /communities, /users), permitiendo así el acceso a la fake API basada en json-server.
 
-**Publicación mediante GitHub Pages:**
+Se eligió la carpeta de salida correspondiente (dist/) generada tras el build de producción.
 
-   - En la sección Settings > Pages del repositorio, se configuró la publicación seleccionando la rama main y la carpeta raíz (/ (root)).
+Build y despliegue automático:
 
-   - Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un URL público proporcionado por GitHub.
+Cada vez que se realiza un push en la rama principal (main), Vercel ejecuta automáticamente el proceso de build y despliegue.
 
-1. Repositorio creado en GitHub:
+La aplicación fue publicada exitosamente y quedó disponible en un dominio proporcionado por Vercel, accesible desde cualquier navegador.
 
-<div align="center">
-  <img src="assets/capturas/captura-repositorio.png" alt="repositorio" style="width: 80%">
-</div>
+Acceso a datos estáticos (JSON): Como parte del despliegue, se reubicó el archivo db.json en la carpeta public/ para que esté disponible en producción mediante fetch desde /db.json, simulando la conexión a una API estática.
 
-2. Configuración de Git y primer Push:
-
-<div align="center">
-  <img src="assets/capturas/captura-bash.png" alt="bash" style="width: 80%">
-</div>
-
-3. Configuración de GitHub Pages:
-
-<div align="center">
-  <img src="assets/capturas/captura-pages.png" alt="pages" style="width: 80%">
-</div>
-
-4. Landing Page publicada:
-
-<div align="center">
-  <img src="assets/capturas/captura-landing.png" alt="landing" style="width: 80%">
-</div>
-
+Este proceso de deployment asegura que los avances del equipo puedan ser visualizados en tiempo real y validados por el cliente y los usuarios finales, facilitando pruebas y retroalimentación continua.
 ### 5.2.1.7. Team Collaboration Insights during Sprint
 
 Desarrollo de Actividades de Implementación:
@@ -2867,7 +2848,8 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 **Videos de Exposiciones:**
 
-- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz
+- TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
   
 # Bibliografía
 
