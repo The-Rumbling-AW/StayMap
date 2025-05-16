@@ -2724,7 +2724,7 @@ Estas funcionalidades se validaron con vistas funcionales, integración completa
 Sección conciertos:
 
 <div align="center">
-  <img src="assets/capturas/captura-concierto.jpg" alt="cap" style="width: 80%">
+  <img src="assets/capturas/capturas-concierto.jpg" alt="cap" style="width: 80%">
 </div>
 
 Sección mapa:
