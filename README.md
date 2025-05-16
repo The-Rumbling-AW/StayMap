@@ -2703,37 +2703,56 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-En este Sprint, nos enfocamos en el diseño e implementación de la Landing Page de StayMap. Esta página fue desarrollada para captar la atención de los visitantes, mostrando de manera clara y atractiva el valor que ofrece la plataforma tanto para fans como para artistas. Se implementaron las siguientes secciones:
+Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave dentro de la aplicación web StayMap, integrando vistas interactivas y conexión con una fake API basada en json-server. Se completaron varios componentes esenciales que mejoran la experiencia del usuario y permiten la interacción dinámica con los datos.
 
-- Beneficios para Usuarios: Se diseñó una sección destacando las ventajas de usar StayMap, como descubrir eventos locales, hacer check-in en conciertos y conectar con otros fans.
+Entre las principales evidencias de ejecución se incluyen:
 
-- Beneficios para Artistas: Se creó un apartado dirigido a artistas emergentes, resaltando cómo StayMap puede ayudarlos a aumentar su visibilidad y conectar con nuevas audiencias.
+Vista de conciertos en mapa: Se desarrolló una vista que utiliza Google Maps API para mostrar los conciertos geolocalizados, permitiendo al usuario visualizar de forma espacial los eventos próximos según su ubicación actual.
 
-- Testimonios de Fans: Se incorporaron testimonios de usuarios reales, mostrando sus experiencias positivas con la plataforma y reforzando la confianza en el servicio.
+Filtrado por género musical: Se implementó un sistema de filtros mediante checkboxes para que el usuario pueda seleccionar sus géneros favoritos y visualizar únicamente los conciertos que se ajustan a sus preferencias.
 
-- Conciertos Programados Cerca de Ti: Se añadió una sección dinámica que muestra eventos musicales próximos en función de la ubicación del usuario, incentivando la exploración y asistencia a conciertos locales.
+Gestión de comunidades musicales: Se creó una interfaz para visualizar, crear, editar y eliminar comunidades usando un sistema de tarjetas. Esta sección conecta directamente con una API simulada (fake API) donde se almacenan los datos en un archivo JSON. Cada comunidad cuenta con nombre, cantidad de miembros e imagen representativa.
+
+Sistema de calificación y registro de asistencia: Se añadieron funcionalidades para que los usuarios puedan registrar su interés por un concierto y calificar eventos pasados, permitiendo mejorar la interacción con la plataforma.
+
+Notificaciones de artistas favoritos: Se integró un módulo que muestra novedades o alertas relevantes en el dashboard, asociado a los artistas seguidos por el usuario.
+
+Estas funcionalidades se validaron con vistas funcionales, integración completa del servicio CommunityService, ConcertService, almacenamiento en localStorage para sesiones y variables de entorno configuradas para los endpoints. A continuación, se muestran capturas de pantalla y commits asociados que evidencian la ejecución del Sprint.
 
 **Screenshots de las principales vistas:**
 
-Sección de Inicio:
+Sección conciertos:
 
 <div align="center">
-  <img src="assets/capturas/captura-inicio.png" alt="inicio" style="width: 80%">
+  <img src="assets/capturas/captura-concierto.jpg" alt="cap" style="width: 80%">
 </div>
 
-Sección de Para Fans:
+Sección mapa:
 
 <div align="center">
-  <img src="assets/capturas/captura-fans.png" alt="cap fans" style="width: 80%">
+  <img src="assets/capturas/captura-mapa.jpg" alt="cap " style="width: 80%">
 </div>
 
-Sección de Para Artistas:
+Sección comunidad:
 
 <div align="center">
-  <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
+  <img src="assets/capturas/captura-comunidad.jpg" alt="cap" style="width: 80%">
 </div>
 
-**Enlace de la Landing Page:** landing-v2-gamma.vercel.app
+Sección filtrado:
+
+<div align="center">
+  <img src="assets/capturas/captura-filtrado.jpg" alt="cap" style="width: 80%">
+</div>
+
+Sección login:
+
+<div align="center">
+  <img src="assets/capturas/captura-login.jpg" alt="cap" style="width: 80%">
+</div>
+
+**Enlace de la APP WEB:** [http://stay-map-web-vercel.app](https://stay-map-app-web.vercel.app/concerts)
+**Enlace de la LANDING PAGE:** landing-v2-gamma.vercel.app
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
