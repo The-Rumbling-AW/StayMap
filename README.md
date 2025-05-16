@@ -2519,11 +2519,11 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
+  <thead style="background-color: #f2f2f2;">
     <tr>
       <th>Repository</th>
-      <th>Branch</th>
+      <th>Branch / File</th>
       <th>Commit id</th>
       <th>Commit message</th>
       <th>Commit Message Body</th>
@@ -2532,170 +2532,188 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5">ariaalizz</td>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>f6a0d00</td>
-      <td>archive .png</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update user.service.js image</td>
+      <td>Actualiza imagen en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>1743cbb</td>
-      <td>archive.png</td>
-      <td>logo StayMap</td>
-      <td>27/04/2025</td>
+      <td>Update community-management.component.vue styles</td>
+      <td>Mejora estilos en community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>e1da430</td>
-      <td>archive.png</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update community.service.js image</td>
+      <td>Actualiza imagen en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ariaalizz</td>
       <td><b>login-manamegent.vue</b></td>
       <td>fe356e5</td>
-      <td>archive.css</td>
-      <td>image design</td>
-      <td>27/04/2025</td>
+      <td>Improve login-manamegent.vue image styles</td>
+      <td>Mejora CSS en login-manamegent.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>4766acb</td>
-      <td>archive.html</td>
-      <td>landing testing</td>
-      <td>27/04/2025</td>
+      <td>Test user.service.js landing page HTML</td>
+      <td>Prueba estructura HTML en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-      <td rowspan="5">DekayDeCanela</td>
+      <td>DekayDeCanela</td>
       <td><b>community-management.component.vue</b></td>
       <td>79a63cc</td>
-      <td>archive.css</td>
-      <td>landing testing</td>
-      <td>27/04/2025</td>
+      <td>Refine community-management.component.vue CSS</td>
+      <td>Refina CSS en community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>DekayDeCanela</td>
       <td><b>community.service.js</b></td>
       <td>8cdab20</td>
-      <td>archive.css</td>
-      <td>landing testing</td>
-      <td>27/04/2025</td>
+      <td>Refine community.service.js CSS</td>
+      <td>Refina CSS en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>DekayDeCanela</td>
       <td><b>login-manamegent.vue</b></td>
       <td>5a0247f</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update login-manamegent.vue landing image</td>
+      <td>Actualiza imagen en login-manamegent.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>DekayDeCanela</td>
       <td><b>user.service.js</b></td>
       <td>f05af9c</td>
-      <td>archive.html</td>
-      <td>landing testing</td>
-      <td>27/04/2025</td>
+      <td>Test user.service.js landing page HTML</td>
+      <td>Prueba estructura HTML en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>DekayDeCanela</td>
       <td><b>community-management.component.vue</b></td>
       <td>54fa25b</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update community-management.component.vue landing image</td>
+      <td>Actualiza imagen en community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-      <td rowspan="5">D4D3val</td>
+      <td>D4D3val</td>
       <td><b>community.service.js</b></td>
       <td>7be9471</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update community.service.js landing image</td>
+      <td>Actualiza imagen en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>D4D3val</td>
       <td><b>login-manamegent.vue</b></td>
       <td>26e2e62</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update login-manamegent.vue landing image</td>
+      <td>Actualiza imagen en login-manamegent.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>D4D3val</td>
       <td><b>user.service.js</b></td>
       <td>c275d9b</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update user.service.js landing image</td>
+      <td>Actualiza imagen en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>D4D3val</td>
       <td><b>community-management.component.vue</b></td>
       <td>ecd04c6</td>
-      <td>archive.jpg</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update community-management.component.vue landing image</td>
+      <td>Actualiza imagen en community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>D4D3val</td>
       <td><b>community.service.js</b></td>
       <td>802d18d</td>
-      <td>archive.css</td>
-      <td>landing testing</td>
-      <td>27/04/2025</td>
+      <td>Refine community.service.js CSS</td>
+      <td>Refina CSS en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-      <td rowspan="4">ReizCode</td>
+      <td>ReizCode</td>
       <td><b>login-manamegent.vue</b></td>
       <td>17fb0db</td>
-      <td>archivo .html</td>
-      <td>landing desing</td>
-      <td>27/04/2025</td>
+      <td>Test login-manamegent.vue HTML</td>
+      <td>Prueba estructura HTML en login-manamegent.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ReizCode</td>
       <td><b>user.service.js</b></td>
       <td>7389ade</td>
-      <td>archivo .jpg</td>
-      <td>landing image</td>
-      <td>27/04/2025</td>
+      <td>Update user.service.js landing image</td>
+      <td>Actualiza imagen en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ReizCode</td>
       <td><b>community-management.component.vue</b></td>
       <td>1ab86f0</td>
-      <td>archivo .jpg</td>
-      <td>landing image</td>
-      <td>27/04/2025</td>
+      <td>Update community-management.component.vue landing image</td>
+      <td>Actualiza imagen en community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>ReizCode</td>
       <td><b>community.service.js</b></td>
       <td>289f757</td>
-      <td>archivo .jpg</td>
-      <td>landing image</td>
-      <td>27/04/2025</td>
+      <td>Update community.service.js landing image</td>
+      <td>Actualiza imagen en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-      <td rowspan="4">Antuanet01</td>
+      <td>Antuanet01</td>
       <td><b>login-manamegent.vue</b></td>
       <td>750e71d</td>
-      <td>archivo .html</td>
-      <td>landing desing</td>
-      <td>27/04/2025</td>
+      <td>Test login-manamegent.vue HTML</td>
+      <td>Prueba estructura HTML en login-manamegent.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>Antuanet01</td>
       <td><b>user.service.js</b></td>
       <td>610cb90</td>
-      <td>archivo .js</td>
-      <td>landing page logic</td>
-      <td>27/04/2025</td>
+      <td>Update user.service.js logic</td>
+      <td>Mejora lógica JavaScript en user.service.js</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>Antuanet01</td>
       <td><b>community-management.component.vue</b></td>
       <td>5c4dfc3</td>
-      <td>archivo .png</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Algo relacionado a community-management.component.vue</td>
+      <td>Algo relacionado a community-management.component.vue</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
+      <td>Antuanet01</td>
       <td><b>community.service.js</b></td>
       <td>5a0247f</td>
-      <td>archivo .png</td>
-      <td>landing page image</td>
-      <td>27/04/2025</td>
+      <td>Update community.service.js landing image</td>
+      <td>Actualiza imagen en community.service.js</td>
+      <td>16/05/2025</td>
     </tr>
   </tbody>
 </table>
