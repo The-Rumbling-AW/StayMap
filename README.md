@@ -2664,7 +2664,7 @@ Sección de Para Artistas:
 
 **Link de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-Link: [landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B)
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
 
 
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
@@ -2757,7 +2757,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 **Videos de Exposiciones:**
 
-- TB1: [exposicion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz)
+- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz
   
 # Bibliografía
 
