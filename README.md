@@ -2311,6 +2311,70 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 - [**Lucidchart:**](https://www.lucidchart.com/pages/es) Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
+
+
+
+<html lang="es">
+<body>
+
+  <h2>5.2.2. Sprint 2</h2>
+  <h3>5.2.2.1. Sprint Planning 2.</h3>
+
+  <h4># Sprint 2</h4>
+  <h5>Sprint Planning Background</h5>
+  
+  <table>
+    <tr>
+      <th>Fecha</th>
+      <td>2025-05-16</td>
+    </tr>
+    <tr>
+      <th>Hora</th>
+      <td>7:00 PM</td>
+    </tr>
+    <tr>
+      <th>Ubicación</th>
+      <td>Virtual, vía Discord</td>
+    </tr>
+    <tr>
+      <th>Preparado por</th>
+      <td>Lizarbe Alvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <th>Participantes (reunión de planificación)</th>
+      <td>
+        Lizarbe Alvarez, Ariana Nickole<br>
+        Ortiz Cardenas, Johanna Antuanete<br>
+        Zúñiga Murillo, Diego Sebastian<br>
+        Collantes Carrillo, Diego Mateo<br>
+        Zegarra Lopez, Renato Rubber Sebastian
+      </td>
+    </tr>
+  </table>
+
+  <div class="section-title">Sprint Goal & User Stories</div>
+  <table>
+    <tr>
+      <th>Objetivo del Sprint</th>
+      <td>
+        Diseñar y desarrollar funcionalidades dentro de <strong>STAYMAP</strong> que permitan la navegación satisfactoria dentro del programa, cumpliendo con los requisitos necesarios para que el usuario navegue según sus necesidades de asistencia o creación de conciertos.
+      </td>
+    </tr>
+    <tr>
+      <th>Velocidad del Sprint</th>
+      <td>
+        Para la planificación de este sprint se utilizará la escala de Fibonacci (1, 2, 3, 5, 8...) para estimar el esfuerzo relativo de cada historia de usuario, permitiendo una mejor comparación y afinación de la carga de trabajo.
+      </td>
+    </tr>
+    <tr>
+      <th>Total de Story Points</th>
+      <td>27</td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 <table border="1" cellpadding="5" cellspacing="0">
@@ -2320,11 +2384,11 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
   <tr>
     <th>Team Member</th>
     <th>Github Username</th>
-    <th>UX UI DESIGN</th>
-    <th>DIAGRAMA UML</th>
-    <th>C4 MODEL</th>
-    <th>DATABASE DESIGN</th>
-    <th>ENTRE VISTAS</th>
+    <th>Implementación API</th>
+    <th>Funcionalidad de Login y Register para la creacion de cuentas</th>
+    <th>Creacion de eventosL</th>
+    <th>Diseño del programa </th>
+    <th>Diseño de eventos y cuentas dentro del mapa</th>
   </tr>
   <tr>
     <td>Collantes Diego</td>
@@ -2373,11 +2437,11 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
   </tr>
 </table>
 
-### 5.2.1.3. Sprint Backlog 1
+### 5.2.1.3. Sprint Backlog 2
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <th colspan="8">Sprint 1</th>
+    <th colspan="8">Sprint 2</th>
   </tr>
   <tr>
     <th colspan="2">User Story</th>
@@ -2394,54 +2458,62 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     <th>status</th>
   </tr>
   <tr>
-    <td>US01</td>
-    <td>Ver beneficios para fans</td>
-    <td>TSK01</td>
-    <td>Diseñar sección de beneficios para fans</td>
-    <td>Crear una sección en la landing page que muestre los beneficios para los fans.</td>
+    <td>US06</td>
+    <td>Explorar eventos cercanos</td>
+    <td>TSK06</td>
+    <td>Visualización en mapa de eventos cerca</td>
+    <td>Crear una vista en mapa con iconos que muestre los eventos cerca a mi ubicacion
+
+</td>
     <td>2 horas</td>
     <td>Ariana</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US02</td>
-    <td>Ver beneficios para artistas</td>
-    <td>TSK02</td>
-    <td>Diseñar sección de beneficios para artistas</td>
-    <td>Crear una sección en la landing page que muestre los beneficios para los artistas.</td>
+    <td>US07</td>
+    <td>Filtrar eventos por género musical</td>
+    <td>TSK07</td>
+    <td>Filtro por genero musical en busqueda de conciertos</td>
+    <td>Barra lateral en la que el usuario pueda seleccionar el genero de su preferencia</td>
     <td>2 horas</td>
     <td>Diego</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US03</td>
-    <td>Acceder a testimonios</td>
-    <td>TSK03</td>
-    <td>Implementar módulo de testimonios</td>
-    <td>Permitir a los usuarios visualizar testimonios de otros fans y artistas.</td>
+    <td>US08</td>
+    <td>Recibir notificaciones de artistas favorito</td>
+    <td>TSK08</td>
+    <td>Notificar novedades o actualizaciones de artistas o comunidades
+
+</td>
+    <td>SSistema de notificaciones dentro de STAYMAP que se actualice con las novedades de los artistas
+
+</td>
     <td>1 hora</td>
     <td>Antuanete</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US04</td>
-    <td>Registrase en la landing page</td>
-    <td>TSK04</td>
-    <td>Crear formulario de registro</td>
-    <td>Implementar el formulario de registro para nuevos usuarios.</td>
+    <td>US09</td>
+    <td>Compartir asistencia a un concierto</td>
+    <td>TSK09</td>
+    <td>Registro de asistencia a conciertos</td>
+    <td>Validacion de asistencia a un concierto al que el usuario desea ir
+
+</td>
     <td>2 horas</td>
     <td>Diego</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US05</td>
-    <td>Iniciarse sin en la landing page</td>
-    <td>TSK05</td>
-    <td>Implementar login en landing page</td>
-    <td>Permitir a usuarios registrados iniciarse desde la landing page.</td>
-    <td>5 horas</td>
+    <td>US10</td>
+    <td>Calificar un evento asistid</td>
+    <td>TSK10</td>
+    <td>Registro de calificacion a eventos</td>
+    <td>Sistema de estrellas que sirva para calificar la experiencia del usuario en un concierto</td>
+    <td>2 horas</td>
     <td>Diego</td>
-    <td>in process</td>
+    <td>DONE</td>
   </tr>
 </table>
 
