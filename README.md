@@ -2533,35 +2533,35 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
   <tbody>
     <tr>
       <td rowspan="5">ariaalizz</td>
-      <td>user.services.js/td>
+      <td><b>user.service.js</b></td>
       <td>f6a0d00</td>
       <td>archive .png</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>starymapLogo.png</td>
+      <td><b>community-management.component.vue</b></td>
       <td>1743cbb</td>
       <td>archive.png</td>
       <td>logo StayMap</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>taylor.jpeg</td>
+      <td><b>community.service.js</b></td>
       <td>e1da430</td>
       <td>archive.png</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>styles.css</td>
+      <td><b>login-manamegent.vue</b></td>
       <td>fe356e5</td>
       <td>archive.css</td>
       <td>image design</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>index.html</td>
+      <td><b>user.service.js</b></td>
       <td>4766acb</td>
       <td>archive.html</td>
       <td>landing testing</td>
@@ -2569,35 +2569,35 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     </tr>
     <tr>
       <td rowspan="5">DekayDeCanela</td>
-      <td>fans.css</td>
+      <td><b>community-management.component.vue</b></td>
       <td>79a63cc</td>
       <td>archive.css</td>
       <td>landing testing</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>artista.css</td>
+      <td><b>community.service.js</b></td>
       <td>8cdab20</td>
       <td>archive.css</td>
       <td>landing testing</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>sk-tour.jpg</td>
+      <td><b>login-manamegent.vue</b></td>
       <td>5a0247f</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>main.html</td>
+      <td><b>user.service.js</b></td>
       <td>f05af9c</td>
       <td>archive.html</td>
       <td>landing testing</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>skz-concert.jpg</td>
+      <td><b>community-management.component.vue</b></td>
       <td>54fa25b</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
@@ -2605,35 +2605,35 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     </tr>
     <tr>
       <td rowspan="5">D4D3val</td>
-      <td>skz-tour.jpg</td>
+      <td><b>community.service.js</b></td>
       <td>7be9471</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>niall-tour.jpg</td>
+      <td><b>login-manamegent.vue</b></td>
       <td>26e2e62</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>monkeys-tour.jpg</td>
+      <td><b>user.service.js</b></td>
       <td>c275d9b</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>emilia-tour.jpg</td>
+      <td><b>community-management.component.vue</b></td>
       <td>ecd04c6</td>
       <td>archive.jpg</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>main.css</td>
+      <td><b>community.service.js</b></td>
       <td>802d18d</td>
       <td>archive.css</td>
       <td>landing testing</td>
@@ -2641,28 +2641,28 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     </tr>
     <tr>
       <td rowspan="4">ReizCode</td>
-      <td>artista.html</td>
+      <td><b>login-manamegent.vue</b></td>
       <td>17fb0db</td>
       <td>archivo .html</td>
       <td>landing desing</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>harry.jpg</td>
+      <td><b>user.service.js</b></td>
       <td>7389ade</td>
       <td>archivo .jpg</td>
       <td>landing image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>louis.jpg</td>
+      <td><b>community-management.component.vue</b></td>
       <td>1ab86f0</td>
       <td>archivo .jpg</td>
       <td>landing image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>stay.jpg</td>
+      <td><b>community.service.js</b></td>
       <td>289f757</td>
       <td>archivo .jpg</td>
       <td>landing image</td>
@@ -2670,28 +2670,28 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     </tr>
     <tr>
       <td rowspan="4">Antuanet01</td>
-      <td>fans.html</td>
+      <td><b>login-manamegent.vue</b></td>
       <td>750e71d</td>
       <td>archivo .html</td>
       <td>landing desing</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>main.js</td>
+      <td><b>user.service.js</b></td>
       <td>610cb90</td>
       <td>archivo .js</td>
       <td>landing page logic</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>close-icon.png</td>
+      <td><b>community-management.component.vue</b></td>
       <td>5c4dfc3</td>
       <td>archivo .png</td>
       <td>landing page image</td>
       <td>27/04/2025</td>
     </tr>
     <tr>
-      <td>hamburger-icon.png</td>
+      <td><b>community.service.js</b></td>
       <td>5a0247f</td>
       <td>archivo .png</td>
       <td>landing page image</td>
@@ -2699,6 +2699,7 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
     </tr>
   </tbody>
 </table>
+
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
