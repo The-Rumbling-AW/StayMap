@@ -2751,7 +2751,7 @@ Sección login:
   <img src="assets/capturas/captura-login.jpg" alt="cap" style="width: 80%">
 </div>
 
-**Enlace de la APP WEB:** [http://stay-map-web-vercel.app](https://stay-map-app-web.vercel.app/concerts)
+**Enlace de la APP WEB:** [http://stay-map-web-vercel.app](stay-map-app-web.vercel.app)
 **Enlace de la LANDING PAGE:** landing-v2-gamma.vercel.app
 
 **Link de video de visualización y navegación:**
