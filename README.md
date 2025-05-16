@@ -2533,7 +2533,7 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
   <tbody>
     <tr>
       <td rowspan="5">ariaalizz</td>
-      <td>louis-tour.png</td>
+      <td>user.services.js/td>
       <td>f6a0d00</td>
       <td>archive .png</td>
       <td>landing page image</td>
