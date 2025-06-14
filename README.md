@@ -2307,6 +2307,251 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   </tr>
 </table>
 
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>UX UI DESIGN</th>
+    <th>DIAGRAMA UML</th>
+    <th>C4 MODEL</th>
+    <th>DATABASE DESIGN </th>
+    <th>ENTREVISTAS</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+
+### 5.2.1.3. Sprint Backlog 1
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver beneficios para fans</td>
+    <td>TSK01</td>
+    <td>Diseñar sección de beneficios para fans</td>
+    <td>Crear una sección en la landing page que muestre los beneficios para los fans.</td>
+    <td>2 horas</td>
+    <td>Ariana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Ver beneficios para artista</td>
+    <td>TSK02</td>
+    <td>Diseñar sección de beneficios para artistas</td>
+    <td>Crear una sección en la landing page que muestre los beneficios para los artistas.</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Acceder a testimonios</td>
+    <td>TSK03</td>
+    <td>Implementar módulo de testimonios</td>
+    <td>Permitir a los usuarios visualizar testimonios de otros fans y artistas.</td>
+    <td>1 hora</td>
+    <td>Antuanete</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Registrase en la landing page</td>
+    <td>TSK04</td>
+    <td>Crear formulario de registro</td>
+    <td>Implementar el formulario de registro para nuevos usuarios.</td>
+    <td>2 horas</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Iniciar sesión en la landing page</td>
+    <td>TSK05</td>
+    <td>Implementar login en landing page</td>
+    <td>Permitir a usuarios registrados iniciar sesión desde la landing page.</td>
+    <td>5 horas</td>
+    <td>Diego</td>
+    <td>DONE</td>
+  </tr>
+</table>
+
+### 5.2.1.4. Development Evidence for Sprint Review
+
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th>Repository</th>
+      <th>Branch / File</th>
+      <th>Commit id</th>
+      <th>Commit message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>ariaalizz</td><td><b>louis-tour.png</b></td><td>07cbb65</td><td>archivo .png</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>ariaalizz</td><td><b>staymap!ogo.png</b></td><td>2fe5ae4</td><td>archivo.png</td><td>logo StayMap</td><td>27/04/2025</td></tr>
+    <tr><td>ariaalizz</td><td><b>taylor.jpeg</b></td><td>5be819f</td><td>archivo.png</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>ariaalizz</td><td><b>styles.css</b></td><td>0253b2a</td><td>archivo.css</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>ariaalizz</td><td><b>index.html</b></td><td>4c2d312</td><td>archivo.html</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>DekayDeCanela</td><td><b>fans.css</b></td><td>75d862b</td><td>archivo.css</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>DekayDeCanela</td><td><b>artista.css</b></td><td>2eb7f30</td><td>archivo.css</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>DekayDeCanela</td><td><b>sk-tour.jpg</b></td><td>c3f347c</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>DekayDeCanela</td><td><b>main.html</b></td><td>d1a23bc</td><td>archivo.html</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>DekayDeCanela</td><td><b>skz-concert.jpg</b></td><td>9e327a8</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>D4D3v4l</td><td><b>skz-tour.jpg</b></td><td>7be9a71</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>D4D3v4l</td><td><b>niall-tour.jpeg</b></td><td>d7c95a4</td><td>archivo.jpeg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>D4D3v4l</td><td><b>monkeys-tour.jpg</b></td><td>5c55361</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>D4D3v4l</td><td><b>emilia-tour.jpg</b></td><td>6706966</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>D4D3v4l</td><td><b>main.css</b></td><td>489fd9f</td><td>archivo.css</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>ReiZCode</td><td><b>fans.html</b></td><td>65ed194</td><td>archivo.html</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>ReiZCode</td><td><b>harry.jpg</b></td><td>599a130</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>ReiZCode</td><td><b>louis.jpg</b></td><td>566a2c9</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>ReiZCode</td><td><b>stay.jpg</b></td><td>1a48808</td><td>archivo.jpg</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>Antuanet01</td><td><b>artista.html</b></td><td>eb55af7</td><td>archivo.html</td><td>landing desing</td><td>27/04/2025</td></tr>
+    <tr><td>Antuanet01</td><td><b>main.js</b></td><td>145dd26</td><td>archivo.js</td><td>landing page logic</td><td>27/04/2025</td></tr>
+    <tr><td>Antuanet01</td><td><b>close-icon.png</b></td><td>221c792</td><td>archivo.png</td><td>landing page image</td><td>27/04/2025</td></tr>
+    <tr><td>Antuanet01</td><td><b>hamburger-icon.png</b></td><td>fca3f79</td><td>archivo.png</td><td>landing page image</td><td>27/04/2025</td></tr>
+  </tbody>
+</table>
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+<p>Las principales actividades de <strong>Deployment</strong> llevadas a cabo fueron:</p>
+
+<ol>
+  <li>
+    <strong>Creación de repositorio en GitHub:</strong>
+    Se creó un repositorio público dedicado para la Landing Page, facilitando el control de versiones y la colaboración futura.
+  </li>
+  <li>
+    <strong>Configuración de Git:</strong>
+    Se configuró el entorno local para trabajar con Git, incluyendo la identificación de usuario 
+    (<code>git config --global user.name</code> y <code>git config --global user.email</code>).
+  </li>
+  <li>
+    <strong>Inicialización de proyecto Git:</strong>
+    Se ejecutó la inicialización del repositorio local (<code>git init</code>), la adición de archivos 
+    (<code>git add .</code>) y la generación de un primer commit 
+    (<code>git commit -m "Subiendo landing page"</code>).
+  </li>
+  <li>
+    <strong>Asociación a repositorio remoto:</strong>
+    Se estableció el enlace entre el repositorio local y GitHub mediante <code>git remote add origin</code>, 
+    permitiendo realizar el push del proyecto.
+  </li>
+</ol>
+
+<h4>Publicación mediante GitHub Pages:</h4>
+<ul>
+  <li>
+    En la sección <strong>Settings &gt; Pages</strong> del repositorio, se configuró la publicación seleccionando la rama 
+    <em>main</em> y la carpeta raíz (<code>/</code>).
+  </li>
+  <li>
+    Se habilitó el hosting automático, lo que permitió que la Landing Page estuviera disponible en línea a través de un 
+    URL público proporcionado por GitHub.
+  </li>
+</ul>
+
+### 5.2.1.7. Team Collaboration Insights during Sprint
+
+<h4>Desarrollo de Actividades de Implementación:</h4>
+<p>
+Durante este Sprint, el equipo trabajó de manera colaborativa para la implementación de la Landing Page del proyecto.
+Las tareas principales <strong>incluyeron</strong>:
+</p>
+
+<ul>
+  <li>Diseño y estructuración del contenido HTML.</li>
+  <li>Aplicación de estilos CSS para el diseño visual.</li>
+  <li>Configuración del entorno local de desarrollo.</li>
+  <li>Uso de Git para control de versiones.</li>
+  <li>Coordinación para el despliegue de la Landing Page mediante GitHub Pages.</li>
+</ul>
+
+<p>
+La colaboración se realizó principalmente a través de GitHub, donde cada miembro del equipo realizó 
+<a href="#">commits</a> documentando los avances individuales y contribuyendo al repositorio compartido.
+Se <strong>fomentó</strong> la revisión mutua de cambios y la sincronización de actividades para garantizar una entrega
+integrada y de calidad.
+</p>
+
+<h4>Gráficos de colaboración (GitHub Insights):</h4>
+<p>
+Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto.
+Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos
+de la Landing Page.
+</p>
 
 <html lang="es">
 <body>
@@ -2364,7 +2609,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+    <th colspan="7">5.2.2.2. Aspect Leaders and Collaborators</th>
   </tr>
   <tr>
     <th>Team Member</th>
