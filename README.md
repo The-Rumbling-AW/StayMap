@@ -2360,7 +2360,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 <html lang="es">
 
 
-### 5.2.1.2. Aspect Leaders and Collaborators
+### 5.2.2.2. Aspect Leaders and Collaborators
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -2422,7 +2422,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   </tr>
 </table>
 
-### 5.2.1.3. Sprint Backlog 2
+### 5.2.2.3. Sprint Backlog 2
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -2502,7 +2502,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   </tr>
 </table>
 
-### 5.2.1.4. Development Evidence for Sprint Review
+### 5.2.2.4. Development Evidence for Sprint Review
 
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
   <thead style="background-color: #f2f2f2;">
@@ -2704,7 +2704,7 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 </table>
 
 
-### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.2.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 2, nos enfocamos en el desarrollo de funcionalidades clave dentro de la aplicación web StayMap, integrando vistas interactivas y conexión con una fake API basada en json-server. Se completaron varios componentes esenciales que mejoran la experiencia del usuario y permiten la interacción dinámica con los datos.
 
@@ -2762,7 +2762,7 @@ Para complementar, se preparó un video donde se muestra la navegación completa
 Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B)
 
 
-### 5.2.1.6. Software Deployment Evidence for Sprint Review
+### 5.2.2.6. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 2, se realizó el despliegue de la aplicación web funcional de StayMap utilizando la plataforma Vercel, la cual permite hacer deploy continuo desde un repositorio en GitHub con facilidad. A continuación, se detallan las principales actividades realizadas en el proceso de deployment:
 
@@ -2785,7 +2785,7 @@ La aplicación fue publicada exitosamente y quedó disponible en un dominio prop
 Acceso a datos estáticos (JSON): Como parte del despliegue, se reubicó el archivo db.json en la carpeta public/ para que esté disponible en producción mediante fetch desde /db.json, simulando la conexión a una API estática.
 
 Este proceso de deployment asegura que los avances del equipo puedan ser visualizados en tiempo real y validados por el cliente y los usuarios finales, facilitando pruebas y retroalimentación continua.
-### 5.2.1.7. Team Collaboration Insights during Sprint
+### 5.2.2.7. Team Collaboration Insights during Sprint
 
 Desarrollo de Actividades de Implementación:
 Durante este Sprint, el equipo trabajó de manera colaborativa para la implementación de la Landing Page del proyecto. Las tareas principales incluyeron:
