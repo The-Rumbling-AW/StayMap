@@ -2484,6 +2484,45 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 1 nos centramos en el desarrollo de la estructura base de la aplicación web StayMap, enfocándonos principalmente en el diseño visual y la experiencia de usuario mediante tecnologías como HTML y CSS.
+
+Entre las funcionalidades desarrolladas se encuentran:
+
+Landing Page interactiva: Se creó una página de inicio atractiva y funcional que presenta la propuesta de valor de StayMap, con un diseño visual moderno, secciones informativas y una navegación fluida. Esta landing page cumple el rol de dar la bienvenida al usuario y explicar brevemente las principales características de la plataforma.
+
+Sección para fans: Se diseñó una vista dedicada a los usuarios fanáticos de la música, donde podrán registrarse, acceder a próximos eventos y comenzar a personalizar su experiencia dentro de la plataforma. Esta sección está pensada para ofrecer contenido relevante como conciertos cercanos y recomendaciones personalizadas.
+
+Sección para artistas: Se desarrolló un apartado orientado a los artistas, donde podrán registrarse y más adelante gestionar conciertos, comunidades y seguidores. Este espacio sienta las bases para la autogestión de contenido por parte de los músicos y bandas dentro de StayMap.
+
+Este primer Sprint permitió establecer la identidad visual y la arquitectura inicial de la aplicación, dejando sentadas las bases para el desarrollo funcional que se realizaría en los siguientes Sprints.
+
+**Screenshots de las principales vistas:**
+
+Sección de Inicio:
+
+<div align="center">
+  <img src="assets/capturas/captura-inicio.png" alt="inicio" style="width: 80%">
+</div>
+
+Sección de Para Fans:
+
+<div align="center">
+  <img src="assets/capturas/captura-fans.png" alt="cap fans" style="width: 80%">
+</div>
+
+Sección de Para Artistas:
+
+<div align="center">
+  <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
+</div>
+
+**Enlace de la Landing Page:** https://landing-v2-bice.vercel.app/
+
+**Link de video de visualización y navegación:**
+Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
+
+
 ### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
 <p>Las principales actividades de <strong>Deployment</strong> llevadas a cabo fueron:</p>
