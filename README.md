@@ -2294,11 +2294,11 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
     <td></td>
   </tr>
   <tr>
-    <td>Sprint n Goal</td>
+    <td>Sprint Goal</td>
     <td>Diseñar y desarrollar una landing page funcional y responsiva que comunique efectivamente los valores de StayMap, permita la navegación básica y esté alineada con la arquitectura de información planteada para fans y artistas.</td>
   </tr>
   <tr>
-    <td>Sprint n Velocity</td>
+    <td>Sprint Velocity</td>
     <td>Para la planificación de este sprint se utilizará la escala de Fibonacci (1, 2, 3, 5, 8...) para estimar el esfuerzo relativo de cada historia de usuario, permitiendo una mejor comparación y afinación de la carga de trabajo.</td>
   </tr>
   <tr>
@@ -2314,60 +2314,51 @@ Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible 
   <h2>5.2.2. Sprint 2</h2>
   <h3>5.2.2.1. Sprint Planning 2.</h3>
 
-  <h4># Sprint 2</h4>
-  <h5>Sprint Planning Background</h5>
-  
-  <table>
-    <tr>
-      <th>Fecha</th>
-      <td>2025-05-16</td>
-    </tr>
-    <tr>
-      <th>Hora</th>
-      <td>7:00 PM</td>
-    </tr>
-    <tr>
-      <th>Ubicación</th>
-      <td>Virtual, vía Discord</td>
-    </tr>
-    <tr>
-      <th>Preparado por</th>
-      <td>Lizarbe Alvarez, Ariana Nickole</td>
-    </tr>
-    <tr>
-      <th>Participantes (reunión de planificación)</th>
-      <td>
-        Lizarbe Alvarez, Ariana Nickole<br>
-        Ortiz Cardenas, Johanna Antuanete<br>
-        Zúñiga Murillo, Diego Sebastian<br>
-        Collantes Carrillo, Diego Mateo<br>
-        Zegarra Lopez, Renato Rubber Sebastian
-      </td>
-    </tr>
-  </table>
+  <table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2025-05-16</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>7:00PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Virtual, via discord</td>
+  </tr>
+  <tr>
+    <td>Prepared by</td>
+    <td>Lizarbe Álvarez, Ariana Nickole</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Lizarbe Alvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / Zegarra López, Renato Rubber Sebastian</td>
+  </tr>
+  <tr>
+    <td>Sprint Goal & User Stories</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprint Goal</td>
+    <td>Diseñar y desarrollar funcionalidades dentro de STAYMAP que permitan la navegación satisfactoria dentro del programa, cumpliendo con los requisitos necesarios para que el usuario navegue según sus necesidades de asistencia o creación de conciertos.</td>
+  </tr>
+  <tr>
+    <td>Sprint Velocity</td>
+    <td>Para la planificación de este sprint se utilizará la escala de Fibonacci (1, 2, 3, 5, 8...) para estimar el esfuerzo relativo de cada historia de usuario, permitiendo una mejor comparación y afinación de la carga de trabajo.</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>27</td>
+  </tr>
+</table>
 
-  <div class="section-title">Sprint Goal & User Stories</div>
-  <table>
-    <tr>
-      <th>Objetivo del Sprint</th>
-      <td>
-        Diseñar y desarrollar funcionalidades dentro de <strong>STAYMAP</strong> que permitan la navegación satisfactoria dentro del programa, cumpliendo con los requisitos necesarios para que el usuario navegue según sus necesidades de asistencia o creación de conciertos.
-      </td>
-    </tr>
-    <tr>
-      <th>Velocidad del Sprint</th>
-      <td>
-        Para la planificación de este sprint se utilizará la escala de Fibonacci (1, 2, 3, 5, 8...) para estimar el esfuerzo relativo de cada historia de usuario, permitiendo una mejor comparación y afinación de la carga de trabajo.
-      </td>
-    </tr>
-    <tr>
-      <th>Total de Story Points</th>
-      <td>27</td>
-    </tr>
-  </table>
 
-</body>
-</html>
+<html lang="es">
+
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
