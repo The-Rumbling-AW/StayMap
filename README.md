@@ -2522,8 +2522,60 @@ Sección de Para Artistas:
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B
 
+### 5.2.1.6. Service Documentation Evidence for Sprint Review
 
-### 5.2.1.6. Software Deployment Evidence for Sprint Review
+Durante el Sprint 1 se logró establecer la base técnica y visual del proyecto StayMap. Se configuró el entorno de desarrollo, se implementó la estructura inicial del backend  y se desarrollaron los primeros componentes de la interfaz web. Además, se elaboró la landing page funcional, integrando elementos clave como el inicio de sesión. También se definieron rutas de navegación y se implementaron funcionalidades básicas de exploración de conciertos y comunidades.
+
+A continuación, se presenta una tabla con los principales endpoints documentados:
+
+| Endpoint                 | Método | Descripción                          | Parámetros                          | Ejemplo de llamada        | Ejemplo de respuesta                                   |
+|--------------------------|--------|--------------------------------------|-------------------------------------|---------------------------|--------------------------------------------------------|
+| `/api/concerts`          | GET    | Lista todos los conciertos disponibles | Ninguno                             | `GET /api/concerts`       | `[{"id":1,"artist":"Taylor Swift",...}]`              |
+| `/api/concerts/{id}`     | GET    | Detalle de un concierto específico   | `id`                          | `GET /api/concerts/`     | `{"id":1,"artist":"Taylor Swift",...}`                |
+| `/api/communities`       | GET    | Lista de comunidades                 | Ninguno                             | `GET /api/communities`    | `[{"id":1,"name":"Swifties",...}]`                    |
+| `/api/communities/{id}`  | GET    | Detalle de comunidad específica      | `id`                        | `GET /api/communities/`  | `{"id":2,"name":"Moonwalkers",...}`                   |
+
+#### Evidencias Visuales
+
+Vista de conciertos
+
+<div align="center">
+  <img src="assets/service_documentation/vista_conciertos.png" alt="Vista Conciertos" style="width: 80%;">
+</div>
+
+Vista de comunidades 
+
+<div align="center">
+  <img src="assets/service_documentation/vista_comunidades.png" alt="Vista Comunidades" style="width: 80%;">
+</div>
+
+Fake API conciertos
+
+<div align="center">
+  <img src="assets/service_documentation/fakeAPI_conciertos.png" alt="Fake API Conciertos" style="width: 80%;">
+</div>
+
+Fake API comunidades 
+
+<div align="center">
+  <img src="assets/service_documentation/fakeAPI_comunidades.png" alt="Fake API Comunidades" style="width: 80%;">
+</div>
+
+#### Repositorio del Proyecto
+
+- **Repositorio Web App (StayMap)**: [https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)
+
+- **Ruta de la Fake API (datos JSON)**: `src/assets/data/`
+
+#### Commits relevantes Sprint 1
+
+- `f4b2c9d`: Agregado archivo JSON con datos simulados de conciertos y comunidades (Fake API).
+  
+- `c1d0f2a`: Estilos iniciales y diseño para la landing page.
+  
+- `d2e9a4f`: Configuración de rutas y navegación entre componentes.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 <p>Las principales actividades de <strong>Deployment</strong> llevadas a cabo fueron:</p>
 
@@ -2562,7 +2614,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EU
   </li>
 </ul>
 
-### 5.2.1.7. Team Collaboration Insights during Sprint
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <h4>Desarrollo de Actividades de Implementación:</h4>
 <p>
@@ -3045,8 +3097,59 @@ Sección login:
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
 Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B)
 
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-### 5.2.2.6. Software Deployment Evidence for Sprint Review
+Durante el Sprint 2, se avanzó significativamente en la documentación y estructuración de los servicios simulados de StayMap, utilizando una Fake API estructurada como backend provisional. Además, se integraron servicios clave dentro de componentes funcionales, como `CommunityService`, `ConcertService` y `UserService`, conectando correctamente la interfaz con los datos simulados.
+
+#### 📄 Endpoints simulados documentados
+
+| Endpoint                           | Método | Descripción                                           | Ejemplo de llamada             | Ejemplo de respuesta                             |
+|------------------------------------|--------|-------------------------------------------------------|--------------------------------|--------------------------------------------------|
+| `/api/concerts`                    | GET    | Obtener todos los conciertos                         | `GET /api/concerts`            | `[{"id":1,"artist":"Adele",...}]`               |
+| `/api/concerts?genre={genre}`      | GET    | Obtener conciertos filtrados por género musical       | `GET /api/concerts?genre=Pop`  | `[{"id":4,"genre":"Pop",...}]`                  |
+| `/api/communities`                | POST   | Crear una nueva comunidad musical                    | `POST /api/communities`        | `{ "message": "Comunidad creada exitosamente" }`|
+| `/api/profile`                    | GET    | Obtener perfil del usuario actual                    | `GET /api/profile`             | `{ "username": "user1", "email": "..." }`        |
+
+
+#### Capturas de evidencia funcional
+
+Vista del mapa con eventos integrados vía Google Maps API.
+
+<div align="center">
+  <img src="assets/service_documentation/conciertos_mapa.png" alt="Conciertos en mapa" style="width: 80%;">
+</div>
+
+Barra de filtros musicales para búsqueda personalizada.
+
+<div align="center">
+  <img src="assets/service_documentation/filtros_genero.png" alt="Filtros musicales" style="width: 80%;">
+</div>
+
+Formulario de creación de comunidades conectado a `community.service.ts`.
+
+<div align="center">
+  <img src="assets/service_documentation/crear_comunidad.png" alt="Crear comunidad" style="width: 80%;">
+</div>
+
+Vista del perfil del usuario registrado.
+
+<div align="center">
+  <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
+</div>
+
+- **Repositorio del proyecto**: [StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)
+- **Fake API**: `src/assets/data/`
+
+#### Commits relevantes del Sprint 2
+
+- `f6a0d00`: Integración del mapa con Google Maps API para mostrar conciertos geolocalizados.
+- `e1da430`: Implementación del filtro por género musical.
+- `8cdab20`: Desarrollo de lógica para crear nuevas comunidades musicales usando datos simulados.
+- `5a0247f`: Construcción de la vista de perfil de usuario con datos obtenidos de localStorage.
+
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Durante el Sprint 2, se realizó el despliegue de la aplicación web funcional de StayMap utilizando la plataforma Vercel, la cual permite hacer deploy continuo desde un repositorio en GitHub con facilidad. A continuación, se detallan las principales actividades realizadas en el proceso de deployment:
 
@@ -3069,7 +3172,8 @@ La aplicación fue publicada exitosamente y quedó disponible en un dominio prop
 Acceso a datos estáticos (JSON): Como parte del despliegue, se reubicó el archivo db.json en la carpeta public/ para que esté disponible en producción mediante fetch desde /db.json, simulando la conexión a una API estática.
 
 Este proceso de deployment asegura que los avances del equipo puedan ser visualizados en tiempo real y validados por el cliente y los usuarios finales, facilitando pruebas y retroalimentación continua.
-### 5.2.2.7. Team Collaboration Insights during Sprint
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Desarrollo de Actividades de Implementación:
 Durante este Sprint, el equipo trabajó de manera colaborativa para la implementación de la Landing Page del proyecto. Las tareas principales incluyeron:
