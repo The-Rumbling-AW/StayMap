@@ -2599,7 +2599,7 @@ Fake API comunidades
 
 #### Repositorio del Proyecto
 
-- **Repositorio Web App (StayMap)**: `[https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)`
+- **URL Repositorio Web App (StayMap)**: `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
 
 - **Ruta de la Fake API (datos JSON)**: `src/assets/data/`
 
@@ -3173,7 +3173,7 @@ Vista del perfil del usuario registrado.
   <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
 </div>
 
-- **Repositorio del proyecto**:` [StayMap_Landing_PageAW](https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW)`
+- **Repositorio del proyecto**:`https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
 - **Fake API**: `src/assets/data/`
 
 #### Commits relevantes del Sprint 2
