@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/eef1f33f-bd92-4a2e-9811-c982b5aac038)<div align="center">
 
  
   
@@ -2156,6 +2156,10 @@ El equipo gestionó el código fuente del proyecto StayMap mediante el uso de la
 
 - `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
 
+<div align="center">
+  <img src="assets/capturas/captura-landing-report.png" alt="Landing V1" style="width: 80%;">
+</div>
+
 En este repositorio se mantuvo una estructura sencilla de ramas:
 
 - `main`: Rama principal del proyecto, donde se integraron las funcionalidades estables.
@@ -2605,6 +2609,10 @@ Fake API comunidades
 #### Repositorio del Proyecto
 
 - **URL Repositorio Web App (StayMap)**: `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
+
+<div align="center">
+  <img src="assets/capturas/captura-landing-report.png" alt="Rpos v1" style="width: 80%;">
+</div>
 
 - **Ruta de la Fake API (datos JSON)**: `src/assets/data/`
 
@@ -3178,7 +3186,10 @@ Vista del perfil del usuario registrado.
   <img src="assets/service_documentation/perfil_usuario.png" alt="Perfil usuario" style="width: 80%;">
 </div>
 
-- **Repositorio del proyecto**:`https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
+- **Repositorio del proyecto**:`https://github.com/The-Rumbling-AW/LandingV2.git`
+<div align="center">
+  <img src="assets/capturas/captura-landing-v2.png" alt="Repos v2" style="width: 80%;">
+</div>
 - **Fake API**: `src/assets/data/`
 
 #### Commits relevantes del Sprint 2
