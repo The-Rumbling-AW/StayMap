@@ -307,7 +307,7 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 
 # Project Report Collaboration Insights
 
-URL del repositorio de "StayMap": [https://github.com/orgs/The-Rumbling-AW/repositories](https://github.com/orgs/The-Rumbling-AW/repositories)
+URL del repositorio de "StayMap": https://github.com/orgs/The-Rumbling-AW/repositories
 
 # CAPÍTULO I: INTRODUCCIÓN
 
