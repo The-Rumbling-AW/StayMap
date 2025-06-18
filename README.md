@@ -2123,7 +2123,7 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 # 5.1.2. Source Code Management
 
-## 5.1.3. Source Code Style Guide & Conventions
+# 5.1.3. Source Code Style Guide & Conventions
 
 Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron tecnologías web como HTML, CSS y JavaScript. A continuación, se presentan las convenciones seguidas en la implementación:
 
