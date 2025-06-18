@@ -6,7 +6,7 @@
 
 ![Image](assets/upc-logo.png)
 
-## TP "StayMap"
+## TB2 "StayMap"
 
 
 
@@ -882,7 +882,7 @@ Opinión y expectativas sobre StayMap:
 **Duración:** 9:30:20
 **Inicio:** 00:35:37
 
-URL del video de las entrevistas:` <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>`
+URL del video de las entrevistas:` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 ---
 
@@ -2014,8 +2014,8 @@ Notificaciones:
 
 |Tipo|URL del video|
 |---|--------------|
-|Desktop|`<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>`|
-|Mobile|`<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>`|
+|Desktop|`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`|
+|Mobile|`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`|
 
 Estos videos muestran los prototipos interactivos de StayMap para navegador web en versiones desktop y mobile, destacando cómo se han aplicado principios clave de arquitectura de información y decisiones de diseño centradas en el usuario.
 La simulación inicia con una introducción al sistema de navegación, explicando cómo se estructura la información para garantizar una experiencia clara y personalizada tanto para fans de la música como para artistas emergentes. Se evidencian las decisiones relacionadas con:
@@ -2556,7 +2556,7 @@ Sección de Para Artistas:
 
 **URL de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-URL: `<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B>`
+URL: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B`
 
 ### 5.2.1.6. Service Documentation Evidence for Sprint Review
 
@@ -3131,7 +3131,7 @@ Sección login:
 
 **URL de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
-URL: `<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B>`
+URL: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B`
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -3257,12 +3257,12 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 **Videos de Exposiciones:**
 
-- TB1:` <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz>`
-- TP: `<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>`
+- TB1:` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz`
+- TP: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
   
 # Bibliografía
 
-- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf
+- Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. `https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf`
 
 - Ramos-Pla, A., Ramírez-Montoya, M. S., & García-Peñalvo, F. J. (2022). Consumo musical y su relación con la asistencia a conciertos entre universitarios. Revista de Comunicación, 21(2). `https://www.redalyc.org/journal/280/28065583023/html/`
 
