@@ -3230,17 +3230,17 @@ La colaboración se realizó principalmente a través de GitHub, donde cada miem
 
 Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
 
-## 5.2.3 Sprint 3
+## 5.2.3. Sprint 3
 
-### 5.2.3.1 Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
 
-### 5.2.3.2 Aspect Leaders and Collaborators.
-### 5.2.3.3.Sprint Backlog 3.
-### 5.2.3.4.Development Evidence for Sprint Review.
-### 5.2.3.5.Execution Evidence for Sprint Review.
-### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-### 5.2.3.8.Team Collaboration Insights during Sprint.
+### 5.2.3.2. Aspect Leaders and Collaborators.
+### 5.2.3.3. Sprint Backlog 3.
+### 5.2.3.4. Development Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review.
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+### 5.2.3.8. Team Collaboration Insights during Sprint.
 # 5.3. Validation Interviews.
 ## 5.3.1. Diseño de Entrevistas.
 ## 5.3.2. Registro de Entrevistas.
