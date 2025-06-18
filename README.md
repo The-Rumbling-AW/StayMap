@@ -545,7 +545,7 @@ Creemos que, si StayMap destaca a los artistas más destacados y organiza concie
 
 # 1.3. Segmentos objetivo
 
-**1.3.1 Fans de la música (jóvenes y adultos jóvenes):**
+**- Fans de la música (jóvenes y adultos jóvenes):**
 Según el Instituto de Estudios Peruanos (2019), el 54% de los estudiantes universitarios asiste ocasionalmente a conciertos musicales (1 o 2 veces al año), mientras que un 34% lo hace con mayor frecuencia (3 o más veces al año) y solo un 11% nunca ha asistido. Además, se observa que las mujeres (54,6%) muestran una mayor preferencia por géneros como la balada romántica, cumbia, pop, salsa y música clásica, mientras que los hombres (45,4%) se inclinan por el heavy metal, hip-hop y reggaetón. Por otro lado, según Ramos-Pla, Ramírez-Montoya y García-Peñalvo (2022), 4 de cada 10 personas escuchan música con mucha frecuencia, siendo los jóvenes de entre 18 y 24 años los oyentes más asiduos de distintos géneros musicales.
 
 **Edad:** 16 a 35 años
@@ -560,7 +560,7 @@ Según el Instituto de Estudios Peruanos (2019), el 54% de los estudiantes unive
 - Compartir su asistencia a eventos con su red social.
 - Acceder fácilmente a la información sobre conciertos pequeños que muchas veces no se promocionan ampliamente.
 
-**1.3.2 Artistas emergentes y bandas independientes:** 
+**- Artistas emergentes y bandas independientes:** 
 Según el informe Year in Music 2023 de Chartmetric, de los aproximadamente 710,000 nuevos artistas agregados a su plataforma durante el año, solo una fracción mínima logró posicionarse entre los 35,000 artistas más exitosos, lo que evidencia la alta competitividad y dificultad para destacar en la industria musical actual. Por otro lado, el mercado global de artistas independientes continúa en expansión: se estima en 104,61 mil millones de dólares en 2024 y se proyecta que alcance los 149,91 mil millones para el año 2029, con una tasa de crecimiento anual compuesta (CAGR) del 7,46% (Mordor Intelligence, 2024). Esta tendencia refleja el creciente protagonismo de los artistas emergentes y el potencial económico de este segmento en la industria musical.
 
 **Edad:** 18 a 40 años
@@ -2078,7 +2078,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 
 # 4.8. Database Design
 
-# 4.8.1. Database Diagram
+## 4.8.1. Database Diagram
 
 <div align="center">
   <img src="assets/database_diagram/database_diagram.png" alt="Database Diagram" style="width: 80%">
@@ -2092,7 +2092,7 @@ En la base de datos de StayMap, el modelo lógico define la tabla usuario, cuyos
 
 La gestión de la configuración del software desempeña un papel fundamental en el desarrollo de StayMap, ya que permite organizar y controlar de manera eficiente todos los componentes del proyecto, incluyendo el código fuente, los archivos de diseño y los recursos multimedia. Gracias a estas prácticas, se asegura que el equipo trabaje de forma coherente sobre versiones sincronizadas, lo cual facilita la integración continua, la trazabilidad de cambios y una colaboración fluida entre los desarrolladores durante todo el ciclo de vida de la aplicación.
 
-# 5.1.1. Software Development Environment Configuration
+## 5.1.1. Software Development Environment Configuration
 
 **Project Management**
 
@@ -2121,9 +2121,9 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 - [**Lucidchart:**](https://www.lucidchart.com/pages/es) Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
 
-# 5.1.2. Source Code Management
+## 5.1.2. Source Code Management
 
-# 5.1.3. Source Code Style Guide & Conventions
+## 5.1.3. Source Code Style Guide & Conventions
 
 Para el desarrollo de la interfaz responsive del sistema StayMap se utilizaron tecnologías web como HTML, CSS y JavaScript. A continuación, se presentan las convenciones seguidas en la implementación:
 
@@ -3221,8 +3221,8 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 **Videos de Exposiciones:**
 
-- TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- TB1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz>
+- TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
   
 # Bibliografía
 
