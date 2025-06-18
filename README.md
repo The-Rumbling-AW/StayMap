@@ -333,6 +333,11 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 
 URL del repositorio de "StayMap": `https://github.com/orgs/The-Rumbling-AW/repositories`
 
+<p align="center">
+<img src="assets/capturas/captura-project-repository.png" alt="repositorio project report" style="width: 700px">
+</p>
+
+
 # CAPÍTULO I: INTRODUCCIÓN
 
 # 1.1. Startup Profile
