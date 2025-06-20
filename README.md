@@ -2152,21 +2152,42 @@ En esta etapa se utilizaron herramientas de diseño que permitieron crear interf
 
 ### 5.1.2. Source Code Management
 
-El equipo gestionó el código fuente del proyecto StayMap mediante el uso de la plataforma GitHub como sistema de control de versiones. Se trabajó principalmente en el repositorio:
+El desarrollo del proyecto StayMap se gestionó a través de un repositorio público en GitHub. La estructura del repositorio fue diseñada para integrar tanto la landing page como la aplicación web funcional dentro de un mismo entorno de desarrollo, esto permitió trabajar de forma unificada en todas las vistas y funcionalidades del sistema.
 
-- `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
+Repositorio utilizado:  
+`https://github.com/The-Rumbling-AW/StayMap-Landing_PageAW`
 
-<div align="center">
-  <img src="assets/capturas/captura-landing-report.png" alt="Landing V1" style="width: 80%;">
-</div>
+El proyecto está construido con Vue.js y utiliza Vite como herramienta de empaquetado. Esta configuración permite implementar una arquitectura tipo SPA (Single Page Application), en la que diferentes secciones como la landing, el perfil del usuario, los conciertos y las comunidades conviven bajo una misma base de código y se gestionan mediante rutas.
 
-En este repositorio se mantuvo una estructura sencilla de ramas:
+#### Estructura del repositorio
 
-- `main`: Rama principal del proyecto, donde se integraron las funcionalidades estables.
-- `gh-pages`: Rama utilizada para el despliegue del sitio web a través de GitHub Pages.
+Dentro del repositorio, se encuentran carpetas y archivos organizados de la siguiente manera:
 
-No se aplicó el modelo GitFlow, ya que el proyecto no requirió una gestión avanzada de ramas para features o releases. El flujo de trabajo se centró en actualizaciones directas sobre la rama principal, priorizando la simplicidad y la colaboración fluida entre miembros del equipo.
-Además durante el desarrollo se adoptó la convención **Conventional Commits** para estructurar los mensajes de confirmación de cambios. Esto permitió mejorar la trazabilidad, claridad y automatización del historial de versiones.
+- `src/`: Contiene todo el código fuente. Aquí se desarrollan tanto la landing page como los módulos internos de la aplicación.
+  - `App.vue` y `main.js`: Representan el punto de entrada y la configuración principal del proyecto.
+  - `community/`: Incluye los archivos relacionados a la gestión de comunidades (componentes, modelos, vistas).
+  - `assets/`: Carpeta con los recursos gráficos como logotipos e íconos.
+- `public/`: Archivos estáticos que se utilizan en tiempo de ejecución.
+- `server/`: Simula un backend utilizando archivos JSON (`db.json`, `routes.json`), que permiten trabajar con datos durante el desarrollo sin necesidad de un servidor real.
+- `vite.config.js`: Archivo de configuración general del entorno de desarrollo.
+
+#### Organización de la landing y la aplicación web
+
+Ambas secciones están incluidas en el mismo proyecto. La landing corresponde a la vista principal que se carga en la ruta raíz (`/`) y funciona como página de bienvenida e introducción. La aplicación funcional se organiza por módulos y se accede a través de rutas específicas, abarcando funcionalidades como explorar conciertos, gestionar comunidades o visualizar el perfil del usuario.
+
+Esta estructura permite que tanto la parte pública como la funcionalidad interna compartan servicios, estilos y configuraciones, facilitando el mantenimiento y la escalabilidad del sistema.
+
+#### Control de versiones y convenciones
+
+El trabajo se realizó principalmente sobre una única rama (`main`). Aunque no se empleó GitFlow ni versionado semántico, se mantuvo una estructura clara y ordenada gracias al uso de convenciones de commits. Se aplicó el formato **Conventional Commits**, que permitió identificar fácilmente el propósito de cada cambio:
+
+- `feat:` para nuevas funcionalidades o componentes.
+- `fix:` para corrección de errores.
+- `style:` para ajustes visuales o de formato.
+- `refactor:` para reorganización o mejora interna del código.
+
+Este enfoque ayudó a mantener un historial limpio y comprensible, útil tanto para el equipo como para futuras mejoras del sistema.
+
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
