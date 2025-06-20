@@ -2186,27 +2186,27 @@ La gestión de la configuración del software desempeña un papel fundamental en
 
 En esta etapa, se utilizaron herramientas colaborativas que permitieron planificar, organizar y supervisar el avance del proyecto de manera efectiva. Estas plataformas facilitaron la comunicación entre los integrantes y el seguimiento de tareas, optimizando el flujo de trabajo.
 
-- [**Discord:**]`(https://discord.com/)` Cada miembro utilizó la aplicación Discord para realizar reuniones virtuales, coordinar avances y resolver dudas en tiempo real. Esta herramienta fue clave para mantener una comunicación fluida y una colaboración continua durante el desarrollo del proyecto.
+- [**Discord:**](https://discord.com/) Cada miembro utilizó la aplicación Discord para realizar reuniones virtuales, coordinar avances y resolver dudas en tiempo real. Esta herramienta fue clave para mantener una comunicación fluida y una colaboración continua durante el desarrollo del proyecto.
 
-- [**Google Docs:**]`(https://workspace.google.com/intl/es-419/products/docs/)` Google Docs nos permitió dividir el trabajo de forma equitativa y registrar los avances individuales de cada integrante. También facilitó la organización de la información previa que luego se documentó en GitHub.
+- [**Google Docs:**](https://workspace.google.com/intl/es-419/products/docs/) Google Docs nos permitió dividir el trabajo de forma equitativa y registrar los avances individuales de cada integrante. También facilitó la organización de la información previa que luego se documentó en GitHub.
 
 **Requirements Management**
 
 Durante esta fase, se emplearon diversas herramientas visuales para identificar, analizar y documentar los requerimientos del sistema. Esto ayudó a comprender profundamente a los usuarios y definir los objetivos del producto.
 
-- [**UXPressia:**]`(https://uxpressia.com/)` Utilizamos esta plataforma para crear User Personas, Empathy Maps, Journey Maps e Impact Maps. Estas herramientas fueron fundamentales para identificar y comprender las necesidades, expectativas y motivaciones de nuestros usuarios objetivo.
+- [**UXPressia:**](https://uxpressia.com/) Utilizamos esta plataforma para crear User Personas, Empathy Maps, Journey Maps e Impact Maps. Estas herramientas fueron fundamentales para identificar y comprender las necesidades, expectativas y motivaciones de nuestros usuarios objetivo.
 
-- [**Miro:**]`(https://miro.com/es/)` Miro fue empleada para diseñar los escenarios As-Is y To-Be, lo cual nos permitió visualizar el estado actual del problema y proyectar una solución ideal centrada en el usuario.
+- [**Miro:**](https://miro.com/es/) Miro fue empleada para diseñar los escenarios As-Is y To-Be, lo cual nos permitió visualizar el estado actual del problema y proyectar una solución ideal centrada en el usuario.
 
-- [**Structurizr:**]`(https://structurizr.com/) `Implementamos Structurizr para la creación de los diagramas C4, los cuales nos ayudaron a definir la arquitectura del sistema en distintos niveles (Contexto, Contenedor, Componente y Código), brindando una visión clara de cómo se estructuran los elementos del software.
+- [**Structurizr:**](https://structurizr.com/) Implementamos Structurizr para la creación de los diagramas C4, los cuales nos ayudaron a definir la arquitectura del sistema en distintos niveles (Contexto, Contenedor, Componente y Código), brindando una visión clara de cómo se estructuran los elementos del software.
 
 **Product UX/UI Design**
 
 En esta etapa se utilizaron herramientas de diseño que permitieron crear interfaces intuitivas, visualmente atractivas y centradas en el usuario. Estas herramientas facilitaron la elaboración de prototipos interactivos y estructuras visuales claras del sistema.
 
-- [**Figma:**]`(https://www.figma.com/es-la/) `Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
+- [**Figma:**](https://www.figma.com/es-la/) Utilizamos Figma para la creación de wireframes, mockups y prototipos interactivos. Esta herramienta colaborativa nos permitió iterar rápidamente sobre el diseño de la interfaz, evaluando su usabilidad y estética.
 
-- [**Lucidchart:**]`(https://www.lucidchart.com/pages/es)` Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
+- [**Lucidchart:**](https://www.lucidchart.com/pages/es) Empleamos Lucidchart para diseñar el modelo de base de datos y elaborar diagramas UML, lo cual facilitó la visualización estructurada de las entidades, relaciones y comportamientos del sistema.
 
 
 ### 5.1.2. Source Code Management
@@ -2421,30 +2421,45 @@ Los estilos están encapsulados usando scoped, evitando colisiones globales.
 
 ## 5.1.4. Software Deployment Configuration
 
-Para la publicación de nuestra landing page y aplicación web, utilizamos GitHub Pages, una herramienta gratuita de GitHub que permite alojar sitios estáticos directamente desde un repositorio. Esta opción resultó ideal para presentar el proyecto de forma accesible, sin necesidad de servidores adicionales ni configuraciones complejas.
+Para la publicación de nuestra aplicación web StayMap desarrollada en Vue 3, seguimos un flujo moderno de despliegue utilizando servicios en la nube que permiten alojar proyectos web estáticos y SPA (Single Page Applications) de forma ágil y sin necesidad de servidores dedicados.
 
-A continuación, se detallan los pasos que seguimos para configurar el despliegue:
+A continuación, detallamos el proceso de despliegue utilizado:
 
-1. Creación del repositorio en GitHub:
-Iniciamos el proceso creando un nuevo repositorio en GitHub, donde alojaremos todos los archivos relacionados con el proyecto de la landing page, incluyendo el HTML, CSS y JavaScript.
+1. Configuración del entorno de producción
+Se utilizó el sistema de construcción de Vite para compilar y optimizar el proyecto. El comando:
 
-2. Preparación del entorno local:
-Clonamos el repositorio en nuestra computadora utilizando Git, lo que nos permitió trabajar de manera local, realizar pruebas y organizar el contenido antes de subirlo a la nube.
+		npm run build
 
-3. Organización de los archivos del proyecto:
-Diseñamos una estructura clara de carpetas que incluyera el archivo principal index.html, las hojas de estilo y los scripts necesarios para el correcto funcionamiento de la página. Esta organización facilitó el mantenimiento y despliegue del proyecto.
+generó una versión lista para producción en la carpeta /dist, conteniendo los archivos estáticos (HTML, JS, CSS, assets optimizados).
 
-4. Configuración de GitHub Pages:
-Una vez que el contenido estuvo listo y subido al repositorio, procedimos a activar GitHub Pages. Para ello:
+2. Creación del repositorio en GitHub
+Creamos un repositorio específico en GitHub para alojar el código fuente de StayMap. En él se mantuvo la organización por carpetas: /src, /public, /assets, y la carpeta de distribución /dist.
 
-- Accedimos a la pestaña Settings del repositorio.
+3. Configuración de GitHub Pages
+Utilizamos GitHub Pages para desplegar la versión generada del sitio:
 
-- En la sección Pages, seleccionamos la rama principal (por ejemplo, main) y la carpeta raíz como fuente de publicación.
+- Se accedió a la pestaña Settings del repositorio.
+- En la sección Pages, se seleccionó la rama main y la carpeta /dist como fuente de publicación.
+- Se guardaron los cambios, generando automáticamente la URL pública del sitio.
 
-- Guardamos los cambios y GitHub generó automáticamente la URL pública para visualizar el sitio.
+Nota: Para que GitHub Pages detecte correctamente el contenido de /dist, puede ser necesario usar herramientas como gh-pages o configurar el deploy desde GitHub Actions.
 
-5. Verificación del despliegue:
-Después de unos minutos, GitHub Pages procesó el contenido y dejó disponible nuestra landing page en línea. Accedimos al enlace proporcionado para comprobar que todo funcionaba correctamente y que los archivos se renderizaban sin errores.
+4. Alternativas de despliegue (opcional)
+También se contempló la posibilidad de usar servicios como Netlify o Vercel, que permiten hacer deploy directamente desde GitHub tras vincular el repositorio. Estos servicios detectan automáticamente el uso de Vite y ofrecen:
+
+- Preview deploys por cada rama.
+- Configuración automática del dominio.
+- HTTPS y CI/CD integrados.
+
+5. Verificación del despliegue
+Una vez publicado el sitio, se accedió a la URL generada por GitHub Pages para validar que:
+
+- La estructura visual y estilos se cargan correctamente.
+- Los assets están optimizados.
+- El enrutamiento SPA (vue-router) funciona incluso al refrescar páginas internas.
+
+Este enfoque permitió que StayMap esté disponible de forma accesible, segura y sin costo de infraestructura adicional.
+
 
 # 5.2. Landing Page, Services & Applications Implementation
 
@@ -3493,9 +3508,9 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 - Wireflow Diagrams: `https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546`
 
-- User Flow Diagrams:` https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc`
+- User Flow Diagrams: `https://lucid.app/lucidspark/c12ba67c-79fe-4958-b296-cbf52fc67ce1/edit?viewport_loc=-5597%2C-2950%2C9600%2C4563%2C0_0&invitationId=inv_e02cd09b-80a5-4067-8990-e93d5c30fcfc`
 
-- WireFrames:` https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0`
+- WireFrames: `https://www.figma.com/design/77Z93r3nalqetBCDUTVvU0/Untitled?node-id=0-1&p=f&t=84cnNflph9dQEFVu-0`
 
 - Mockups: `https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0`
 
