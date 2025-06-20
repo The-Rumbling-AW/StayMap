@@ -2298,6 +2298,68 @@ Uso de nombres en camelCase.
 
 - Separación del contenido (HTML), presentación (CSS) y comportamiento (JavaScript).
 
+**Vue.js**
+
+Se empleó Vue 3 como framework para el desarrollo de la interfaz, utilizando componentes standalone, enrutamiento dinámico, manejo de estado con Pinia y separación por dominios.
+
+Definición de componente standalone
+
+		<script setup>
+  		defineProps(['title'])
+    		</script>
+      		<template>
+		<h2>{{ title }}</h2>
+  		</template>
+    
+Se utilizó 'script setup' para simplificar la lógica reactiva y 'defineProps' para recibir propiedades.
+
+Enrutamiento con vue-router
+
+		import { createRouter, createWebHistory } from 'vue-router'
+  		import Home from '@/pages/HomePage.vue'
+    		export const router = createRouter({
+      		history: createWebHistory(),
+		routes: [
+  			 { path: '/', component: Home },
+	 		{ path: '/login', component: () => 
+    			import('@/pages/LoginPage.vue') }
+       			  ]
+  			})
+     
+El enrutamiento fue dinámico y modular, cargando las rutas por vistas.
+
+Store global con Pinia
+
+		import { defineStore } from 'pinia'
+  		export const useUserStore = defineStore('user', {
+    		  state: () => ({ name: '', loggedIn: false }),
+      		actions: {
+		    login(name) {
+  			 { path: '/', component: Home },
+	 		      this.name = name
+    			      this.loggedIn = true
+       			      }
+  		  	}
+       			})
+
+Se manejó el estado global a través de Pinia, facilitando el control de sesión del usuario.
+
+Estilos en componente .vue
+
+		<template>
+  		  <button class="btn-accent">Acceder</button>
+    		  </template>
+      		<style scoped>
+		 .btn-accent {
+  		  background-color: #2e8b57;
+	 	  color: white;
+    		  padding: 10px 16px;
+       		  border-radius: 6px;
+  		  }
+       		</style>
+	 
+Los estilos están encapsulados usando scoped, evitando colisiones globales.
+
 ## 5.1.4. Software Deployment Configuration
 
 Para la publicación de nuestra landing page y aplicación web, utilizamos GitHub Pages, una herramienta gratuita de GitHub que permite alojar sitios estáticos directamente desde un repositorio. Esta opción resultó ideal para presentar el proyecto de forma accesible, sin necesidad de servidores adicionales ni configuraciones complejas.
