@@ -3025,7 +3025,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>DekayDeCanela</td>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>79a63cc</td>
       <td>Refine community-management.component.vue CSS</td>
@@ -3033,7 +3033,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>DekayDeCanela</td>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>8cdab20</td>
       <td>Refine community.service.js CSS</td>
@@ -3041,7 +3041,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>DekayDeCanela</td>
+      <td>ariaalizz</td>
       <td><b>login-manamegent.vue</b></td>
       <td>5a0247f</td>
       <td>Update login-manamegent.vue landing image</td>
@@ -3049,7 +3049,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>DekayDeCanela</td>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>f05af9c</td>
       <td>Test user.service.js landing page HTML</td>
@@ -3057,7 +3057,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>DekayDeCanela</td>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>54fa25b</td>
       <td>Update community-management.component.vue landing image</td>
@@ -3065,7 +3065,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>D4D3val</td>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>7be9471</td>
       <td>Update community.service.js landing image</td>
@@ -3073,7 +3073,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>D4D3val</td>
+      <td>ariaalizz</td>
       <td><b>login-manamegent.vue</b></td>
       <td>26e2e62</td>
       <td>Update login-manamegent.vue landing image</td>
@@ -3081,7 +3081,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>D4D3val</td>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>c275d9b</td>
       <td>Update user.service.js landing image</td>
@@ -3089,7 +3089,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>D4D3val</td>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>ecd04c6</td>
       <td>Update community-management.component.vue landing image</td>
@@ -3097,7 +3097,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>D4D3val</td>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>802d18d</td>
       <td>Refine community.service.js CSS</td>
@@ -3105,7 +3105,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>ReizCode</td>
+      <td>ariaalizz</td>
       <td><b>login-manamegent.vue</b></td>
       <td>17fb0db</td>
       <td>Test login-manamegent.vue HTML</td>
@@ -3113,7 +3113,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>ReizCode</td>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>7389ade</td>
       <td>Update user.service.js landing image</td>
@@ -3121,7 +3121,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>ReizCode</td>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>1ab86f0</td>
       <td>Update community-management.component.vue landing image</td>
@@ -3129,7 +3129,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>ReizCode</td>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>289f757</td>
       <td>Update community.service.js landing image</td>
@@ -3137,7 +3137,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>Antuanet01</td>
+      <td>ariaalizz</td>
       <td><b>login-manamegent.vue</b></td>
       <td>750e71d</td>
       <td>Test login-manamegent.vue HTML</td>
@@ -3145,7 +3145,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>Antuanet01</td>
+      <td>ariaalizz</td>
       <td><b>user.service.js</b></td>
       <td>610cb90</td>
       <td>Update user.service.js logic</td>
@@ -3153,7 +3153,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>Antuanet01</td>
+      <td>ariaalizz</td>
       <td><b>community-management.component.vue</b></td>
       <td>5c4dfc3</td>
       <td>Algo relacionado a community-management.component.vue</td>
@@ -3161,7 +3161,7 @@ de la Landing Page.
       <td>16/05/2025</td>
     </tr>
     <tr>
-      <td>Antuanet01</td>
+      <td>ariaalizz</td>
       <td><b>community.service.js</b></td>
       <td>5a0247f</td>
       <td>Update community.service.js landing image</td>
