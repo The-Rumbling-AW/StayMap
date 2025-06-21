@@ -3443,7 +3443,7 @@ Todas estas funcionalidades fueron integradas con llamadas al backend simulado m
 <strong> Screenshots de las evidencias: </strong>
 
 <div align="center">
-  <img src="assets/capturas/captura-landing-v2.png" alt="EVIDENCIAS FALTA" style="width: 80%;">
+  <img src="assets/capturas/captura-evidencias.png" alt="EVIDENCIAS FALTA" style="width: 80%;">
 </div>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
