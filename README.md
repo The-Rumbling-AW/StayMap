@@ -3447,8 +3447,96 @@ Todas estas funcionalidades fueron integradas con llamadas al backend simulado m
 </div>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 3, se completó exitosamente el despliegue de dos componentes principales del sistema StayMap: la <strong>Landing Page</strong> informativa y la <strong>Aplicación Web funcional</strong>. Cada uno fue desplegado utilizando una plataforma distinta según sus características y necesidades técnicas.
+
+---
+
+#### Landing Page
+
+La Landing Page de StayMap, orientada a la presentación del proyecto y sus beneficios, fue desarrollada como un módulo independiente en Vue. Para su despliegue, se generó una carpeta **dist/** mediante el comando de compilación en producción:
+
+```
+npm run build -- --configuration production
+```
+
+Esta carpeta fue publicada en GitHub Pages a través del branch **gh-pages**, configurado para servir contenido estático desde **dist/**.
+
+Este despliegue permitió mostrar funcionalidades clave como:
+
+- Presentación de beneficios para fans y artistas.
+- Testimonios de usuarios reales.
+- Selector de idioma (Español/Inglés) que traduce dinámicamente el contenido.
+
+<strong> Vista de la Landing Page desplegada en GitHub Pages: </strong>  
+
+<div align="center">
+  <img src="assets/capturas/captura-deployment-landingpage.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+---
+
+#### Aplicación Web 
+
+La aplicación principal de StayMap fue desarrollada con Vue 3 y desplegada en la plataforma **Render**, la cual permite el alojamiento de aplicaciones web y servidores back-end mediante integración continua desde GitHub.
+
+En este caso:
+
+- Se utilizó un servidor Express para exponer los endpoints REST y servir el archivo `db.json` como fuente de datos.
+- Render ejecutó internamente:
+
+```
+npm install && npm run build
+```
+- Se configuraron correctamente las rutas en Render para exponer tanto el frontend como el backend simulado.
+
+La aplicación permite al usuario:
+
+- Visualizar conciertos y comunidades.
+- Editar perfil de usuario.
+- Confirmar o cancelar asistencia a eventos.
+- Ver mapa interactivo con Google Maps API.
+- Publicar y explorar contenido en comunidades musicales.
+
+**Vista de la Aplicación Web desplegada en Render:**
+
+<div align="center">
+  <img src="assets/capturas/captura-deployment-appweb.png" alt="deploy appweb" style="width: 80%;">
+</div>
+---
+
+Ambos despliegues fueron validados como evidencia funcional durante la revisión del Sprint 3, garantizando que el sistema StayMap se encuentra operativo en entornos productivos accesibles públicamente.
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, el equipo de desarrollo colaboró activamente para implementar las funcionalidades centrales de la plataforma **StayMap**. La coordinación entre los miembros permitió una integración fluida de componentes, servicios y vistas, trabajando de forma distribuida pero sincronizada.
+
+Las principales actividades realizadas fueron:
+
+- **Estructuración de módulos y componentes** en Vue 3, organizados por bounded contexts (usuarios, conciertos, comunidades, etc.).
+- **Diseño e implementación de estilos visuales** siguiendo una línea gráfica moderna, oscura y coherente.
+- **Integración de un backend simulado** mediante un servidor Express personalizado, el cual expone rutas RESTful y gestiona un archivo JSON como fuente de datos persistente. Este backend fue desplegado en Render como servicio independiente.
+- **Control de versiones y manejo de ramas** usando Git y GitHub, con convenciones claras como `dev`, `server`, `router`, `features/concerts`, entre otras.
+- **Despliegue automático** de la aplicación web y el backend simulado mediante Render.
+
+El equipo utilizó GitHub como herramienta central de colaboración. Cada integrante trabajó en su rama asignada, realizando **commits frecuentes y descriptivos**. Se aplicaron revisiones cruzadas y pruebas locales antes de hacer *merge* al branch `dev`, y finalmente al branch `main`.
+
+**Gráficos de colaboración:**
+
+<div align="center">
+  <img src="assets/capturas/captura-commits-appweb.png" alt="commits appweb" style="width: 80%;">
+</div>
+
+Este enfoque fomentó una dinámica de trabajo colaborativo en paralelo, permitiendo avanzar simultáneamente en tareas clave como:
+
+- Vista de perfil editable para fans y artistas.
+- Publicación y navegación dentro de comunidades musicales.
+- Buscador y filtro de conciertos.
+- Interacción geoespacial en el mapa de conciertos integrando Google Maps API.
+
+La participación activa del equipo quedó evidenciada en la frecuencia de los commits y en la cantidad de tareas completadas a tiempo, fortaleciendo el cumplimiento de los objetivos del Sprint.
 
 # 5.3. Validation Interviews.
 
