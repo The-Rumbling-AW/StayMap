@@ -64,22 +64,29 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
     <tr>
       <td>TP</td>
       <td>16/05/2025</td>
-      <td>	- Collantes Carrillo, Diego Mateo <br>
+      <td>
+	- Collantes Carrillo, Diego Mateo <br>
 	- Lizarbe Alvarez, Ariana Nickole <br>
 	- Ortiz Cardenas, Johanna Antuanete <br>
 	- Zegarra Lopez, Renato Sebastian Rubber <br> 
-	- Zúñiga Murillo, Diego Sebastian <br></td>
+	- Zúñiga Murillo, Diego Sebastian <br>
+      </td>
       <td>El equipo ha logrado avances significativos en el desarrollo de las funcionalidades principales del proyecto. Se ha optimizado la página principal incorporando mejoras derivadas de los comentarios obtenidos durante la fase inicial de desarrollo. La interfaz de usuario ya cuenta con su primera versión operativa, cumpliendo con todos los estándares técnicos y requerimientos de diseño previamente establecidos.
 Durante la segunda fase de trabajo, se llevó a cabo una planificación minuciosa donde se designaron líderes para cada área funcional clave. El equipo completó exitosamente todas las tareas programadas, evidenciado en los módulos desarrollados, pruebas realizadas y documentación técnica generada. Como parte del proceso continuo de mejora, se actualizaron los documentos del proyecto, incluyendo el informe de colaboración y los resultados académicos, donde se refleja claramente el progreso colectivo y la evolución de las capacidades del equipo.
 El trabajo colaborativo y la distribución efectiva de responsabilidades han permitido consolidar los componentes esenciales del sistema. Cada integrante ha contribuido activamente al desarrollo de las soluciones técnicas, asegurando que los diferentes módulos funcionen de manera integrada. Las iteraciones constantes y las revisiones periódicas han facilitado la identificación temprana de áreas de mejora, optimizando así tanto el proceso de desarrollo como los resultados obtenidos.</td>
     </tr>
     <tr>
       <td>TB2</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>21/06/2025</td>
+      <td>
+	- Collantes Carrillo, Diego Mateo <br>
+	- Lizarbe Alvarez, Ariana Nickole <br>
+	- Ortiz Cardenas, Johanna Antuanete <br>
+	- Zegarra Lopez, Renato Sebastian Rubber <br> 
+	- Zúñiga Murillo, Diego Sebastian <br>
+      </td>
+      <td>Durante el Sprint 3 se logró desplegar exitosamente una nueva versión de la landing page, junto con la publicación de la aplicación web desarrollada con Vue y JavaScript, alojada en la plataforma Vercel. El equipo realizó una planificación detallada y asignó roles clave (Aspect Leaders) para asegurar el cumplimiento de los objetivos. Las tareas definidas en el Sprint Backlog fueron ejecutadas de forma efectiva, y se generaron evidencias claras a través del código, las pruebas realizadas y la documentación técnica correspondiente. También se actualizaron los artefactos previos, como el Project Report Collaboration Insights y la sección de Student Outcome, reflejando los avances alcanzados y la colaboración del equipo. En conclusión, se cuenta con una versión funcional parcial que satisface los requisitos definidos para esta etapa del proyecto.</td>
     </tr>
- 
   </tbody>
 </table>
 </div>
@@ -166,8 +173,9 @@ El trabajo colaborativo y la distribución efectiva de responsabilidades han per
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
       - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Software Deployment Evidence for Sprint Review](#5216-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.7. Team Collaboration Insights during Sprint](#5217-team-collaboration-insights-during-sprint)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
@@ -2396,7 +2404,10 @@ Este enfoque permitió que StayMap esté disponible de forma accesible, segura y
   </tr>
   <tr>
     <td>Sprint Goal</td>
-    <td>Diseñar y desarrollar una landing page funcional y responsiva que comunique efectivamente los valores de StayMap, permita la navegación básica y esté alineada con la arquitectura de información planteada para fans y artistas.</td>
+    <td>
+<strong>Nuestro enfoque está</strong> en entregar una landing page funcional y responsiva que refleje los valores de marca de StayMap y permita una navegación básica alineada con la arquitectura de información.
+  <strong>Creemos que esto ofrece</strong> una primera experiencia de usuario clara y genera confianza en fans y artistas que visitan la plataforma por primera vez.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan acceder a la landing page desde distintos dispositivos, navegar entre secciones clave y comprender fácilmente la propuesta de valor de StayMap.</td>
   </tr>
   <tr>
     <td>Sprint Velocity</td>
@@ -2623,7 +2634,7 @@ Sección de Para Artistas:
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
 URL: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EUI7wWHl6_BIldMBylSryzwBIvr_c_QHEKdGhnRZnkBG9w?e=Tix91B`
 
-### 5.2.1.6. Service Documentation Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1 se logró establecer la base técnica y visual del proyecto StayMap. Se configuró el entorno de desarrollo, se implementó la estructura inicial del backend  y se desarrollaron los primeros componentes de la interfaz web. Además, se elaboró la landing page funcional, integrando elementos clave como el inicio de sesión. También se definieron rutas de navegación y se implementaron funcionalidades básicas de exploración de conciertos y comunidades.
 
@@ -2679,6 +2690,7 @@ Fake API comunidades
 - `c1d0f2a`: Estilos iniciales y diseño para la landing page.
   
 - `d2e9a4f`: Configuración de rutas y navegación entre componentes.
+
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2785,7 +2797,11 @@ de la Landing Page.
   </tr>
   <tr>
     <td>Sprint Goal</td>
-    <td>Diseñar y desarrollar funcionalidades dentro de STAYMAP que permitan la navegación satisfactoria dentro del programa, cumpliendo con los requisitos necesarios para que el usuario navegue según sus necesidades de asistencia o creación de conciertos.</td>
+    <td>
+	    <strong>Nuestro enfoque está</strong> en desarrollar una página funcional que permita a fans y artistas visualizar en un mapa los eventos deseados por los usuarios y la disponibilidad de eventos en su área.
+  <strong>Creemos que esto ofrece</strong> una experiencia personalizada y relevante para los usuarios, facilitando la conexión entre intereses musicales y oferta local de eventos.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan ingresar a la página, ver eventos geolocalizados en el mapa y distinguir cuáles están disponibles en su zona según sus preferencias.
+    </td>
   </tr>
   <tr>
     <td>Sprint Velocity</td>
@@ -3306,9 +3322,265 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 ### 5.2.3.1. Sprint Planning 3
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-06-20</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>9:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Virtual, via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared by</strong></td>
+      <td>Lizarbe Álvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Lizarbe Álvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / 
+        Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / 
+        Zegarra López, Renato / Rubber Sebastian
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Goal</strong></td>
+     <td>
+  <strong>Nuestro enfoque está</strong> en desarrollar una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses.
+  <strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes.
+  <strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical, y crear o unirse a comunidades afines dentro de la plataforma.
+</td>
+	    <tr>
+    <td>Sum of Story Points</td>
+    <td>37</td>
+  </tr>
+  </tbody>
+</table>
+
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>Landing Page</th>
+    <th>Communities</th>
+    <th>Development</th>
+    <th>Components</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
 ### 5.2.3.3. Sprint Backlog 3.
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver beneficios para fans</td>
+    <td>TSK01</td>
+    <td>Ver beneficios para fans en la Landing Page</td>
+    <td>Mostrar sección destacada en la página principal con los beneficios que ofrece StayMap para los fans.
+</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Ver beneficios para artista</td>
+    <td>TSK02</td>
+    <td>Ver beneficios para artistas en la Landing Page</td>
+    <td>Añadir contenido informativo que explique cómo StayMap apoya a los artistas en la promoción de eventos.</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td> 
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Acceder a testimonios</td>
+    <td>TSK03</td>
+    <td>Acceder a testimonios de personas quienes hayan utilizado StayMap
+</td>
+    <td>Implementar módulo visual en la landing que muestre testimonios de personas que hayan utilizado StayMap.
+</td>
+    <td>30 minutos</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US11</td>
+    <td>Personalizar perfil de artista</td>
+    <td>TSK11</td>
+    <td>Permitir al artista personalizar su perfil</td>
+    <td>Opción que permite al artista cambiar su nombre y fotografía de perfil.
+</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Ingresar a comunidad de fans</td>
+    <td>TSK13</td>
+    <td>Funcionalidad para ingresar a comunidad</td>
+    <td>Permitir que el usuario fan se una a comunidades dentro de la app para interactuar con otros asistentes y seguidores.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Cambiar idioma en la landing page</td>
+    <td>TSK15</td>
+    <td>Implementar selector de idioma en la landing</td>
+    <td>Agregar opción en la interfaz para alternar entre español e inglés y traducir dinámicamente el contenido de la página.</td>
+    <td>2 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>Done</td> <tr>
+	<td>US16</td>
+    <td>Buscar conciertos</td>
+    <td>TSK16</td>
+    <td>Implementar buscador de conciertos por nombre o artista</td>
+    <td> Crear barra de búsqueda que filtre y muestre resultados de conciertos según palabras clave ingresadas por el usuario.
+</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td>
+  </tr>
+    <td>US17</td>
+    <td>Buscar comunidades</td>
+    <td>TSK17</td>
+    <td>Habilitar buscador de comunidades</td>
+    <td>Implementar funcionalidad que permita buscar comunidades por nombre o temática e integrar resultados en tiempo real.</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>Done</td> <tr>
+	    <td>US21</td>
+    <td> Zoom a concierto en el mapa</td>
+    <td>TSK21</td>
+    <td>Hacer zoom al concierto seleccionado en el mapa</td>
+    <td> Implementar función para centrar y aplicar zoom automático a la ubicación del concierto cuando el usuario lo selecciona en el mapa.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td> <tr>
+	 <td>US23</td>
+    <td>Ver información detallada del concierto</td>
+    <td>TSK23</td>
+    <td>Mostrar detalles completos de un concierto</td>
+    <td>Diseñar e implementar una ficha que contenga nombre del artista, ubicación, fecha, hora, imagen y descripción del evento seleccionado.</td>
+    <td>2 horas</td>
+    <td>Renato Zegarra</td>
+    <td>Done</td> <tr>
+	<td>US24</td>
+    <td>Unirse a una comunidad</td>
+    <td>TSK24</td>
+    <td>Funcionalidad para unirse a una comunidad musical</td>
+    <td>Permitir que un fan se registre como miembro de una comunidad pulsando el botón 'Unirse'.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>Done</td> <tr>
+	<td>US25</td>
+    <td>Publicar en la comunidad</td>
+    <td>TSK25</td>
+    <td>Crear publicaciones en comunidad</td>
+    <td>Habilitar opción para que los usuarios redacten y publiquen mensajes, fotos o recomendaciones en el feed de la comunidad a la que pertenecen.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>Done</td> <tr>
+	<td>US26</td>
+    <td>Editar perfil personal</td>
+    <td>TSK26</td>
+    <td>Editar información del perfil del fan</td>
+    <td> Permitir que el fan modifique su nombre, nombre de usuario y fotografía desde la sección “Mi Perfil”.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>Done</td> <tr>
+	    <td>US27</td>
+    <td>Confirmar o marcar asistencia a evento</td>
+    <td>TSK27</td>
+    <td>Confirmar o marcar asistencia a evento </td>
+    <td> Permitir confirmar o marcar asistencia a evento al dar click a un botón</td>
+    <td>2 horas</td>
+    <td>Renato Zegarra</td>
+    <td>Done</td> <tr>
+</table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
 ### 5.2.3.5. Execution Evidence for Sprint Review.
