@@ -1485,136 +1485,35 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 
 # 3.4. Product Backlog
 
-<div class="product-backlog">
-  <h3>3.4. Product Backlog</h3>
-  
-  <table class="backlog-table">
-    <thead>
-      <tr>
-        <th># Orden</th>
-        <th>User Story Id</th>
-        <th>Título</th>
-        <th>Description</th>
-        <th>Story Points<br>(1/2/3/5/8)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!--  User Stories -->
-      <tr>
-        <td>1</td>
-        <td>US01</td>
-        <td>Ver beneficios para fans</td>
-        <td>Como visitante del segmento fan, quiero conocer los beneficios de la app para mí, para decidir registrarme</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>US02</td>
-        <td>Ver beneficios para artista</td>
-        <td>Como visitante del segmento artista, quiero ver cómo la app me ayuda a promocionar mis eventos</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>US03</td>
-        <td>Acceder a testimonios</td>
-        <td>Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>US04</td>
-        <td>Registrarse en la landing page</td>
-        <td>Como visitante, quiero ver fácilmente dónde registrarme en la landing page de StayMap</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>US05</td>
-        <td>Iniciar sesión en la landing page</td>
-        <td>Como visitante que ya tiene cuenta, quiero poder iniciar sesión fácilmente desde la landing</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>US06</td>
-        <td>Explorar eventos cercanos</td>
-        <td>Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>US07</td>
-        <td>Filtrar eventos por género musical</td>
-        <td>Como fan, quiero filtrar eventos por género para ver solo los que me interesan</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>US08</td>
-        <td>Recibir notificaciones de artistas favoritos</td>
-        <td>Como fan, quiero recibir notificaciones cuando mi artista favorito esté en concierto</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>US09</td>
-        <td>Compartir asistencia a un concierto</td>
-        <td>Como fan, quiero compartir que asistiré a un evento para animar a mis amistades a participar</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>US10</td>
-        <td>Calificar un evento asistido</td>
-        <td>Como fan, quiero poder dejar una calificación de un concierto para ayudar a otros usuarios</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>US11</td>
-        <td>Publicar nuevo concierto</td>
-        <td>Como artista, quiero crear un evento para promocionar mi presentación</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>US12</td>
-        <td>Medir asistencia estimada</td>
-        <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>US13</td>
-        <td>Personalizar perfil de artista</td>
-        <td>Como artista, quiero personalizar mi perfil con enlaces y biografía para conectar mejor con el público</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>US14</td>
-        <td>Crear comunidad con seguidores</td>
-        <td>Como artista, quiero interactuar con mis seguidores para generar fidelización</td>
-        <td>8</td>
-      </tr>
-      <tr>
-        <td>15</td>
-        <td>US15</td>
-        <td>Ingresar a comunidad de fans</td>
-        <td>Como fan, quiero ingresar a una comunidad dentro de la app para compartir experiencias con otros asistentes y seguidores</td>
-        <td>3</td>
-      </tr>
-      <tr>
-        <td>16</td>
-        <td>US16</td>
-        <td>Ver mapa con geolocalización</td>
-        <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles</td>
-        <td>8</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| # Orden | User Story Id | Título                                   | Description                                                                                                                | Story Points (1/2/3/5/8) |
+|--------:|--------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1       | US01         | Ver beneficios para fans                 | Como visitante fan, quiero conocer los beneficios de la app para decidir registrarme.                                      | 1                        |
+| 2       | US02         | Ver beneficios para artista             | Como visitante artista, quiero ver cómo la app me ayuda a promocionar mis eventos.                                         | 1                        |
+| 3       | US03         | Acceder a testimonios                   | Como visitante, quiero leer testimonios de usuarios reales para aumentar mi confianza en la app.                           | 1                        |
+| 4       | US04         | Registrarse en la landing page          | Como visitante, quiero encontrar fácilmente dónde registrarme en la landing page.                                          | 2                        |
+| 5       | US05         | Iniciar sesión en la landing page       | Como visitante con cuenta, quiero iniciar sesión fácilmente desde la landing page.                                         | 2                        |
+| 6       | US06         | Explorar eventos cercanos               | Como fan, quiero ver conciertos cerca de mi ubicación para decidir a cuál asistir.                                         | 5                        |
+| 7       | US07         | Filtrar eventos por género musical      | Como fan, quiero filtrar eventos por género para ver solo los que me interesan.                                           | 3                        |
+| 8       | US08         | Confirmar o cancelar asistencia         | Como fan, quiero confirmar o cancelar mi asistencia para organizarme mejor y motivar a mis amigos.                         | 5                        |
+| 9       | US09         | Publicar nuevo concierto                | Como artista, quiero crear un evento para promocionar mi presentación.                                                    | 5                        |
+| 10      | US10         | Medir asistencia estimada               | Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés.                                       | 3                        |
+| 11      | US11         | Personalizar perfil de artista          | Como artista, quiero personalizar mi perfil con nombre y foto para conectar mejor con el público.                         | 3                        |
+| 12      | US12         | Crear comunidad con seguidores          | Como artista, quiero crear una comunidad para publicar actualizaciones y fidelizar a mis seguidores.                      | 5                        |
+| 13      | US13         | Ingresar a comunidad de fans            | Como fan, quiero ingresar a comunidades para compartir experiencias con otros seguidores.                                 | 5                        |
+| 14      | US14         | Ver mapa con geolocalización            | Como fan, quiero ver un mapa con mi ubicación y conciertos cercanos marcados para explorar opciones visualmente.          | 5                        |
+| 15      | US15         | Cambiar idioma en la landing page       | Como visitante, quiero cambiar el idioma entre español e inglés para entender mejor el contenido.                         | 3                        |
+| 16      | US16         | Buscar conciertos                      | Como usuario, quiero buscar conciertos por nombre o artista para encontrarlos fácilmente.                                 | 2                        |
+| 17      | US17         | Buscar comunidades                     | Como usuario, quiero buscar comunidades por nombre o temática para unirme a las que me interesen.                         | 2                        |
+| 18      | US18         | Iniciar sesión en la app web            | Como usuario registrado, quiero iniciar sesión desde la app web para acceder a mi cuenta.                                  | 2                        |
+| 19      | US19         | Registrarse como artista                | Como nuevo usuario, quiero registrarme como artista para promocionar mis conciertos.                                      | 3                        |
+| 20      | US20         | Registrarse como fan                    | Como nuevo usuario, quiero registrarme como fan para participar en la comunidad y explorar conciertos.                    | 3                        |
+| 21      | US21         | Zoom a concierto en el mapa             | Como fan, quiero que al seleccionar un concierto en el mapa se haga zoom a su ubicación.                                  | 3                        |
+| 22      | US22         | Ver estado del concierto                | Como usuario, quiero saber si un concierto está disponible o agotado para decidir si puedo asistir.                       | 2                        |
+| 23      | US23         | Ver información detallada del concierto | Como fan, quiero ver la información completa de un concierto para decidir si asistir.                                      | 3                        |
+| 24      | US24         | Unirse a una comunidad                  | Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.              | 5                        |
+| 25      | US25         | Publicar en la comunidad                | Como fan, quiero crear publicaciones en la comunidad para compartir opiniones y fotos con otros miembros.                 | 3                        |
+| 26      | US26         | Editar perfil personal                  | Como fan, quiero editar mi información (foto, nombre, usuario) para mantener mi perfil actualizado.                       | 3                        |
+| 27      | US27         | Confirmar o marcar asistencia a evento | Como fan, quiero marcar un evento como “Por asistir” o “Asistido” para llevar seguimiento de mis conciertos.              | 3                        |
 
 # Capítulo IV: Product Design
 
