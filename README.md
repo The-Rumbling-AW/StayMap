@@ -3408,9 +3408,44 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 ### 5.2.3.1. Sprint Planning 3
 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
+
 ### 5.2.3.3. Sprint Backlog 3.
+
 ### 5.2.3.4. Development Evidence for Sprint Review.
 ### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 3 del proyecto StayMap, nos centramos en fortalecer la experiencia del usuario fan y artista a través de nuevas funcionalidades orientadas a la personalización, búsqueda, interacción social y mejora del acceso a contenidos clave. Todas las tareas contempladas en el Sprint Backlog 3 fueron completadas exitosamente por los integrantes del equipo.
+
+Entre las principales evidencias de ejecución se encuentran:
+
+	- Sección de beneficios en la landing page: Se habilitaron dos secciones destacadas que presentan los beneficios tanto para fans como para artistas. Estas secciones se visualizaron directamente en la página principal, como elementos informativos que motivan el uso de la plataforma.
+
+	- Testimonios en la página de inicio: Se integró un módulo que muestra testimonios de personas que han utilizado StayMap, brindando mayor credibilidad a la plataforma. Estos testimonios se cargan dinámicamente en tarjetas dentro de la interfaz.
+
+	- Personalización del perfil del artista: Se implementó una opción que permite a los artistas modificar su nombre e imagen de perfil desde su página de perfil personal.
+
+	- Ingreso y unión a comunidades: Se desarrolló la funcionalidad para que los fans puedan visualizar comunidades musicales y unirse a ellas mediante un botón interactivo. Esto actualiza dinámicamente su estado de pertenencia en la base de datos simulada (fake API).
+
+	- Selector de idioma: Se incorporó un menú de cambio de idioma en la landing page, permitiendo alternar entre español e inglés. Esta función usa ngx-translate e integra archivos de internacionalización.
+
+	- Búsqueda inteligente de conciertos y comunidades: Se crearon componentes de búsqueda en tiempo real que permiten filtrar por nombre de concierto, artista o nombre de comunidad. Estos resultados se integran visualmente en tarjetas.
+
+	- Zoom en conciertos en el mapa: Al seleccionar un evento en la vista del mapa, se centra la ubicación y se aplica automáticamente un zoom, mejorando la experiencia espacial del usuario.
+
+	- Detalle completo del concierto: Se diseñó e implementó una ficha informativa donde se muestra nombre del artista, lugar, fecha, hora, imagen y descripción del evento.
+
+	- Publicación de contenido en comunidades: Se habilitó la opción para que los fans puedan publicar textos en las comunidades a las que pertenecen. Las publicaciones están filtradas por ID de comunidad y se almacenan en la fake API.
+
+	- Edición del perfil del fan: Se desarrolló un formulario donde el usuario puede modificar su nombre, nombre de usuario e imagen de perfil. Los datos se actualizan en tiempo real y se reflejan en su sección de perfil.
+
+Todas estas funcionalidades fueron integradas con llamadas al backend simulado mediante json-server, usando servicios específicos como UserService, CommunityService y ConcertService. Se utilizaron variables de entorno para definir los endpoints y se implementaron validaciones visuales, toasts de confirmación y filtros contextuales para mejorar la experiencia del usuario.
+
+<strong> Screenshots de las evidencias: </strong>
+
+<div align="center">
+  <img src="assets/capturas/captura-landing-v2.png" alt="EVIDENCIAS FALTA" style="width: 80%;">
+</div>
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.3.8. Team Collaboration Insights during Sprint.
