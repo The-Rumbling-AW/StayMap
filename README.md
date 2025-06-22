@@ -3982,7 +3982,6 @@ StayMap
 </table>
 
 ## Tabla de resumen de problemas
-
 <table>
   <thead>
     <tr>
@@ -3995,58 +3994,42 @@ StayMap
   <tbody>
     <tr>
       <td>1</td>
-      <td>El Landing Page no destaca visualmente la llamada a la acción para artistas nuevos</td>
-      <td>2</td>
-      <td>Visibilidad del estado del sistema</td>
-    </tr>
-    <tr>
-      <td>2</td>
       <td>Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo</td>
       <td>3</td>
-      <td>Prevención de errores</td>
+      <td>usability: user control and freedom</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>El concierto creado no aparece en la lista de conciertos disponibles</td>
+      <td>3</td>
+      <td>information architecture: visibility of system status</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>El concierto creado no aparece en la lista de conciertos disponibles</td>
-      <td>3</td>
-      <td>Feedback inmediato y correspondencia entre sistema y mundo real</td>
+      <td>La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar</td>
+      <td>2</td>
+      <td>usability: help and documentation</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar</td>
+      <td>No se permite adjuntar archivos al publicar en comunidades</td>
       <td>2</td>
-      <td>Ayuda y documentación</td>
+      <td>inclusive design: provide comparable experiences</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades</td>
-      <td>2</td>
-      <td>Flexibilidad y eficiencia de uso</td>
-    </tr>
-    <tr>
-      <td>6</td>
       <td>No existe una opción de notificación o recordatorio para próximos conciertos</td>
       <td>2</td>
-      <td>Reconocer mejor que recordar</td>
+      <td>usability: recognition rather than recall</td>
     </tr>
   </tbody>
 </table>
 
+
 ## Descripcion de problemas
 
+
 ### Problema 1
-El Landing Page no destaca visualmente la llamada a la acción para artistas nuevos
-
-- Severidad: 2
-
-- Heurística violada: Visibilidad del estado del sistema
-
-Descripción: Aunque el Landing Page comunica el propósito general de la plataforma, no presenta una llamada a la acción visual clara para que los artistas empiecen a usar la herramienta. Esto puede causar confusión sobre los primeros pasos a seguir.
-Recomendación: Incluir un botón visible como “Empieza tu comunidad” o “Crea tu primer concierto” en la sección principal, con colores llamativos y ubicación central.
-
------------------------
-
-### Problema 2
 Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo
 
 - Severidad: 3
@@ -4058,7 +4041,7 @@ Recomendación: Asegurar que los datos ingresados se guarden y visualicen correc
 
 -----------------------
 
-### Problema 3
+### Problema 2
 El concierto creado no aparece en la lista de conciertos disponibles
 
 - Severidad: 3
@@ -4070,7 +4053,7 @@ Recomendación: Actualizar automáticamente la lista de conciertos después de c
 
 -----------------------
 
-### Problema 4
+### Problema 3
 La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar
 
 - Severidad: 2
@@ -4082,19 +4065,19 @@ Recomendación: Agregar textos orientativos (placeholders), iconos para adjuntar
 
 -----------------------
 
-### Problema 5
-No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades
+### Problema 4
+No se permite adjuntar archivos al publicar en comunidades
 
 - Severidad: 2
 
 - Heurística violada: Flexibilidad y eficiencia de uso
 
 Descripción: Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.
-Recomendación: Permitir adjuntar imágenes (.jpg, .png) y enlaces URL en las publicaciones, con una interfaz clara para hacerlo.
+Recomendación: Permitir adjuntar imágenes (.jpg, .png) con una interfaz clara para hacerlo.
 
 -----------------------
 
-### Problema 6
+### Problema 5
 No existe una opción de notificación o recordatorio para próximos conciertos
 
 - Severidad: 2
@@ -4102,7 +4085,7 @@ No existe una opción de notificación o recordatorio para próximos conciertos
 - Heurística violada: Reconocer mejor que recordar
 
 Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.
-Recomendación: Implementar notificaciones automáticas (push o correo) para recordar a los usuarios sobre eventos próximos guardados.
+Recomendación: Implementar notificaciones automáticas para recordar a los usuarios sobre eventos próximos guardados o avisos en comunidades.
 
 
 
