@@ -3231,7 +3231,7 @@ URL: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EU
 
 Durante el Sprint 2, se avanzó significativamente en la documentación y estructuración de los servicios simulados de StayMap, utilizando una Fake API estructurada como backend provisional. Además, se integraron servicios clave dentro de componentes funcionales, como `CommunityService`, `ConcertService` y `UserService`, conectando correctamente la interfaz con los datos simulados.
 
-#### 📄 Endpoints simulados documentados
+#### Endpoints simulados documentados
 
 | Endpoint                           | Método | Descripción                                           | Ejemplo de llamada             | Ejemplo de respuesta                             |
 |------------------------------------|--------|-------------------------------------------------------|--------------------------------|--------------------------------------------------|
