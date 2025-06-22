@@ -3655,7 +3655,7 @@ Todas estas funcionalidades fueron integradas con llamadas al backend simulado m
 
 <strong> Screenshots de las evidencias: </strong>
 
-<strong> Landing page <strong>
+<strong> Landing page </strong>
 
 Cambio de idioma en landing page:
 
@@ -3663,7 +3663,7 @@ Cambio de idioma en landing page:
   <img src="assets/capturas/language-switcher-landing.png" alt="languageSwitcherLanding" style="width: 80%;">
 </div>
 
-<strong> Aplicación web StayMap <strong>
+<strong> Aplicación web StayMap </strong>
 Sección comunidades:
 <div align="center">
   <img src="assets/capturas/seccion-comunidades.png" alt="SeccionComunidades" style="width: 80%;">
@@ -3926,6 +3926,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 20 años  
 **Duración:** 08:38:20  
 **Inicio:** 00:10:00  
+**Resumen:** Jade consideró que la versión de StayMap ofrece una experiencia visual atractiva y una navegación sencilla. A pesar de valorar positivamente el diseño y la propuesta general, sugirió una mejora importante: la posibilidad de que la aplicación ofrezca indicaciones desde la ubicación actual del usuario hacia el evento seleccionado. Según su apreciación, esta función haría que la plataforma sea más práctica y eficiente para planificar la asistencia a conciertos en tiempo real, especialmente para quienes no conocen bien la zona o se desplazan en transporte público.
+
 
 #### Entrevista #2
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.png)
@@ -3934,6 +3936,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 21 años  
 **Duración:** 13:46:50  
 **Inicio:** 00:08:44  
+**Resumen:**  Jazmín, al explorar la versión de StayMap, destacó su funcionalidad, pero también señaló algunas carencias que afectarían la experiencia de usuario. En primer lugar, mencionó que la aplicación debería contar con botones visibles para retroceder fácilmente entre pantallas, ya que la navegación puede volverse confusa sin ellos. También propuso incluir notificaciones de tráfico integradas en el mapa para ayudar a los usuarios a prever posibles retrasos al asistir a un evento. Finalmente, sugirió que al subir imágenes en el sistema, estas puedan cargarse directamente como archivos (file upload) y no únicamente mediante una URL, lo que facilitaría el proceso para la mayoría de los usuarios.
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
@@ -3944,6 +3947,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 19 años  
 **Duración:** 10:55:20  
 **Inicio:** 00:58:20  
+**Resumen:** Rodrigo Chávez, un artista emergente de 19 años con más de seis años de experiencia en la música, enfocado en el género pop, considera que la plataforma es intuitiva y fácil de usar, con una conexión directa entre artistas y fans. Destaca la simplicidad de las funciones de StayMap, especialmente el apartado de comunidades, que le permite sentirse más cerca de su audiencia. Valora positivamente la funcionalidad del mapa para visualizar la distancia a los conciertos, lo que facilita la planificación de asistencia. Como herramienta adicional, sugiere incorporar recordatorios o notificaciones para los conciertos, lo cual reforzaría el vínculo con los eventos importantes. Además, menciona que la idea de comunidad es clave para crecer como artista emergente, aunque considera que el apartado de publicación de posts podría mejorarse para optimizar la interacción. Su feedback resalta la importancia de la usabilidad, la cercanía con el público y la mejora continua en herramientas de comunicación dentro de la plataforma.
 
 #### Entrevista #4
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
@@ -3952,11 +3956,26 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Edad:** 19 años  
 **Duración:** 11:19:40  
 **Inicio:** 00:53:30  
+**Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
-## App a evaluar:
-StayMap
+<div align="center">
+
+## UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture  
+CARRERA: Ingeniería de Software  
+CURSO: Desarrollo de Aplicaciones Open Source  
+SECCIÓN: 4334  
+PROFESORES: Hugo Allan Mori Paiva  
+AUDITOR: The Rumbling  
+CLIENTE(S): Jade Huaman, Jazmín Roque, Joaquín Villanueva, Rodrigo Chávez  
+
+-----------------------
+
+</div>
+
+## App a evaluar: StayMap
 
 ## Tareas a evaluar
 <ul>
@@ -4037,8 +4056,27 @@ StayMap
       <td>2</td>
       <td>usability: recognition rather than recall</td>
     </tr>
+    <tr>
+      <td>6</td>
+      <td>No hay opción para obtener indicaciones desde la ubicación del usuario hasta el evento</td>
+      <td>3</td>
+      <td>usability: match between system and real world</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Falta de botones visibles para retroceder entre pantallas</td>
+      <td>2</td>
+      <td>usability: user control and freedom</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>El sistema solo permite subir imágenes mediante URL, no como archivo directo</td>
+      <td>3</td>
+      <td>inclusive design: flexibility and efficiency of use</td>
+    </tr>
   </tbody>
 </table>
+
 
 
 ## Descripcion de problemas
@@ -4099,13 +4137,44 @@ No existe una opción de notificación o recordatorio para próximos conciertos
 
 - Heurística violada: Reconocer mejor que recordar
 
-Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.
-Recomendación: Implementar notificaciones automáticas para recordar a los usuarios sobre eventos próximos guardados o avisos en comunidades.
+Descripción: No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.   
+Recomendación: Implementar notificaciones automáticas para recordar a los usuarios sobre eventos próximos guardados o avisos en comunidades. 
 
+-----------------------
 
+### Problema 6 
+No hay opción para obtener indicaciones desde la ubicación del usuario hasta el evento
 
+- Severidad: 3
 
+- Heurística violada: Correspondencia entre el sistema y el mundo real
 
+Descripción: La aplicación muestra la ubicación del evento en el mapa, pero no permite obtener rutas o indicaciones desde la ubicación actual del usuario. Esto limita la utilidad del mapa, especialmente para quienes no conocen bien la zona o usan transporte público.  
+Recomendación: Integrar servicios como Google Maps o Mapbox Directions para generar rutas desde la ubicación del usuario hasta el lugar del concierto, ya sea a pie, en auto o en transporte público.  
+
+-----------------------
+
+### Problema 7 
+Falta de botones visibles para retroceder entre pantallas
+
+- Severidad: 2
+
+- Heurística violada: Control del usuario y libertad
+
+Descripción: Durante la navegación por la app, no existen botones evidentes que permitan volver fácilmente a la pantalla anterior. Esto puede confundir al usuario y generar una experiencia frustrante al no saber cómo regresar.   
+Recomendación: Incorporar botones de "atrás" visibles y accesibles en las vistas internas de la aplicación, respetando los patrones de navegación convencionales en aplicaciones móviles y web.
+
+-----------------------
+
+### Problema 8 
+El sistema solo permite subir imágenes mediante URL, no como archivo directo
+
+- Severidad: 3
+
+- Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción: Actualmente, los usuarios solo pueden añadir imágenes insertando una URL, lo cual limita la accesibilidad y usabilidad de la función, especialmente para quienes no tienen conocimientos técnicos o las imágenes almacenadas en línea.   
+Recomendación: Implementar la opción de subir archivos directamente desde el dispositivo (formato .jpg, .png, etc.) a través de un botón de carga simple e intuitivo, manteniendo también la opción por URL para usuarios avanzados.  
 
 
 # 5.4. Video About-the-Product.
