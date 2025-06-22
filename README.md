@@ -3688,14 +3688,6 @@ Esta documentación refleja la estructura del sistema para usuarios, conciertos,
 </div>
 
 <div align="center">
-  <strong>Formulario de publicación dentro de una comunidad</strong>  
-</div>
-
-<div align="center">
-  <img src="assets/capturas/publicacion_comunidad.png" alt="Publicación comunidad" style="width: 80%;">
-</div>
-
-<div align="center">
   <strong>Vista del perfil con opción de edición</strong>  
 </div>
 
@@ -3703,7 +3695,6 @@ Esta documentación refleja la estructura del sistema para usuarios, conciertos,
   <img src="assets/capturas/editar-perfil-usuario.png" alt="Editar perfil" style="width: 80%;">
 </div>
 
----
 
 - <strong>Repositorio Web Services:</strong> `https://github.com/The-Rumbling-AW/StayMap-AW-Api.git`
 
