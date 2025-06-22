@@ -3693,7 +3693,7 @@ Durante el Sprint 3, se consolidó la integración entre la interfaz de StayMap 
 
 Esta documentación refleja la estructura del sistema para usuarios, conciertos, comunidades y publicaciones, accesibles desde un entorno local gracias a la configuración de <strong>json-server</strong> como backend provisional.
 
-### <strong>📄 Endpoints documentados</strong>
+### <strong> Endpoints documentados</strong>
 
 | <strong>Endpoint</strong>         | <strong>Método</strong> | <strong>Descripción</strong>                              | <strong>Ejemplo de llamada</strong> | <strong>Ejemplo de respuesta</strong>                          |
 |----------------------------------|--------------------------|------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
@@ -3742,10 +3742,10 @@ Esta documentación refleja la estructura del sistema para usuarios, conciertos,
 
 ### <strong>Commits relevantes del Sprint 3</strong>
 
-- `EDITAR`: Implementación de lógica de confirmación y cancelación de asistencia a conciertos.  
-- `EDITAR`: Soporte para publicaciones en comunidades y servicio asociado.  
-- `EDITAR`: Edición de perfil de usuario (nombre, imagen, correo) mediante PUT.  
-- `EDITAR`: Integración de vista dinámica del detalle del concierto con datos de la Fake API.
+- `f6a0d00`: Implementación de lógica de confirmación y cancelación de asistencia a conciertos.  
+- `e1da430`: Soporte para publicaciones en comunidades y servicio asociado.  
+- `8cdab20`: Edición de perfil de usuario (nombre, imagen, correo) mediante PUT.  
+- `5a0247f`: Integración de vista dinámica del detalle del concierto con datos de la Fake API.
 
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review.
