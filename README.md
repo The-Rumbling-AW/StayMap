@@ -4032,9 +4032,9 @@ StayMap
   </tbody>
 </table>
 
-##Descripcion de problemas
+## Descripcion de problemas
 
-**Problema 1**
+### Problema 1
 El Landing Page no destaca visualmente la llamada a la acción para artistas nuevos
 
 - Severidad: 2
@@ -4044,7 +4044,9 @@ El Landing Page no destaca visualmente la llamada a la acción para artistas nue
 Descripción: Aunque el Landing Page comunica el propósito general de la plataforma, no presenta una llamada a la acción visual clara para que los artistas empiecen a usar la herramienta. Esto puede causar confusión sobre los primeros pasos a seguir.
 Recomendación: Incluir un botón visible como “Empieza tu comunidad” o “Crea tu primer concierto” en la sección principal, con colores llamativos y ubicación central.
 
-**Problema 2**
+-----------------------
+
+### Problema 2
 Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo
 
 - Severidad: 3
@@ -4054,7 +4056,9 @@ Los datos completados en el formulario de conciertos no se reflejan correctament
 Descripción: Al crear un concierto, algunos campos como nombre del evento, fecha o ubicación no se muestran de forma coherente en la vista final. Esto genera desconfianza en la funcionalidad del sistema.
 Recomendación: Asegurar que los datos ingresados se guarden y visualicen correctamente. Implementar validaciones y una vista previa del concierto antes de guardar.
 
-**Problema 3**
+-----------------------
+
+### Problema 3
 El concierto creado no aparece en la lista de conciertos disponibles
 
 - Severidad: 3
@@ -4064,7 +4068,9 @@ El concierto creado no aparece en la lista de conciertos disponibles
 Descripción: Luego de crear un concierto, este no se visualiza automáticamente en la lista de conciertos disponibles, obligando al usuario a recargar la página manualmente.
 Recomendación: Actualizar automáticamente la lista de conciertos después de crear uno nuevo y mostrar una notificación de éxito.
 
-**Problema 4**
+-----------------------
+
+### Problema 4
 La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar
 
 - Severidad: 2
@@ -4074,7 +4080,9 @@ La opción para crear publicaciones en comunidades es poco clara y difícil de u
 Descripción: El proceso de publicación dentro de comunidades carece de guía visual, lo cual complica a los usuarios entender qué pueden compartir y cómo hacerlo.
 Recomendación: Agregar textos orientativos (placeholders), iconos para adjuntar archivos y una guía visual sobre el tipo de contenido permitido.
 
-**Problema 5**
+-----------------------
+
+### Problema 5
 No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades
 
 - Severidad: 2
@@ -4084,7 +4092,9 @@ No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades
 Descripción: Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.
 Recomendación: Permitir adjuntar imágenes (.jpg, .png) y enlaces URL en las publicaciones, con una interfaz clara para hacerlo.
 
-**Problema 6**
+-----------------------
+
+### Problema 6
 No existe una opción de notificación o recordatorio para próximos conciertos
 
 - Severidad: 2
