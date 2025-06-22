@@ -3917,6 +3917,25 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 
 ## 5.3.2. Registro de Entrevistas.
+
+### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
+
+#### Entrevista #4
+![user_persona](assets/interviews/Analisis-Entrevista-Artista1.png)
+
+**Nombre:** Rodrigo Chavez  
+**Edad:** 19 años  
+**Duración:** 10:55:20  
+**Inicio:** 00:58:20  
+
+#### Entrevista #5
+![user_persona](assets/interviews/Analisis-Entrevista-Artista2.png)
+
+**Nombre:** Joaquin Villanueva  
+**Edad:** 19 años  
+**Duración:** 11:19:40  
+**Inicio:** 00:53:30  
+
 ## 5.3.3. Evaluaciones según heurísticas.
 # 5.4. Video About-the-Product.
 
