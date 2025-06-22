@@ -260,6 +260,8 @@ forma conjunta</td>
         TB1: Coordiné la evaluación de entrevistas para detectar áreas críticas de mejora en STAYMAP, generando informes con recomendaciones específicas. <br>
 	      <br>
         TP:  Adapté el proyecto a los requisitos de esta fase, desarrollando una API para visualizar eventos musicales en mapas interactivos con detalles de artistas.
+	       <br>
+	TB2: Durante el desarrollo de StayMap, el trabajo en equipo fue fundamental. Asumí un rol activo en la toma de decisiones técnicas y en la coordinación del equipo. No se trató de imponer ideas, sino de liderar con el ejemplO. Aporté constantemente desde mi conocimiento técnico y también fui un puente entre diferentes perspectivas del equipo.
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
@@ -288,7 +290,9 @@ forma conjunta</td>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Lideré la gestión y análisis de entrevistas para identificar puntos críticos en STAYMAP, creando guías detalladas con las áreas de mejora prioritarias. <br> <br>
 	      TP: Ajusté personalmente la entrega del proyecto para alinearlo con los nuevos requerimientos. Desarrollé e implementé una API funcional que genera mapas dinámicos con la ubicación de conciertos, incluyendo detalles clave como los nombres de los artistas.
-	      <br> <br><br>
+	      <br> <br>
+	      TB2: Proporcionar liderazgo de forma conjunta no solo mejoró los resultados del proyecto, sino que fomentó un equipo más unido y productivo, demostrando que el liderazgo distribuido es clave para el éxito de cualquier desarrollo colaborativo.
+	      <br>
       </td>
     </tr>
     <tr>
@@ -330,7 +334,9 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
         TB1: Implementé un sistema de dashboards automatizados para procesar feedback de usuarios, generando informes mensuales con insights accionables..<br>
 	       <br>
 	      TP: Desarrollé una guía completa que documenta el proceso de toma de decisiones técnicas, incluyendo la justificación detallada de cada implementación.
-	      <br> <br>
+	      <br> 
+	      TB2: Desde el inicio del TB2, trabajamos en construir un entorno donde todos los integrantes pudieran participar activamente, sin barreras. Usamos herramientas como GitHub para distribuir tareas para organizar nuestros avances por sprints. Establecimos metas claras en cada reunión, y gracias a una planificación sólida, pudimos cumplir con los entregables dentro del plazo. Cada integrante sabía lo que debía hacer, y si alguien tenía dificultades, el resto del equipo intervenía para apoyar.
+	      <br>
       </td>
       <td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
@@ -365,6 +371,7 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	         <br> <br>
 	      TP: La guía de decisiones técnicas unificó el entendimiento del proyecto entre todos los colaboradores.
 	      <br><br>
+	      TB2: Crear un entorno colaborativo e inclusivo, con metas claras y planificación constante, fue lo que nos permitió cumplir los objetivos de StayMap y trabajar de forma eficiente. Aprendí que una buena organización colectiva tiene tanto valor como las habilidades individuales.
       </td>
     </tr>
   </tbody>
@@ -4255,6 +4262,7 @@ Recomendación: Implementar la opción de subir archivos directamente desde el d
 
 - TB1:` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz`
 - TP: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+- TB2: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EXdesKc-cdlOpNKxxeU1tycBCI0mYj8ci3ZZRjTWioh1cA?e=6SO58j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
   
 # Bibliografía
 
