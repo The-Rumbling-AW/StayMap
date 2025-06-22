@@ -3937,6 +3937,167 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:53:30  
 
 ## 5.3.3. Evaluaciones según heurísticas.
+
+
+
+
+<h3>5.2.1.7. Usability Heuristic Evaluation – StayMap</h3>
+
+Durante el Sprint se realizó una evaluación heurística de la usabilidad de la plataforma <strong>StayMap</strong>, con base en los principios de Jakob Nielsen. Esta revisión se centró en las funcionalidades clave que utilizan los artistas emergentes para gestionar sus eventos y comunidades dentro de la aplicación.
+
+**App a evaluar:**
+StayMap
+
+**Tareas a evaluar**
+<ul>
+  <li>Ingreso al Landing Page y comprensión del valor que StayMap les ofrece como artistas.</li>
+  <li>Creación de un nuevo concierto.</li>
+  <li>Visualización de su evento en el mapa.</li>
+  <li>Creación de una comunidad para sus fans.</li>
+  <li>Agregar publicaciones en comunidades.</li>
+</ul>
+
+**Escala de severidad**
+
+<table>
+  <thead>
+    <tr>
+      <th>Nivel</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1</strong></td>
+      <td>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td><strong>2</strong></td>
+      <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
+    </tr>
+    <tr>
+      <td><strong>3</strong></td>
+      <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td><strong>4</strong></td>
+      <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Tabla de resumen de problemas**
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Problema</th>
+      <th>Severidad</th>
+      <th>Heurística/Principio violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>El Landing Page no destaca visualmente la llamada a la acción para artistas nuevos</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo</td>
+      <td>3</td>
+      <td>Prevención de errores</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>El concierto creado no aparece en la lista de conciertos disponibles</td>
+      <td>3</td>
+      <td>Feedback inmediato y correspondencia entre sistema y mundo real</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar</td>
+      <td>2</td>
+      <td>Ayuda y documentación</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades</td>
+      <td>2</td>
+      <td>Flexibilidad y eficiencia de uso</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>No existe una opción de notificación o recordatorio para próximos conciertos</td>
+      <td>2</td>
+      <td>Reconocer mejor que recordar</td>
+    </tr>
+  </tbody>
+</table>
+
+**Descripcion de problemas**
+
+**Problema 1**
+<p><strong>El Landing Page no destaca visualmente la llamada a la acción para artistas nuevos</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 2</li>
+  <li><strong>Heurística violada:</strong> Visibilidad del estado del sistema</li>
+</ul>
+<p><strong>Descripción:</strong> Aunque el Landing Page comunica el propósito general de la plataforma, no presenta una llamada a la acción visual clara para que los artistas empiecen a usar la herramienta. Esto puede causar confusión sobre los primeros pasos a seguir.</p>
+<p><strong>Recomendación:</strong> Incluir un botón visible como “Empieza tu comunidad” o “Crea tu primer concierto” en la sección principal, con colores llamativos y ubicación central.</p>
+
+**Problema 2**
+<p><strong>Los datos completados en el formulario de conciertos no se reflejan correctamente al crearlo</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 3</li>
+  <li><strong>Heurística violada:</strong> Prevención de errores</li>
+</ul>
+<p><strong>Descripción:</strong> Al crear un concierto, algunos campos como nombre del evento, fecha o ubicación no se muestran de forma coherente en la vista final. Esto genera desconfianza en la funcionalidad del sistema.</p>
+<p><strong>Recomendación:</strong> Asegurar que los datos ingresados se guarden y visualicen correctamente. Implementar validaciones y una vista previa del concierto antes de guardar.</p>
+
+**Problema 3**
+<p><strong>El concierto creado no aparece en la lista de conciertos disponibles</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 3</li>
+  <li><strong>Heurística violada:</strong> Feedback inmediato y correspondencia entre sistema y mundo real</li>
+</ul>
+<p><strong>Descripción:</strong> Luego de crear un concierto, este no se visualiza automáticamente en la lista de conciertos disponibles, obligando al usuario a recargar la página manualmente.</p>
+<p><strong>Recomendación:</strong> Actualizar automáticamente la lista de conciertos después de crear uno nuevo y mostrar una notificación de éxito.</p>
+
+**Problema 4**
+<p><strong>La opción para crear publicaciones en comunidades es poco clara y difícil de utilizar</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 2</li>
+  <li><strong>Heurística violada:</strong> Ayuda y documentación</li>
+</ul>
+<p><strong>Descripción:</strong> El proceso de publicación dentro de comunidades carece de guía visual, lo cual complica a los usuarios entender qué pueden compartir y cómo hacerlo.</p>
+<p><strong>Recomendación:</strong> Agregar textos orientativos (placeholders), iconos para adjuntar archivos y una guía visual sobre el tipo de contenido permitido.</p>
+
+**Problema 5**
+<p><strong>No se permite adjuntar archivos (imágenes o enlaces) al publicar en comunidades</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 2</li>
+  <li><strong>Heurística violada:</strong> Flexibilidad y eficiencia de uso</li>
+</ul>
+<p><strong>Descripción:</strong> Las publicaciones están limitadas a texto, lo cual es una desventaja para los artistas que desean compartir contenido multimedia o promocional.</p>
+<p><strong>Recomendación:</strong> Permitir adjuntar imágenes (.jpg, .png) y enlaces URL en las publicaciones, con una interfaz clara para hacerlo.</p>
+
+**Problema 6**
+<p><strong>No existe una opción de notificación o recordatorio para próximos conciertos</strong></p>
+<ul>
+  <li><strong>Severidad:</strong> 2</li>
+  <li><strong>Heurística violada:</strong> Reconocer mejor que recordar</li>
+</ul>
+<p><strong>Descripción:</strong> No se ofrece ninguna forma de alertar al usuario sobre la cercanía de un concierto al que haya mostrado interés o asistencia.</p>
+<p><strong>Recomendación:</strong> Implementar notificaciones automáticas (push o correo) para recordar a los usuarios sobre eventos próximos guardados.</p>
+
+
+
+
+
+
 # 5.4. Video About-the-Product.
 
 # Avance de Conclusiones, Bibliografía y Anexos
