@@ -3572,7 +3572,7 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
     <td>Habilitar opción para que los usuarios redacten y publiquen mensajes, fotos o recomendaciones en el feed de la comunidad a la que pertenecen.</td>
     <td>2 horas</td>
     <td>Diego Collantes</td>
-    <td>Done</td> <tr>
+    <td>To Do</td> <tr>
 	<td>US26</td>
     <td>Editar perfil personal</td>
     <td>TSK26</td>
