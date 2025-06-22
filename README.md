@@ -3796,6 +3796,12 @@ El equipo utilizó GitHub como herramienta central de colaboración. Cada integr
   <img src="assets/capturas/captura-commits-appweb.png" alt="commits appweb" style="width: 80%;">
 </div>
 
+**GitFlow:**
+
+<div align="center">
+  <img src="assets/capturas/gitflow-AW.png" alt="gitflow" style="width: 80%;">
+</div>
+
 Este enfoque fomentó una dinámica de trabajo colaborativo en paralelo, permitiendo avanzar simultáneamente en tareas clave como:
 
 - Vista de perfil editable para fans y artistas.
