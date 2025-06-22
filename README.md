@@ -247,7 +247,9 @@ forma conjunta</td>
 	      	      <br>
         TP:Mejoré la interfaz de STAYMAP, asegurando su funcionalidad y alineación con las metas establecidas.
 	      <br>
-	      <br>
+	      <br> 
+	      TB2: Durante el desarrollo del módulo de detalles de conciertos, la vista de perfil y la funcionalidad de confirmación de asistencia, colaboré activamente con mi equipo, proponiendo soluciones técnicas y coordinando tareas para asegurar una implementación coherente. Brindé apoyo a mis compañeros y participé en decisiones clave que guiaron el avance del sprint.
+	      <br><br>
 <strong>Zuniga Murillo, Diego Sebastian</strong><br>
         TB1: Coordiné la evaluación de entrevistas para detectar áreas críticas de mejora en STAYMAP, generando informes con recomendaciones específicas. <br>
 	      <br>
@@ -272,6 +274,8 @@ forma conjunta</td>
         TB1: Gestioné la comunicación con los stakeholders, traduciendo requerimientos técnicos a lenguaje accesible. Organicé sesiones de alineación y recluté usuarios para pruebas de usabilidad. Identifiqué y resolví problemas de carga de trabajo mediante una redistribución equitativa de tareas. <br><br>
 	      TP:   Me encargué personalmente de revisar y mejorar el frontend de STAYMAP, implementando ajustes que garantizaron una experiencia de usuario más fluida y efectiva para cumplir con nuestros objetivos.
 	      <br> <br>
+	      TB2: El trabajo en equipo y el liderazgo compartido que ejercí permitieron un desarrollo más ágil y enfocado, donde cada integrante pudo aportar desde su rol con claridad. Esta colaboración mutua fortaleció el compromiso del grupo y aseguró el cumplimiento de nuestros objetivos comunes.
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Lideré la gestión y análisis de entrevistas para identificar puntos críticos en STAYMAP, creando guías detalladas con las áreas de mejora prioritarias. <br> <br>
 	      TP: Ajusté personalmente la entrega del proyecto para alinearlo con los nuevos requerimientos. Desarrollé e implementé una API funcional que genera mapas dinámicos con la ubicación de conciertos, incluyendo detalles clave como los nombres de los artistas.
@@ -308,6 +312,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	      <br>
 	      TP: Produje un análisis técnico exhaustivo que permitió al equipo comprender en profundidad la implementación y capacidades de nuestro sistema de base de datos.
 	      <br><br>
+	      TB2: Fomenté un entorno colaborativo al coordinar con el equipo la planificación de tareas relacionadas con la vista de detalles del concierto, perfil de usuario y confirmación de asistencia. Participé en la definición de metas claras para el sprint, distribuyendo responsabilidades de manera equitativa y respetando los aportes de todos los miembros.
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Implementé un sistema de dashboards automatizados para procesar feedback de usuarios, generando informes mensuales con insights accionables..<br>
 	       <br>
@@ -335,6 +341,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
         TB1: Mis artículos técnicos optimizaron los flujos de trabajo al eliminar ambigüedades en el manejo de datos.<br>
 	         <br>
 	      TP: Los análisis profundos mejoraron la capacidad del equipo para implementar requerimientos complejos.
+	      <br><br>
+	      TB2: Al establecer metas claras y promover la participación activa de todos los integrantes, contribuí a un ambiente inclusivo que permitió alcanzar los objetivos del sprint de forma organizada y efectiva. La planificación anticipada fue clave para cumplir con los entregables dentro del plazo previsto.
 	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Mis informes transformaron feedback cualitativo en priorizaciones claras de desarrollo.
