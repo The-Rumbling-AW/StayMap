@@ -4214,6 +4214,12 @@ Recomendación: Implementar la opción de subir archivos directamente desde el d
 
 # 5.4. Video About-the-Product.
 
+![Image](assets/capturas/aboutTheProduct.png)
+
+**Duración:** 00:08:36   
+**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+**URL en Youtube:** `https://www.youtube.com/watch?v=z53nugGXFA4`
+
 # Avance de Conclusiones, Bibliografía y Anexos
 
 
