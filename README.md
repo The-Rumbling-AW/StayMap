@@ -3937,7 +3937,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
-#### Entrevista #4
+#### Entrevista #3
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista1.png)
 
 **Nombre:** Rodrigo Chavez  
@@ -3945,7 +3945,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Duración:** 10:55:20  
 **Inicio:** 00:58:20  
 
-#### Entrevista #5
+#### Entrevista #4
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
 
 **Nombre:** Joaquin Villanueva  
