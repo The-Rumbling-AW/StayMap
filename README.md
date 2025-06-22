@@ -344,7 +344,7 @@ URL de organización The-Rumbling-AW: `https://github.com/The-Rumbling-AW`
 <img src="assets/capturas/the-Rumbling-aw.png" alt="repositorio THERUMBLING" style="width: 700px">
 </p>
 
-URL del repositorio de "StayMap": `https://github.com/orgs/The-Rumbling-AW/repositories`
+URL del repositorio de "StayMap": `https://github.com/The-Rumbling-AW/StayMap.git`
 
 <p align="center">
   <img src="assets/capturas/captura-commitstb2.png" alt="commits2" width="700">
