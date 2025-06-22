@@ -233,6 +233,8 @@ forma conjunta</td>
         TP: M Dirigí el diseño de la interfaz de STAYMAP, implementando características como el sistema de autenticación y la visualización de eventos musicales.
 	      <br>
 	      <br>
+	      TB2: Durante el desarrollo del proyecto, asumí un rol activo en el equipo al momento de realizar tanto la landing page como las entrevistas a los usuarios. Participé en la toma de decisiones y compartí responsabilidades clave con mis compañeros, fomentando una dinámica donde todos pudimos liderar desde nuestras fortalezas. Esta forma de liderazgo conjunto permitió que cada integrante se sintiera valorado y escuchado, facilitando una ejecución más eficiente del trabajo y asegurando que los entregables reflejaran el esfuerzo de todo el grupo.<br>
+	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Conduje el diseño iterativo de la página de inicio, integrando feedback mediante encuestas y herramientas colaborativas. Documenté guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad para enriquecer el enfoque del equipo. <br>
 	      	      <br>
@@ -264,6 +266,7 @@ forma conjunta</td>
         TB1: Diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Lideré múltiples sesiones de programación en pareja para implementar los endpoints clave, y creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron diferencias en las prioridades, medié para encontrar soluciones balanceadas. <br><br>
 	      TP: Me enfoqué en desarrollar la experiencia de usuario de STAYMAP, implementando personalmente funcionalidades clave como el sistema de autenticación y la visualización de conciertos. Cada elemento lo diseñé pensando en la usabilidad y coherencia con nuestro sistema.
 	      <br> <br>
+	     TB2: El liderazgo compartido fortaleció la cohesión del equipo y permitió que cada miembro asumiera un rol significativo en el proyecto, generando un ambiente de confianza, participación activa y corresponsabilidad.<br> <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback del equipo mediante encuestas estructuradas. Documenté minuciosamente las guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad que enriquecieron nuestro enfoque. <br><br>
 	      TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos. Validé los cambios mediante pruebas controladas, asegurándome de que cumplieran con todos los requisitos establecidos para esta entrega.
@@ -298,7 +301,8 @@ Desarrollé la documentación técnica especializada para STAYMAP, transformando
 	       TB1: 
 Creé la estrategia de contenido integral para STAYMAP, produciendo desde documentos técnicos especializados hasta textos persuasivos para la web, adaptando el lenguaje según cada audiencia y plataforma.
 <br><br>
-	      TP: Documenté en profundidad la estructura y funcionamiento de la base de datos, resaltando sus componentes esenciales y características fundamentales para el proyecto.
+	      TP: Documenté en profundidad la estructura y funcionamiento de la base de datos, resaltando sus componentes esenciales y características fundamentales para el proyecto. <br><br>
+	      TB2: El entorno inclusivo y bien organizado facilitó que el equipo cumpliera sus objetivos con eficacia, asegurando entregables de calidad y una experiencia positiva de trabajo conjunto.
 	      <br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Implementé un sistema de documentación modular con plantillas estandarizadas que permitió mantener la coherencia técnica mientras el proyecto escalaba.<br>
@@ -329,6 +333,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1: Mis materiales comunicativos lograron transmitir efectivamente el valor de STAYMAP a diferentes audiencias.<br>   <br>
 	      TP:  La documentación de la base de datos permitió su manejo eficiente y consistente por todo el equipo.
+	      <br><br>
+	      TB2: El liderazgo compartido fortaleció la cohesión del equipo y permitió que cada miembro asumiera un rol significativo en el proyecto, generando un ambiente de confianza, participación activa y corresponsabilidad.
 	      <br><br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1:  Mis guías aceleraron la incorporación de nuevos miembros al simplificar la comprensión de la arquitectura del sistema.
