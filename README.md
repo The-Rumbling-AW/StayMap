@@ -227,6 +227,9 @@ forma conjunta</td>
         TP: Durante esta etapa, distribuí estratégicamente la función de líder para potenciar las capacidades del equipo. Colaboramos en la migración de Figma a WebStorm, realizando evaluaciones técnicas que evidenciaron mejoras de rendimiento para nuestro proyecto.
 	      <br>
 	      <br>
+	      TB2: Durante el proyecto trabajé con el equipo organizando entrevistas, evaluaciones heurísticas y desarrollo de funcionalidades. Coordinamos tareas y objetivos para cumplir los entregables a tiempo y de forma colaborativa.
+<br>
+	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1:  Elaboré el diagrama entidad-relación inicial y documenté detalladamente las normas de validación. Coordiné sesiones de programación colaborativa para desarrollar endpoints críticos, además de crear un repositorio con ejemplos y estándares de codificación. Medié en discusiones sobre prioridades para equilibrar aspectos técnicos y de experiencia de usuario. <br>
 	      	      <br>
@@ -261,6 +264,8 @@ forma conjunta</td>
         <strong>Collantes Carrillo, Diego Mateo</strong><br>
         TB1: Los esquemas técnicos que desarrollé permitieron establecer una comunicación más efectiva con los interesados, previniendo posibles confusiones durante las fases iniciales del proyecto.<br><br>
 	      TP:  Las mejoras implementadas optimizaron significativamente la interfaz de STAYMAP, logrando una navegación más intuitiva y fluida para los usuarios finales.
+	      <br> <br>
+	      TB2:La colaboración constante en el equipo me permitió contribuir a un entorno inclusivo y organizado, logrando cumplir con las metas planteadas de manera eficiente.
 	      <br> <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1: Diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Lideré múltiples sesiones de programación en pareja para implementar los endpoints clave, y creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron diferencias en las prioridades, medié para encontrar soluciones balanceadas. <br><br>
@@ -297,6 +302,8 @@ Desarrollé la documentación técnica especializada para STAYMAP, transformando
 <br><br>
 	      TP: Elaboré la documentación oficial del proyecto, definiendo estándares para la creación de diagramas y actualizando las guías con todos los cambios implementados en esta fase.
 	      <br><br>
+	      TB2: Participé activamente en la planificación y desarrollo de la página de detalles y de la funcionalidad para unirse a comunidades. Aporté ideas y asumí responsabilidades junto al equipo, ejerciendo liderazgo compartido.
+	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
 	       TB1: 
 Creé la estrategia de contenido integral para STAYMAP, produciendo desde documentos técnicos especializados hasta textos persuasivos para la web, adaptando el lenguaje según cada audiencia y plataforma.
@@ -329,6 +336,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
         TB1: Mi documentación se estableció como referencia técnica clave, asegurando una implementación precisa de la arquitectura del sistema.<br>
 	      <br>
 	      TP:  Los estándares documentados mejoraron significativamente la calidad y consistencia de los diagramas del proyecto.
+	      <br><br>
+	      TB2: Gracias a este proyecto fortalecí mi capacidad para trabajar en equipo con liderazgo compartido, asegurando el cumplimiento de tareas en conjunto y el avance continuo del proyecto.
 	      <br><br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
         TB1: Mis materiales comunicativos lograron transmitir efectivamente el valor de STAYMAP a diferentes audiencias.<br>   <br>
