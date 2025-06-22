@@ -201,6 +201,7 @@ El trabajo colaborativo y la distribución efectiva de responsabilidades han per
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Video About The Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -4234,7 +4235,8 @@ Recomendación: Implementar la opción de subir archivos directamente desde el d
 -	El diseño coherente entre la aplicación web y la landing page, implementado con tecnologías como HTML y CSS , refuerza la identidad visual de StayMap y permite entregar una experiencia de usuario fluida y consistente desde el primer contacto. La integración de componentes visuales y navegables con estructura responsive garantizó la accesibilidad del sistema desde diferentes dispositivos, una característica clave para un entorno objetivo compuesto por usuarios diversos, incluyendo organizadores culturales y participantes comunitarios.
 -	El proyecto StayMap demuestra lo pertinente que es conectar personas a traves de comunidades integradas en la aplicacion para imponer tendencias y además compartir ideas acerca de musica, artistas y novedades en la musica general. Este enfoque nos ha ayudado a identificar que una funcionalidad como las comunidades es util para el consumo experiencial y apoyo a los creadores para su expansión a largo plazo.
 
-  
+# Video About The Team
+
 # Anexos
 
 - As is y To be scenario: `https://miro.com/app/board/uXjVLbCX2lg=/`
