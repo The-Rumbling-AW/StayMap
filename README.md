@@ -239,6 +239,9 @@ forma conjunta</td>
         TP: Facilité talleres de cocreación donde todos participaron en el prototipado, validando modificaciones mediante pruebas controladas para cumplir con los objetivos parciales.
 	      <br>
 	      <br>
+	TB2: Colaboré activamente con mis compañeros durante el desarrollo del proyecto, asumiendo un rol de liderazgo compartido al organizar tareas clave como el deployment y la integración de funcionalidades. Apoyé a mis compañeros en la resolución de problemas y promoví una toma de decisiones conjunta para garantizar el avance del equipo de forma coordinada.
+       <br>
+	      <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Actué como enlace con stakeholders externos, simplificando requerimientos técnicos y organizando sesiones de sincronización. Recluté participantes para pruebas de usabilidad y optimicé la distribución de tareas para mejorar la eficiencia grupal.<br>
 	      	      <br>
@@ -263,6 +266,8 @@ forma conjunta</td>
         TB1: Lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback del equipo mediante encuestas estructuradas. Documenté minuciosamente las guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad que enriquecieron nuestro enfoque. <br><br>
 	      TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos. Validé los cambios mediante pruebas controladas, asegurándome de que cumplieran con todos los requisitos establecidos para esta entrega.
 	      <br> <br>
+	TB2: El liderazgo compartido y la comunicación constante fortalecieron el trabajo en equipo, permitiéndonos cumplir con los entregables de forma eficiente y mejorar el rendimiento grupal.
+       <br> <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Gestioné la comunicación con los stakeholders, traduciendo requerimientos técnicos a lenguaje accesible. Organicé sesiones de alineación y recluté usuarios para pruebas de usabilidad. Identifiqué y resolví problemas de carga de trabajo mediante una redistribución equitativa de tareas. <br><br>
 	      TP:   Me encargué personalmente de revisar y mejorar el frontend de STAYMAP, implementando ajustes que garantizaron una experiencia de usuario más fluida y efectiva para cumplir con nuestros objetivos.
@@ -296,6 +301,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	      <br>
 	      TP: Generé documentación detallada sobre el proceso de selección e implementación de APIs, facilitando su comprensión y aprovechamiento por parte del equipo.
 	      <br><br>
+		TB2: Fomenté un ambiente de trabajo participativo donde todos los miembros pudieron aportar sus ideas. Propuse metas claras para cada iteración del proyecto, ayudé a distribuir las tareas de manera equitativa y participé activamente en el seguimiento del progreso, lo que permitió alcanzar los objetivos dentro del plazo establecido.
+       <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Redacté artículos técnicos especializados sobre diseño de bases de datos para el blog interno, convirtiéndome en el punto de referencia para consultas documentadas.<br>
 	      <br>
@@ -322,6 +329,8 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	         <br> <br>
 	      TP: La documentación de APIs clarificó su funcionamiento y contribución al proyecto.
 	      <br><br>
+		TB2: Gracias a una buena planificación y colaboración inclusiva, el equipo logró avanzar de manera organizada y efectiva, cumpliendo con los objetivos planteados para el desarrollo del proyecto.
+       <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Mis artículos técnicos optimizaron los flujos de trabajo al eliminar ambigüedades en el manejo de datos.<br>
 	         <br>
