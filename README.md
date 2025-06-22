@@ -3788,6 +3788,7 @@ Este despliegue permitió mostrar funcionalidades clave como:
 - Selector de idioma (Español/Inglés) que traduce dinámicamente el contenido.
 
 <strong> Vista de la Landing Page desplegada en GitHub Pages: </strong>  
+URL de Landing page: `https://the-rumbling-aw.github.io/LandingPage-V3/`
 
 <div align="center">
   <img src="assets/capturas/captura-deployment-landingpage.png" alt="deploy landingpage" style="width: 80%;">
@@ -3818,6 +3819,8 @@ La aplicación permite al usuario:
 - Publicar y explorar contenido en comunidades musicales.
 
 **Vista de la Aplicación Web desplegada en Render:**
+
+URL de Aplicación web: `https://staymap-aw-appweb.onrender.com`
 
 <div align="center">
   <img src="assets/capturas/captura-deployment-appweb.png" alt="deploy appweb" style="width: 80%;">
