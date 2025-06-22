@@ -2637,7 +2637,7 @@ Sección de Para Artistas:
   <img src="assets/capturas/captura-artistas.png" alt="artistas" style="width: 80%">
 </div>
 
-**Enlace de la Landing Page:** `https://landing-v2-bice.vercel.app/`
+**URL de la Landing Page:** `https://landing-v2-bice.vercel.app/`
 
 **URL de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
@@ -3220,8 +3220,8 @@ Sección login:
   <img src="assets/capturas/captura-login.jpg" alt="cap" style="width: 80%">
 </div>
 
-**Enlace de la APP WEB:** stay-map-app-web.vercel.app
-**Enlace de la LANDING PAGE:** landing-v2-gamma.vercel.app
+**URL de la APP WEB:** `stay-map-app-web.vercel.app` 
+**URL de la LANDING PAGE:** `landing-v2-gamma.vercel.app`
 
 **URL de video de visualización y navegación:**
 Para complementar, se preparó un video donde se muestra la navegación completa de la Landing Page, recorriendo cada sección implementada y explicando brevemente su propósito.
@@ -3805,7 +3805,7 @@ La aplicación permite al usuario:
 <div align="center">
   <img src="assets/capturas/captura-deployment-appweb.png" alt="deploy appweb" style="width: 80%;">
 </div>
----
+
 
 Ambos despliegues fueron validados como evidencia funcional durante la revisión del Sprint 3, garantizando que el sistema StayMap se encuentra operativo en entornos productivos accesibles públicamente.
 
