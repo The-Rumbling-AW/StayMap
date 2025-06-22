@@ -3635,10 +3635,6 @@ Editar perfil:
 Ver conciertos en mapa:
 
 <div align="center">
-  <img src="assets/capturas/ver-concierto-mapa.png" alt="VerConciertoMapa" style="width: 80%;">
-</div>
-
-<div align="center">
   <img src="assets/capturas/zoom-concierto-mapa.png" alt="ZoomConciertoMapa" style="width: 80%;">
 </div>
 
