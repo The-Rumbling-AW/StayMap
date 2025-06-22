@@ -3938,8 +3938,6 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ## 5.3.3. Evaluaciones según heurísticas.
 
-Durante el Sprint se realizó una evaluación heurística de la usabilidad de la plataforma <strong>StayMap</strong>, con base en los principios de Jakob Nielsen. Esta revisión se centró en las funcionalidades clave que utilizan los artistas emergentes para gestionar sus eventos y comunidades dentro de la aplicación.
-
 ## App a evaluar:
 StayMap
 
