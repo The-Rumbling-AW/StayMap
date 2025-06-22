@@ -3918,6 +3918,23 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ## 5.3.2. Registro de Entrevistas.
 
+
+#### Entrevista #1
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan1.png)
+
+**Nombre:** Jade Huaman  
+**Edad:** 20 años  
+**Duración:** 08:38:20  
+**Inicio:** 00:10:00  
+
+#### Entrevista #2
+![user_persona](assets/interviews/Analisis-Entrevista-2-Fan2.jpeg)
+
+**Nombre:** Jazmin Roque  
+**Edad:** 21 años  
+**Duración:** 13:46:50  
+**Inicio:** 00:08:44  
+
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
 #### Entrevista #4
