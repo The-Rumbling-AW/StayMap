@@ -3921,7 +3921,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
 
 #### Entrevista #4
-![user_persona](assets/interviews/Analisis-Entrevista-Artista1.png)
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista1.png)
 
 **Nombre:** Rodrigo Chavez  
 **Edad:** 19 años  
@@ -3929,7 +3929,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:58:20  
 
 #### Entrevista #5
-![user_persona](assets/interviews/Analisis-Entrevista-Artista2.png)
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista2.png)
 
 **Nombre:** Joaquin Villanueva  
 **Edad:** 19 años  
