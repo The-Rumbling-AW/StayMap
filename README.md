@@ -3592,6 +3592,39 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 </table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
+
+Commits - Landing Page 
+
+| Repository    | Branch / File         | Commit Message              | Commit Message Body                                  | Committed on |
+|---------------|------------------------|------------------------------|-------------------------------------------------------|---------------|
+| ariaalizz      | `landing/index.html`    | feat: estructura inicial     | Se construyó la estructura base en HTML              | 2025-06-19    |
+| ariaalizz      | `landing/styles.css`    | update: estilos visuales     | Se mejoraron colores y márgenes en la página         | 2025-06-20    |
+| ReiZCode       | `landing/form.html`     | feat: formulario de contacto | Se creó formulario responsive con validaciones       | 2025-06-19    |
+| ReiZCode       | `landing/styles.css`    | update: accesibilidad        | Se ajustaron contrastes y tamaños de fuente          | 2025-06-19    |
+| DekayDeCanela  | `landing/index.html`    | feat: sección información    | Se añadió contenido educativo para pacientes         | 2025-06-19    |
+| DekayDeCanela  | `landing/index.html`    | update: limpieza de etiquetas| Se eliminaron etiquetas obsoletas                    | 2025-06-21    |
+| D4D3v4l        | `landing/contact.html`  | feat: íconos sociales        | Se agregaron íconos al footer                        | 2025-06-20    |
+| D4D3v4l        | `landing/footer.css`    | update: diseño del footer    | Footer alineado con branding                         | 2025-06-19    |
+| Antuanete01    | `landing/index.html`    | feat: integración logo       | Logo añadido a navbar y favicon actualizado          | 2025-06-19    |
+| Antuanete01    | `landing/styles.css`    | update: responsividad        | Media queries para tablets y móviles                 | 2025-06-20    |
+
+
+Commits - App Web 
+
+| Repository    | Branch / File                | Commit Message              | Commit Message Body                                  | Committed on |
+|---------------|-------------------------------|------------------------------|-------------------------------------------------------|---------------|
+| ariaalizz      | `src/components/Home.vue`      | update: layout principal     | Ajustes de paddings y estructura                      | 2025-06-19    |
+| ariaalizz      | `src/App.vue`                 | update: mejoras visuales     | Se modificaron colores y fuente                       | 2025-06-21    |
+| ReiZCode       | `src/router/index.js`         | update: rutas ajustadas      | Corrección de rutas duplicadas                        | 2025-06-20    |
+| ReiZCode       | `src/views/Login.vue`         | update: diseño del login     | Campos centrados y texto ajustado                     | 2025-06-19    |
+| DekayDeCanela  | `src/views/Register.vue`      | update: campos alineados     | Confirmar contraseña agregado                         | 2025-06-19    |
+| DekayDeCanela  | `src/components/Navbar.vue`   | update: links y botones      | Se reorganizó la navbar                               | 2025-06-22    |
+| D4D3v4l        | `src/assets/styles.css`       | update: centralización de estilos | Estilos globales para botones                   | 2025-06-22    |
+| D4D3v4l        | `src/components/Footer.vue`   | update: footer responsive    | Diseño mejorado en pantallas pequeñas                 | 2025-06-21    |
+| Antuanete01    | `src/views/About.vue`         | update: información institucional | Redacción mejorada y nuevos íconos             | 2025-06-20    |
+| Antuanete01    | `src/main.js`                | update: importaciones ordenadas | Se limpiaron imports no utilizados             | 2025-06-19    |
+
+
 ### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Durante el Sprint 3 del proyecto StayMap, nos centramos en fortalecer la experiencia del usuario fan y artista a través de nuevas funcionalidades orientadas a la personalización, búsqueda, interacción social y mejora del acceso a contenidos clave. Todas las tareas contempladas en el Sprint Backlog 3 fueron completadas exitosamente por los integrantes del equipo.
