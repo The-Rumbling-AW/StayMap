@@ -3961,14 +3961,15 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 ## 5.3.2. Registro de Entrevistas.
 
+Video del Registro de entrevistas: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EZ3gFWKI8GpJn3TfytTOHNwBtwAjTRY6M_aDX7_e3jJwKQ?e=tiVz7Z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 #### Entrevista #1
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Fan1.png)
 
 **Nombre:** Jade Huaman  
 **Edad:** 20 años  
-**Duración:** 08:38:20  
-**Inicio:** 00:10:00  
+**Duración:** 00:08:38	  
+**Inicio:** 00:00:10 
 **Resumen:** Jade consideró que la versión de StayMap ofrece una experiencia visual atractiva y una navegación sencilla. A pesar de valorar positivamente el diseño y la propuesta general, sugirió una mejora importante: la posibilidad de que la aplicación ofrezca indicaciones desde la ubicación actual del usuario hacia el evento seleccionado. Según su apreciación, esta función haría que la plataforma sea más práctica y eficiente para planificar la asistencia a conciertos en tiempo real, especialmente para quienes no conocen bien la zona o se desplazan en transporte público.
 
 
@@ -3977,8 +3978,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Jazmin Roque  
 **Edad:** 21 años  
-**Duración:** 13:46:50  
-**Inicio:** 00:08:44  
+**Duración:** 00:13:44	 
+**Inicio:** 00:08:50  
 **Resumen:**  Jazmín, al explorar la versión de StayMap, destacó su funcionalidad, pero también señaló algunas carencias que afectarían la experiencia de usuario. En primer lugar, mencionó que la aplicación debería contar con botones visibles para retroceder fácilmente entre pantallas, ya que la navegación puede volverse confusa sin ellos. También propuso incluir notificaciones de tráfico integradas en el mapa para ayudar a los usuarios a prever posibles retrasos al asistir a un evento. Finalmente, sugirió que al subir imágenes en el sistema, estas puedan cargarse directamente como archivos (file upload) y no únicamente mediante una URL, lo que facilitaría el proceso para la mayoría de los usuarios.
 
 ### Segmento objetivo #2: Artistas emergentes y bandas independientes (18 a 40 años)
@@ -3988,8 +3989,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Rodrigo Chavez  
 **Edad:** 19 años  
-**Duración:** 10:55:20  
-**Inicio:** 00:58:20  
+**Duración:** 00:10:54	
+**Inicio:** 00:22:40 
 **Resumen:** Rodrigo Chávez, un artista emergente de 19 años con más de seis años de experiencia en la música, enfocado en el género pop, considera que la plataforma es intuitiva y fácil de usar, con una conexión directa entre artistas y fans. Destaca la simplicidad de las funciones de StayMap, especialmente el apartado de comunidades, que le permite sentirse más cerca de su audiencia. Valora positivamente la funcionalidad del mapa para visualizar la distancia a los conciertos, lo que facilita la planificación de asistencia. Como herramienta adicional, sugiere incorporar recordatorios o notificaciones para los conciertos, lo cual reforzaría el vínculo con los eventos importantes. Además, menciona que la idea de comunidad es clave para crecer como artista emergente, aunque considera que el apartado de publicación de posts podría mejorarse para optimizar la interacción. Su feedback resalta la importancia de la usabilidad, la cercanía con el público y la mejora continua en herramientas de comunicación dentro de la plataforma.
 
 #### Entrevista #4
@@ -3997,8 +3998,8 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 
 **Nombre:** Joaquin Villanueva  
 **Edad:** 19 años  
-**Duración:** 11:19:40  
-**Inicio:** 00:53:30  
+**Duración:** 00:11:15	  
+**Inicio:** 00:33:39  
 **Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
 #### Entrevista #5
@@ -4007,7 +4008,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Nombre:** Zaleth Feijóo  
 **Edad:** 19 años  
 **Duración:** 19:35:00  
-**Inicio:** 02:10:00  
+**Inicio:** 00:44:55 
 **Resumen:** Zaleth Feijóo, artista emergente de 19 años con tres años de experiencia en la música independiente, considera que la propuesta de la aplicación es útil y valiosa, especialmente para artistas emergentes que buscan mayor exposición. Valoró positivamente la facilidad para crear conciertos y el enfoque en comunidades, pero señaló que el proceso de subir imágenes a través de enlaces es poco intuitivo y que el formato de fecha no era claro. Como mejoras, sugirió agregar filtros por géneros musicales para buscar comunidades, incluir precios o etiquetas de conciertos gratuitos, y simplificar el flujo posterior al registro. También propuso incorporar chats o interacciones más directas entre artistas y fans para fomentar un vínculo más cercano. Su feedback destaca la importancia de optimizar los procesos de carga, mejorar la accesibilidad de búsqueda y reforzar la interacción directa en la plataforma.
 
 
