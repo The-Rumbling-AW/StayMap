@@ -4291,8 +4291,12 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 ![Image](assets/capturas/aboutTheProduct.png)
 
 **Duración:** 00:08:36   
-**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
-**URL en Youtube:** `https://www.youtube.com/watch?v=z53nugGXFA4`
+**URL en Microsoft Stream:** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+**URL en Youtube:** 
+
+`https://www.youtube.com/watch?v=z53nugGXFA4`
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
@@ -4314,8 +4318,13 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 ![Image](assets/capturas/AboutTheTeam.png)
 
 **Duración:** 00:08:36   
-**URL en Microsoft Stream:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
-**URL en Youtube:** `https://www.youtube.com/watch?v=UqFMGNLxV3Q`
+**URL en Microsoft Stream:** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+
+**URL en Youtube:**
+
+`https://www.youtube.com/watch?v=UqFMGNLxV3Q`
 
 # Anexos
 
