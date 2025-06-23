@@ -4117,6 +4117,24 @@ CLIENTE(S): Jade Huaman, Jazmín Roque, Joaquín Villanueva, Rodrigo Chávez
       <td>3</td>
       <td>inclusive design: flexibility and efficiency of use</td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>El sistema para añadir imágenes en conciertos es poco intuitivo</td>
+      <td>3</td>
+      <td>usability: recognition rather than recall</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>El formato de fecha no es claro ni familiar para el usuario</td>
+      <td>2</td>
+      <td>match between system and real world</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Falta de filtros por género musical al buscar comunidades</td>
+      <td>2</td>
+      <td>inclusive design: flexibility and efficiency of use</td>
+    </tr>
   </tbody>
 </table>
 
@@ -4219,6 +4237,43 @@ El sistema solo permite subir imágenes mediante URL, no como archivo directo
 Descripción: Actualmente, los usuarios solo pueden añadir imágenes insertando una URL, lo cual limita la accesibilidad y usabilidad de la función, especialmente para quienes no tienen conocimientos técnicos o las imágenes almacenadas en línea.   
 Recomendación: Implementar la opción de subir archivos directamente desde el dispositivo (formato .jpg, .png, etc.) a través de un botón de carga simple e intuitivo, manteniendo también la opción por URL para usuarios avanzados.  
 
+-----------------------
+
+### Problema 9
+El sistema para añadir imágenes en conciertos es poco intuitivo
+
+Severidad: 3
+
+Heurística violada: Reconocimiento antes que recuerdo
+
+Descripción:El usuario debe buscar manualmente imágenes externas y copiar su URL, lo cual no es habitual en plataformas sociales o de creación de contenido. Esto genera una carga cognitiva adicional y errores al copiar los enlaces.
+
+Recomendación: Permitir subida directa de imágenes desde el dispositivo del usuario.
+
+-----------------------
+
+### Problema 10
+El formato de fecha no es claro ni familiar para el usuario
+
+Severidad: 2
+
+Heurística violada: Correspondencia entre el sistema y el mundo real
+
+Descripción: La fecha ingresada se muestra en un formato técnico o de máquina (ej.: ISO 8601) que no es fácilmente comprensible para los usuarios comunes. Esto puede generar confusión al momento de verificar la información del evento.
+
+-----------------------
+
+### Problema 11
+Falta de filtros por género musical al buscar comunidades
+
+Severidad: 2
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Descripción:
+El entrevistado expresó que buscar comunidades por género musical facilitaría encontrar espacios afines a sus intereses. Actualmente, no existen filtros para organizar las comunidades.
+
+-----------------------
 
 # 5.4. Video About-the-Product.
 
