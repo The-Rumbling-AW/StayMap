@@ -4001,6 +4001,16 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 **Inicio:** 00:53:30  
 **Resumen:** Joaquín Villanueva, un joven artista de 19 años con cuatro años de experiencia en la música, enfocado principalmente en el rock indie alternativo, considera que la propuesta de valor es clara y atractiva. Resalta que las herramientas de la aplicación son muy sencillas de usar para interactuar con conciertos y con otros artistas, lo que le pareció interesante y fácil de comprender. No presentó dificultades en su uso y entendió bien el propósito de las comunidades como espacios para mantener la interacción constante entre artistas y fans. Además, valoró la organización visual mediante el mapa de comunidades, ya que considera que permitirá a los artistas emergentes tener mayor visibilidad y oportunidades para despegar. Como mejora, sugiere incorporar una funcionalidad adicional que permita almacenar experiencias vividas en conciertos, a modo de carpeta personal. Su opinión respalda la importancia de la simplicidad, la interacción artística y la personalización como elementos clave para una plataforma que busque conectar a músicos y seguidores
 
+#### Entrevista #5
+![user_persona](assets/interviews/Analisis-Entrevista-2-Artista3.png)
+
+**Nombre:** Zaleth Feijóo
+**Edad:** 19 años  
+**Duración:** 19:35:00  
+**Inicio:** 02:10:00  
+**Resumen:** Zaleth Feijóo, artista emergente de 19 años con tres años de experiencia en la música independiente, considera que la propuesta de la aplicación es útil y valiosa, especialmente para artistas emergentes que buscan mayor exposición. Valoró positivamente la facilidad para crear conciertos y el enfoque en comunidades, pero señaló que el proceso de subir imágenes a través de enlaces es poco intuitivo y que el formato de fecha no era claro. Como mejoras, sugirió agregar filtros por géneros musicales para buscar comunidades, incluir precios o etiquetas de conciertos gratuitos, y simplificar el flujo posterior al registro. También propuso incorporar chats o interacciones más directas entre artistas y fans para fomentar un vínculo más cercano. Su feedback destaca la importancia de optimizar los procesos de carga, mejorar la accesibilidad de búsqueda y reforzar la interacción directa en la plataforma.
+
+
 ## 5.3.3. Evaluaciones según heurísticas.
 
 <div align="center">
