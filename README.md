@@ -4004,7 +4004,7 @@ Validar la funcionalidad que permite a los artistas promocionar eventos, visuali
 #### Entrevista #5
 ![user_persona](assets/interviews/Analisis-Entrevista-2-Artista3.png)
 
-**Nombre:** Zaleth Feijóo
+**Nombre:** Zaleth Feijóo  
 **Edad:** 19 años  
 **Duración:** 19:35:00  
 **Inicio:** 02:10:00  
