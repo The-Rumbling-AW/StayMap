@@ -4583,20 +4583,29 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 
 **Repositorios y URLs del Proyecto**
 
+- **Stay Map Api**
+  `https://github.com/The-Rumbling-AW/StayMap-AW-Api`
+
 - **Organización en GitHub:**  
   `https://github.com/The-Rumbling-AW`
 
-- **Repositorio Web App (StayMap):**  
-  `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
+**SPRINT 1**
 
-- **Repositorio Web Services:**  
-  `https://github.com/The-Rumbling-AW/StayMap-AW-Api.git`
+- App Web: `https://github.com/The-Rumbling-AW/StayMap-AppWeb`
+- Landing Page: `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
 
-- **Landing Page (Frontend):**  
-  `https://landing-v2-bice.vercel.app/`
+**SPRINT 2**
 
-- **Aplicación Web (Backend + DB):**  
-  `https://staymap-aw-appweb.onrender.com`
+- Landing Page v2: `https://github.com/The-Rumbling-AW/LandingV2`
+- App Web: `https://github.com/The-Rumbling-AW/StayMap-AW-AppWeb-V2`
+
+**SPRINT 3**
+
+- Landing Page v3: `https://github.com/The-Rumbling-AW/LandingPage-V3`
+
+**SPRINT 4**
+
+- Landing Page v4: `https://github.com/The-Rumbling-AW/LandingPage-V4`
 
   **Registro de Entrevistas:**  
   ` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
