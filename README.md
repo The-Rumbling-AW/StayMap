@@ -3899,7 +3899,121 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 ## 5.2.4. Sprint 4
 
 ### 5.2.4.1. Sprint Planning 4.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2025-07-09</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>9:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Virtual, via Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared by</strong></td>
+      <td>Lizarbe Álvarez, Ariana Nickole</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Lizarbe Álvarez, Ariana Nickole / Ortiz Cardenas, Johanna Antuanete / 
+        Zúñiga Murillo, Diego Sebastian / Collantes Carrillo, Diego Mateo / 
+        Zegarra López, Renato / Rubber Sebastian
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sprint Goal & User Stories</th>
+    </tr>
+    <tr>
+      <td><strong>Sprint n Goal</strong></td>
+     <td>
+  <strong><strong>Nuestro enfoque está</strong> en continuar el desarrollo de una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses. Ya hemos implementado un backend que accede a los datos desde una base de datos MySQL, lo cual permite gestionar conciertos, comentarios y perfiles de usuarios de forma eficiente.
+
+<strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes a través de la tecnología.
+
+<strong>Esto se confirmará cuando</strong> los usuarios puedan ver eventos geolocalizados, aplicar filtros por género musical y ubicación, así como crear o unirse a comunidades afines dentro de la plataforma, aprovechando la infraestructura ya conectada a MySQL para garantizar consistencia y persistencia de los datos.
+
+
+</td>
+	    <tr>
+    <td>Sum of Story Points</td>
+    <td>POR CONFIRMAR</td>
+  </tr>
+  </tbody>
+</table>
+
 ### 5.2.4.2. Aspect Leaders and Collaborators.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="7">5.2.1.2. Aspect Leaders and Collaborators</th>
+  </tr>
+  <tr>
+    <th>Team Member</th>
+    <th>Github Username</th>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Development</th>
+    <th>Components</th>
+    <th>Deployment</th>
+  </tr>
+  <tr>
+    <td>Collantes Diego</td>
+    <td>D4D3v4l</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Lizarbe Ariana</td>
+    <td>ariaalizz</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Ortiz Johanna</td>
+    <td>Antuanet01</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td>Zegarra Renato</td>
+    <td>ReiZCode</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Zúniga Diego</td>
+    <td>DekayDe Canela</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+</table>
+
 ### 5.2.4.3. Sprint Backlog 4.
 ### 5.2.4.4. Development Evidence for Sprint Review.
 ### 5.2.4.5. Execution Evidence for Sprint Review.
