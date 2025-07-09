@@ -194,6 +194,15 @@ El trabajo colaborativo y la distribución efectiva de responsabilidades han per
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+     - [5.2.4. Sprint 4](#524-sprint-4)
+	      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+	      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+	      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+	      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+	      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+	      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+	      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+	      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -3887,6 +3896,17 @@ Este enfoque fomentó una dinámica de trabajo colaborativo en paralelo, permiti
 
 La participación activa del equipo quedó evidenciada en la frecuencia de los commits y en la cantidad de tareas completadas a tiempo, fortaleciendo el cumplimiento de los objetivos del Sprint.
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4.
+### 5.2.4.2. Aspect Leaders and Collaborators.
+### 5.2.4.3. Sprint Backlog 4.
+### 5.2.4.4. Development Evidence for Sprint Review.
+### 5.2.4.5. Execution Evidence for Sprint Review.
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+### 5.2.4.8. Team Collaboration Insights during Sprint.
+
 # 5.3. Validation Interviews.
 
 En esta sección se documenta el proceso de validación realizado con usuarios reales pertenecientes a los dos segmentos objetivo: fans de la música y artistas emergentes. El objetivo fue validar la solución StayMap —una aplicación web hecha en Vue que recomienda conciertos según ubicación y preferencias musicales— y recolectar recomendaciones a través de feedback directo e indirecto. La aplicación incluye funcionalidades como:
@@ -4253,9 +4273,9 @@ Recomendación: Implementar la opción de subir archivos directamente desde el d
 ### Problema 9
 El sistema para añadir imágenes en conciertos es poco intuitivo
 
-Severidad: 3
+- Severidad: 3
 
-Heurística violada: Reconocimiento antes que recuerdo
+- Heurística violada: Reconocimiento antes que recuerdo
 
 Descripción:El usuario debe buscar manualmente imágenes externas y copiar su URL, lo cual no es habitual en plataformas sociales o de creación de contenido. Esto genera una carga cognitiva adicional y errores al copiar los enlaces.
 
@@ -4266,9 +4286,9 @@ Recomendación: Permitir subida directa de imágenes desde el dispositivo del us
 ### Problema 10
 El formato de fecha no es claro ni familiar para el usuario
 
-Severidad: 2
+- Severidad: 2
 
-Heurística violada: Correspondencia entre el sistema y el mundo real
+- Heurística violada: Correspondencia entre el sistema y el mundo real
 
 Descripción: La fecha ingresada se muestra en un formato técnico o de máquina (ej.: ISO 8601) que no es fácilmente comprensible para los usuarios comunes. Esto puede generar confusión al momento de verificar la información del evento.
 
@@ -4277,9 +4297,9 @@ Descripción: La fecha ingresada se muestra en un formato técnico o de máquina
 ### Problema 11
 Falta de filtros por género musical al buscar comunidades
 
-Severidad: 2
+- Severidad: 2
 
-Heurística violada: Flexibilidad y eficiencia de uso
+- Heurística violada: Flexibilidad y eficiencia de uso
 
 Descripción:
 El entrevistado expresó que buscar comunidades por género musical facilitaría encontrar espacios afines a sus intereses. Actualmente, no existen filtros para organizar las comunidades.
@@ -4291,12 +4311,11 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 ![Image](assets/capturas/aboutTheProduct.png)
 
 **Duración:** 00:08:36   
-**URL en Microsoft Stream:** 
-
-`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
-**URL en Youtube:** 
-
-`https://www.youtube.com/watch?v=z53nugGXFA4`
+**URL en Microsoft Stream:**         
+- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+   
+**URL en Youtube:**           
+- `https://www.youtube.com/watch?v=z53nugGXFA4`
 
 # Avance de Conclusiones, Bibliografía y Anexos
 
@@ -4318,13 +4337,11 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 ![Image](assets/capturas/AboutTheTeam.png)
 
 **Duración:** 00:08:36   
-**URL en Microsoft Stream:** 
+**URL en Microsoft Stream:**    
+- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
 
-`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
-
-**URL en Youtube:**
-
-`https://www.youtube.com/watch?v=UqFMGNLxV3Q`
+**URL en Youtube:**    
+- `https://www.youtube.com/watch?v=UqFMGNLxV3Q`
 
 # Anexos
 
