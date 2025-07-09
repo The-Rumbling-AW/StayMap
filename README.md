@@ -4142,7 +4142,7 @@ Video del Registro de entrevistas: `https://upcedupe-my.sharepoint.com/:v:/g/per
 **Nombre:** Zaleth Feijóo  
 **Edad:** 19 años  
 **Duración:** 19:35:00  
-**Inicio:** 00:44:55 
+**Inicio:** 00:44:55       
 **Resumen:** Zaleth Feijóo, artista emergente de 19 años con tres años de experiencia en la música independiente, considera que la propuesta de la aplicación es útil y valiosa, especialmente para artistas emergentes que buscan mayor exposición. Valoró positivamente la facilidad para crear conciertos y el enfoque en comunidades, pero señaló que el proceso de subir imágenes a través de enlaces es poco intuitivo y que el formato de fecha no era claro. Como mejoras, sugirió agregar filtros por géneros musicales para buscar comunidades, incluir precios o etiquetas de conciertos gratuitos, y simplificar el flujo posterior al registro. También propuso incorporar chats o interacciones más directas entre artistas y fans para fomentar un vínculo más cercano. Su feedback destaca la importancia de optimizar los procesos de carga, mejorar la accesibilidad de búsqueda y reforzar la interacción directa en la plataforma.
 
 
