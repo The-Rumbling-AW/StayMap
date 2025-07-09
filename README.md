@@ -4330,6 +4330,9 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 -	La división del sistema en subdominios funcionales (public, maintenance, analytics y shared) permitió distribuir de forma estratégica el trabajo del equipo, mejorar la organización interna del repositorio y facilitar la navegación entre módulos. Esta estructura favoreció la implementación gradual de funcionalidades, como la navegación entre comunidades, la visualización de información de eventos, y el sistema de streaming, asegurando una evolución controlada y alineada con los objetivos de la TB2.
 -	El diseño coherente entre la aplicación web y la landing page, implementado con tecnologías como HTML y CSS , refuerza la identidad visual de StayMap y permite entregar una experiencia de usuario fluida y consistente desde el primer contacto. La integración de componentes visuales y navegables con estructura responsive garantizó la accesibilidad del sistema desde diferentes dispositivos, una característica clave para un entorno objetivo compuesto por usuarios diversos, incluyendo organizadores culturales y participantes comunitarios.
 -	El proyecto StayMap demuestra lo pertinente que es conectar personas a traves de comunidades integradas en la aplicacion para imponer tendencias y además compartir ideas acerca de musica, artistas y novedades en la musica general. Este enfoque nos ha ayudado a identificar que una funcionalidad como las comunidades es util para el consumo experiencial y apoyo a los creadores para su expansión a largo plazo.
+-	Durante el desarrollo del trabajo final se logró implementar exitosamente la lógica de backend aplicando una estructura basada en Domain-Driven Design (DDD). Esta elección arquitectónica permitió dividir el sistema en capas bien definidas, como los agregados, servicios de dominio y repositorios, lo cual facilitó la organización del código y el enfoque en las reglas del negocio. Gracias a esta estructura, se garantizó una mayor mantenibilidad del sistema, permitiendo escalar la aplicación o incorporar nuevas funcionalidades sin comprometer el código existente. La correcta separación de responsabilidades también permitió tener mayor claridad en la lógica de aplicación y facilitó la identificación de errores o mejoras.
+-	La integración de Swagger representó un componente clave dentro del trabajo, ya que permitió documentar de manera clara y accesible los endpoints de la API. En particular, el método POST fue implementado, probado y validado satisfactoriamente dentro del entorno de Swagger, lo que permitió simular peticiones reales, probar distintas condiciones y observar el comportamiento de la aplicación en tiempo real. Esta herramienta no solo facilita las pruebas durante el desarrollo, sino que también resulta esencial para equipos de desarrollo colaborativos o para futuras integraciones, ya que ofrece una guía precisa sobre cómo utilizar la API y qué parámetros espera.
+-	Se configuró correctamente la conexión con la base de datos, logrando que los datos enviados a través del endpoint POST se registren y persistan de forma adecuada. Esta integración garantizó que la aplicación tuviera una capa de datos funcional, permitiendo así el almacenamiento y recuperación eficiente de la información. Se utilizaron anotaciones y configuraciones apropiadas para definir las entidades y relaciones, respetando el diseño relacional de la base de datos. Esta etapa fue crucial para garantizar el correcto funcionamiento del sistema y su capacidad de operar en un entorno real.
 
 # Video About The Team
 
@@ -4345,6 +4348,8 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 
 # Anexos
 
+**Diagramas y Prototipos**
+
 - As is y To be scenario: `https://miro.com/app/board/uXjVLbCX2lg=/`
 
 - Wireflow Diagrams: `https://lucid.app/lucidspark/78aa6bcf-2d30-441a-afe8-c467f961dd5a/edit?viewport_loc=-3901%2C8387%2C7816%2C3715%2C0_0&invitationId=inv_a6a2e377-b71d-4fd7-9685-fdf246851546`
@@ -4355,6 +4360,8 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 
 - Mockups: `https://www.figma.com/design/WgoQkLQBZxOM76KcRnpysS/Untitled?node-id=0-1&p=f&t=25lXEAyLkHpZuAcH-0`
 
+- Figma Interactivo:   `https://www.figma.com/design/7f739smanaIgteBCDTUWwlo/Untitled?node-id=0-18&t=84cnFHp9dQ6FvEUv-0`
+
 - Diagrama UML: `https://lucid.app/lucidchart/c0654847-5143-4121-8907-1f8bae86b31d/edit?viewport_loc=-8104%2C-1137%2C5901%2C2770%2C0_0&invitationId=inv_459664a2-b7f6-49a0-8cc8-e2640f08ee88`
 
 **Videos de Exposiciones:**
@@ -4362,7 +4369,51 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 - TB1:` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/EXfx-909xgVOgdSscTacSwYBwbp_ishEjpDMJ0SlHHgesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XT8Qtz`
 - TP: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311704_upc_edu_pe/Ec1C5yw-wUlGkd5kvkM7VEUBeShspviOv02mriDJ_-1dYQ?e=EsmVsw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 - TB2: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EXdesKc-cdlOpNKxxeU1tycBCI0mYj8ci3ZZRjTWioh1cA?e=6SO58j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+**Prototipos de Aplicación Web**
+
+- Desktop:  `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EX_5H4ofoydGrjyaxA3pE1wBrclkUgJO2V4Tse0Y0pZmBg?e=TYIOYy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
+
+- Mobile: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EeFg85OUFzZFrKyQvGbcWZcBuSg6JYLz4YvoBM7c4Ciz3g?e=ca8Kze&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)![image](https://github.com/user-attachments/assets/158e39b9-33bd-45a5-a9e3-9a07de93708a`
+
+
+**Gestión de Proyecto**
+
+- **Gestión de Requisitos:**  
+  - `https://uxpressia.com/`  
+  - `https://miro.com/es/`  
+  - `https://structurizr.com/`
+
+- **Diseño UX/UI:**  
+  - `https://www.figma.com/es-la/`  
+  - `https://www.lucidchart.com/pages/es`
+
+- **Gestión de Proyecto:**  
+  - `https://discord.com/`  
+  - `https://workspace.google.com/intl/es-419/products/docs/`
+
+**Repositorios y URLs del Proyecto**
+
+- **Organización en GitHub:**  
+  `https://github.com/The-Rumbling-AW`
+
+- **Repositorio Web App (StayMap):**  
+  `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW`
+
+- **Repositorio Web Services:**  
+  `https://github.com/The-Rumbling-AW/StayMap-AW-Api.git`
+
+- **Landing Page (Frontend):**  
+  `https://landing-v2-bice.vercel.app/`
+
+- **Aplicación Web (Backend + DB):**  
+  `https://staymap-aw-appweb.onrender.com`
+
+  **Registro de Entrevistas:**  
+  ` https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ERJfpT5HoF9Ckz2iN8QzbjEBPFxFxVCkACtrv2SSjkxb1w?e=VY6fld&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
   
+- Microsoft Stream: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/EWadlIfuzmJJvwIEZnMSosIBuk62gjJvnv5zgPXOV6cRbw?e=ryTZTC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)![image](https://github.com/user-attachments/assets/36ee6ccb-8077-487e-95c6-0dddce6bd82d`
+
 # Bibliografía
 
 - Instituto de Estudios Peruanos (IEP). (2019). Informe de Opinión: Música y hábitos de consumo cultural. `https://iep.org.pe/wp-content/uploads/2019/09/Informe-OP-Septiembre-2019-M%C3%BAsica-7.pdf`
