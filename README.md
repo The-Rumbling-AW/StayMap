@@ -387,13 +387,62 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 </table>
 
 # Project Report Collaboration Insights
-URL de organización The-Rumbling-AW: `https://github.com/The-Rumbling-AW`
+
+- URL de organización The-Rumbling-AW: `https://github.com/The-Rumbling-AW`
 
 <p align="center">
 <img src="assets/capturas/the-Rumbling-aw.png" alt="repositorio THERUMBLING" style="width: 700px">
 </p>
 
-URL del repositorio de "StayMap": `https://github.com/The-Rumbling-AW/StayMap.git`
+
+## TB1:     
+
+- URL del repositorio de la primera versión de la Landing Page de "StayMap": `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW.git`
+
+<p align="center">
+  <img src="assets/capturas/commits-tb1.png" alt="commitstb1" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitstb12.png" alt="commitstb12" width="700">
+</p>
+
+## TP: 
+
+- URL del repositorio de la segunda versión de la Landing Page de "StayMap": `https://github.com/The-Rumbling-AW/LandingV2.git`
+
+<p align="center">
+  <img src="assets/capturas/commitstp1.png" alt="commitstp1" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitstp12.png" alt="commitstp12" width="700">
+</p>
+
+- URL del repositorio de la primera versión de la Applicacion Web de "StayMap": `https://github.com/The-Rumbling-AW/StayMap_Landing_PageAW.git`
+
+<p align="center">
+  <img src="assets/capturas/commitstpaw.png" alt="commitstp1" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitstpaw2.png" alt="commitstpaw2" width="700">
+</p>
+
+## TB2:
+
+- URL del repositorio de la tercera versión de la Landing Page de "StayMap": `https://github.com/The-Rumbling-AW/LandingPage-V3.git`  
+
+<p align="center">
+  <img src="assets/capturas/landingpagev3.png" alt="landign3" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitslandingv3.png" alt="commits grafico" width="700">
+</p>
+
+
+- URL del repositorio de la segunda versión de la aplicación web de "StayMap": `https://github.com/The-Rumbling-AW/StayMap.git`
 
 <p align="center">
   <img src="assets/capturas/captura-commitstb2.png" alt="commits2" width="700">
@@ -403,6 +452,11 @@ URL del repositorio de "StayMap": `https://github.com/The-Rumbling-AW/StayMap.gi
   <img src="assets/capturas/captura-grafico-commits.png" alt="commits grafico" width="700">
 </p>
 
+## TF:
+
+- URL del repositorio de la cuarta versión de la Landing Page de "StayMap": `https://github.com/The-Rumbling-AW/LandingPage-V4.git`
+
+- URL del repositorio de la tercera versión de la Aplicación Web de "StayMap": 
 
 # CAPÍTULO I: INTRODUCCIÓN
 
