@@ -2874,6 +2874,15 @@ Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo e
 de la Landing Page.
 </p>
 
+<p align="center">
+  <img src="assets/capturas/commits-tb1.png" alt="commitstb1" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitstb12.png" alt="commitstb12" width="700">
+</p>
+
+
 <html lang="es">
 <body>
 
@@ -3430,6 +3439,14 @@ La colaboración se realizó principalmente a través de GitHub, donde cada miem
 **Gráficos de colaboración (GitHub Insights):**
 
 Los gráficos de contribución muestran cómo cada miembro participó de manera activa en la implementación del producto. Se evidencia un flujo de trabajo constante mediante pushes regulares y trabajo en paralelo en los diferentes elementos de la Landing Page.
+
+<p align="center">
+  <img src="assets/capturas/commitstp1.png" alt="commitstp1" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/capturas/commitstp12.png" alt="commitstp12" width="700">
+</p>
 
 ## 5.2.3. Sprint 3
 
