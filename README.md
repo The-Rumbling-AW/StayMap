@@ -3940,7 +3940,8 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <tr>
       <td><strong>Sprint n Goal</strong></td>
      <td>
-  <strong><strong>Nuestro enfoque está</strong> en continuar el desarrollo de una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses. Ya hemos implementado un backend que accede a los datos desde una base de datos MySQL, lo cual permite gestionar conciertos, comentarios y perfiles de usuarios de forma eficiente.
+	     
+  <strong>Nuestro enfoque está</strong> en continuar el desarrollo de una aplicación web funcional que permita a fans y artistas visualizar en un mapa interactivo los eventos musicales cercanos, junto con una lista filtrable de eventos disponibles en su área, según su ubicación e intereses. Ya hemos implementado un backend que accede a los datos desde una base de datos MySQL, lo cual permite gestionar conciertos, comentarios y perfiles de usuarios de forma eficiente.
 
 <strong>Creemos que esto ofrece</strong> una experiencia personalizada que fomenta la participación en comunidades musicales, fortaleciendo el vínculo entre fans y artistas emergentes a través de la tecnología.
 
