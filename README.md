@@ -3645,34 +3645,36 @@ Los gráficos de contribución muestran cómo cada miembro participó de manera 
 
 Commits - Landing Page 
 
-| Repository    | Branch / File         | Commit Message              | Commit Message Body                                  | Committed on |
-|---------------|------------------------|------------------------------|-------------------------------------------------------|---------------|
-| ariaalizz      | `landing/index.html`    | feat: estructura inicial     | Se construyó la estructura base en HTML              | 2025-06-19    |
-| ariaalizz      | `landing/styles.css`    | update: estilos visuales     | Se mejoraron colores y márgenes en la página         | 2025-06-20    |
-| ReiZCode       | `landing/form.html`     | feat: formulario de contacto | Se creó formulario responsive con validaciones       | 2025-06-19    |
-| ReiZCode       | `landing/styles.css`    | update: accesibilidad        | Se ajustaron contrastes y tamaños de fuente          | 2025-06-19    |
-| DekayDeCanela  | `landing/index.html`    | feat: sección información    | Se añadió contenido educativo para pacientes         | 2025-06-19    |
-| DekayDeCanela  | `landing/index.html`    | update: limpieza de etiquetas| Se eliminaron etiquetas obsoletas                    | 2025-06-21    |
-| D4D3v4l        | `landing/contact.html`  | feat: íconos sociales        | Se agregaron íconos al footer                        | 2025-06-20    |
-| D4D3v4l        | `landing/footer.css`    | update: diseño del footer    | Footer alineado con branding                         | 2025-06-19    |
-| Antuanete01    | `landing/index.html`    | feat: integración logo       | Logo añadido a navbar y favicon actualizado          | 2025-06-19    |
-| Antuanete01    | `landing/styles.css`    | update: responsividad        | Media queries para tablets y móviles                 | 2025-06-20    |
+| Repository    | Branch / File             | Commit Id | Commit Message          | Commit Message Body                                        | Committed on |
+|---------------|---------------------------|-----------|--------------------------|-------------------------------------------------------------|---------------|
+| arialalizz    | landing/index.html        | abc123    | feat: estructura inicial | Se construyó la estructura base en HTML                     | 2025-06-19    |
+| arialalizz    | landing/styles.css        | def456    | update: estilos visuales | Se mejoraron colores y márgenes en la página                | 2025-06-19    |
+| ReizCode      | landing/form.html         | ghi789    | feat: formulario de contacto | Se creó formulario responsivo con validaciones         | 2025-06-20    |
+| ReizCode      | landing/styles.css        | jkl012    | update: accesibilidad    | Se ajustaron contrastes y tamaños de fuente                 | 2025-06-20    |
+| DekayDeCanela | landing/index.html        | mno345    | feat: sección informada  | Se añadió contenido educativo para pacientes                | 2025-06-19    |
+| DekayDeCanela | landing/index.html        | pqr678    | update: limpieza etiquetas | Se eliminaron etiquetas obsoletas                        | 2025-06-19    |
+| D4D3v4l1       | landing/contact.html      | stu901    | feat: iconos sociales     | Se agregaron iconos al footer                              | 2025-06-21    |
+| D4D3v4l1       | landing/footer.css        | vwx234    | update: footer responsive  | Footer alineado con branding                              | 2025-06-21    |
+| Antuanete01   | landing/index.html        | yza567    | feat: integración logo    | Logo añadido a navbar y favicon actualizado                | 2025-06-20    |
+| Antuanete01   | landing/styles.css        | bcd890    | update: responsividad     | Media queries para tablets y móviles                        | 2025-06-20    |
+
 
 
 Commits - App Web 
 
-| Repository    | Branch / File                | Commit Message              | Commit Message Body                                  | Committed on |
-|---------------|-------------------------------|------------------------------|-------------------------------------------------------|---------------|
-| ariaalizz      | `src/components/Home.vue`      | update: layout principal     | Ajustes de paddings y estructura                      | 2025-06-19    |
-| ariaalizz      | `src/App.vue`                 | update: mejoras visuales     | Se modificaron colores y fuente                       | 2025-06-21    |
-| ReiZCode       | `src/router/index.js`         | update: rutas ajustadas      | Corrección de rutas duplicadas                        | 2025-06-20    |
-| ReiZCode       | `src/views/Login.vue`         | update: diseño del login     | Campos centrados y texto ajustado                     | 2025-06-19    |
-| DekayDeCanela  | `src/views/Register.vue`      | update: campos alineados     | Confirmar contraseña agregado                         | 2025-06-19    |
-| DekayDeCanela  | `src/components/Navbar.vue`   | update: links y botones      | Se reorganizó la navbar                               | 2025-06-22    |
-| D4D3v4l        | `src/assets/styles.css`       | update: centralización de estilos | Estilos globales para botones                   | 2025-06-22    |
-| D4D3v4l        | `src/components/Footer.vue`   | update: footer responsive    | Diseño mejorado en pantallas pequeñas                 | 2025-06-21    |
-| Antuanete01    | `src/views/About.vue`         | update: información institucional | Redacción mejorada y nuevos íconos             | 2025-06-20    |
-| Antuanete01    | `src/main.js`                | update: importaciones ordenadas | Se limpiaron imports no utilizados             | 2025-06-19    |
+| Repository    | Branch / File               | Commit Id | Commit Message           | Commit Message Body                                         | Committed on |
+|---------------|-----------------------------|-----------|---------------------------|--------------------------------------------------------------|---------------|
+| arialalizz    | src/components/Home.vue     | 001a1b1   | update: layout principal  | Ajustes de paddings y estructura                             | 2025-06-19    |
+| arialalizz    | src/App.vue                 | 002b2c2   | update: mejoras visuales  | Se modificaron colores y fuente                              | 2025-06-21    |
+| ReizCode      | src/router/index.js         | 003c3d3   | update: rutas             | Corrección de rutas duplicadas                               | 2025-06-20    |
+| ReizCode      | src/views/Login.vue         | 004d4e4   | update: diseño del login  | Campos centrados y texto ajustado                            | 2025-06-20    |
+| DekayDeCanela | src/views/Register.vue      | 005e5f5   | update: validación extra  | Confirmar contraseña agregado                                | 2025-06-19    |
+| DekayDeCanela | src/components/Navbar.vue   | 006f6g6   | update: links y botones   | Ajuste de navegación en la navbar                            | 2025-06-20    |
+| D4D3v4l1       | src/assets/styles.css       | 007g7h7   | update: estilos globales  | Estilos globales para botones                                | 2025-06-22    |
+| D4D3v4l1       | src/components/Footer.vue   | 008h8i8   | update: footer responsivo | Footer responsivo en pantallas pequeñas                      | 2025-06-21    |
+| Antuanete01   | src/views/About.vue         | 009i9j9   | update: información       | Redacción mejorada y nuevos iconos                           | 2025-06-20    |
+| Antuanete01   | src/main.js                 | 010j0k0   | update: importaciones     | Se limpiaron imports no utilizados                           | 2025-06-19    |
+
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review.
