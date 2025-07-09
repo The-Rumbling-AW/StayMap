@@ -1543,6 +1543,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 <p align="center">
 <img src="assets/impact_mapping/Impact-Mapping-Fan.png" alt="impact mapping fan" style="width: 700px">
 </p>
+
 **Artistas emergentes y bandas independientes:**
 
 <p align="center">
