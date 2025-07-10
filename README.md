@@ -1783,6 +1783,18 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 |      36 | US36         | Mostrar conciertos cercanos               | Como usuario, quiero que StayMap me muestre conciertos cercanos a mi ubicación actual.                  | 5                        |
 |      37 | US37         | Ver miembros de comunidad                 | Como usuario, quiero ver la lista de miembros que pertenecen a una comunidad.                           | 2                        |
 |      38 | US38         | Subir imágenes en comunidades             | Como usuario, quiero subir imágenes en publicaciones de comunidad para compartir experiencias visuales. | 3                        |
+| 39    | TS-01    | Endpoint para crear conciertos                 | Como developer, quiero un endpoint POST para crear eventos musicales.                        | 3            |
+| 40    | TS-02    | Endpoint para obtener eventos por ubicación    | Como developer, quiero un endpoint GET que devuelva eventos cerca de una lat/lon.            | 3            |
+| 41    | TS-03    | Endpoint para registrar asistencia             | Como developer, quiero que los usuarios puedan confirmar asistencia a eventos.               | 2            |
+| 42    | TS-04    | Endpoint para valorar un evento                | Como developer, quiero permitir que el usuario envíe una calificación y comentario.          | 3            |
+| 43    | TS-05    | Validaciones para crear eventos                | Como developer, quiero validar que los campos obligatorios estén presentes al crear eventos. | 2            |
+| 44    | TS-06    | Endpoint para crear publicaciones en comunidad | Como developer, quiero permitir que un usuario cree publicaciones en comunidades.            | 3            |
+| 45    | TS-07    | Endpoint para reaccionar a publicaciones       | Como developer, quiero permitir agregar reacciones a publicaciones de comunidad.             | 2            |
+| 46    | TS-08    | Endpoint para listar comunidades de usuario    | Como developer, quiero obtener las comunidades a las que un usuario pertenece.               | 2            |
+| 47    | TS-09    | Endpoint para ver asistentes de concierto      | Como developer, quiero permitir ver qué usuarios asistirán a un evento.                      | 2            |
+| 48    | TS-10    | Endpoint para ver perfiles públicos            | Como developer, quiero permitir ver el perfil público de otros usuarios.                     | 1            |
+| 49    | TS-11    | Endpoint para subir imágenes a publicaciones   | Como developer, quiero permitir que los usuarios suban imágenes en publicaciones.            | 3            |
+
 
 
 # Capítulo IV: Product Design
@@ -4171,7 +4183,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 </td>
 	    <tr>
     <td>Sum of Story Points</td>
-    <td>POR CONFIRMAR</td>
+    <td>55</td>
   </tr>
   </tbody>
 </table>
@@ -4239,6 +4251,149 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 </table>
 
 ### 5.2.4.3. Sprint Backlog 4.
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint 4</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>id</th>
+    <th>title</th>
+    <th>id</th>
+    <th>title</th>
+    <th>description</th>
+    <th>estimation</th>
+    <th>assigned to</th>
+    <th>status</th>
+  </tr>
+
+  <tr>
+    <td>US28</td>
+    <td>Ver comunidades accedidas</td>
+    <td>TSK40</td>
+    <td>Mostrar comunidades accedidas del usuario</td>
+    <td>Diseñar la sección "Tus grupos" donde el usuario puede ver las comunidades a las que pertenece.</td>
+    <td>2 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US29</td>
+    <td>Reaccionar a publicaciones en comunidades</td>
+    <td>TSK41</td>
+    <td>Reaccionar con emojis a publicaciones</td>
+    <td>Permitir al usuario interactuar con publicaciones usando reacciones tipo emoji o símbolo.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US30</td>
+    <td>Calificar concierto</td>
+    <td>TSK42</td>
+    <td>Valoración de concierto por parte del usuario</td>
+    <td>Permitir al usuario asignar una calificación del 1 al 5 estrellas tras haber asistido a un evento.</td>
+    <td>3 horas</td>
+    <td>Renato Zegarra</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US31</td>
+    <td>Ver usuarios que asistirán a concierto</td>
+    <td>TSK43</td>
+    <td>Mostrar lista de asistentes</td>
+    <td>Mostrar quiénes asistirán a un evento dentro de su ficha de detalles.</td>
+    <td>3 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US32</td>
+    <td>Acceder a perfil de otros usuarios</td>
+    <td>TSK44</td>
+    <td>Ver perfil público desde comunidades o eventos</td>
+    <td>Habilitar vista de perfil público cuando se da clic en un nombre de usuario o avatar.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US33</td>
+    <td>Ver publicaciones con like</td>
+    <td>TSK45</td>
+    <td>Mostrar publicaciones que recibieron like</td>
+    <td>Listar todas las publicaciones marcadas con “me gusta” por el usuario en su perfil.</td>
+    <td>3 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US34</td>
+    <td>Ver plataformas de venta del concierto</td>
+    <td>TSK46</td>
+    <td>Enlaces de venta de entradas</td>
+    <td>Agregar en la ficha del evento los enlaces a plataformas externas donde se venden entradas.</td>
+    <td>2 horas</td>
+    <td>Diego Collantes</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US35</td>
+    <td>Permitir acceso a ubicación</td>
+    <td>TSK47</td>
+    <td>Solicitar permiso de ubicación al usuario</td>
+    <td>Al ingresar por primera vez a la app, solicitar al usuario que otorgue permisos de geolocalización.</td>
+    <td>2 horas</td>
+    <td>Antuanete Ortiz</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US36</td>
+    <td>Mostrar conciertos cercanos</td>
+    <td>TSK48</td>
+    <td>Visualizar conciertos cercanos usando geolocalización</td>
+    <td>Usar la ubicación del usuario para mostrar conciertos próximos en el mapa.</td>
+    <td>5 horas</td>
+    <td>Renato Zegarra</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US37</td>
+    <td>Ver miembros de comunidad</td>
+    <td>TSK49</td>
+    <td>Listar miembros de comunidad</td>
+    <td>Mostrar quiénes forman parte de una comunidad con foto y nombre.</td>
+    <td>2 horas</td>
+    <td>Diego Zúñiga</td>
+    <td>To Do</td>
+  </tr>
+
+  <tr>
+    <td>US38</td>
+    <td>Subir imágenes en comunidades</td>
+    <td>TSK50</td>
+    <td>Adjuntar imágenes a publicaciones</td>
+    <td>Permitir al usuario subir una o más imágenes en sus publicaciones de comunidad.</td>
+    <td>3 horas</td>
+    <td>Ariana Lizarbe</td>
+    <td>To Do</td>
+  </tr>
+</table>
+
+
 ### 5.2.4.4. Development Evidence for Sprint Review.
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
