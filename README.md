@@ -4395,6 +4395,33 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 
 
 ### 5.2.4.4. Development Evidence for Sprint Review.
+
+Commits - Landing Page.
+
+| Usuario       | Branch / File                   | Commit Id | Commit Message              | Commit Message Body                  | Committed on |
+| ------------- | ------------------------------- | --------- | --------------------------- | ------------------------------------ | ------------ |
+| Antuanete01   | index.js                        | (auto)    | Actualización de archivo    | Mejoras menores al código            | 10/07/2025   |
+| Antuanete01   | i18n.js                         | (auto)    | Actualización de archivo    | Ajustes en traducciones              | 10/07/2025   |
+| Antuanete01   | i18n.js                         | (auto)    | Actualización de archivo    | Ajustes en traducciones              | 10/07/2025   |
+| DekayDeCanela | language-switcher.component.vue | (auto)    | Actualización de componente | Mejoras en el cambio de idioma       | 10/07/2025   |
+| DekayDeCanela | language-switcher.component.vue | (auto)    | Actualización de componente | Mejoras en el cambio de idioma       | 10/07/2025   |
+| DekayDeCanela | fans-section.component.vue      | (auto)    | Actualización de componente | Optimización de la sección de fans   | 10/07/2025   |
+| DekayDeCanela | fans-section.component.vue      | (auto)    | Actualización de componente | Optimización de la sección de fans   | 10/07/2025   |
+| ariaalizz     | en.json                         | (auto)    | Actualización de archivo    | Traducciones mejoradas               | 10/07/2025   |
+| ariaalizz     | index.js                        | (auto)    | Actualización de archivo    | Refactorización del script principal | 10/07/2025   |
+| ariaalizz     | footer-section.component.vue    | (auto)    | Actualización de componente | Ajustes visuales en el footer        | 10/07/2025   |
+| ReiZCode      | index.html                      | (auto)    | Actualización de estructura | Mejoras en estructura HTML           | 10/07/2025   |
+| ReiZCode      | index.html                      | (auto)    | Actualización de estructura | Mejoras en estructura HTML           | 10/07/2025   |
+| ReiZCode      | index.html                      | (auto)    | Actualización de estructura | Mejoras en estructura HTML           | 10/07/2025   |
+| ReiZCode      | index.html                      | (auto)    | Actualización de estructura | Mejoras en estructura HTML           | 10/07/2025   |
+| D4D3v4l       | .gitignore                      | (auto)    | Ajuste de configuración     | Se añadieron nuevas reglas           | 10/07/2025   |
+| D4D3v4l       | vite.config.js                  | (auto)    | Ajuste de configuración     | Cambios en la configuración de Vite  | 10/07/2025   |
+| D4D3v4l       | index.html                      | (auto)    | Actualización de estructura | Ajustes generales                    | 10/07/2025   |
+| ariaalizz     | (varios archivos)               | (auto)    | Subida inicial              | Subiendo estructura de la landing    | 10/07/2025   |
+
+Commits - Aplicación Web
+
+
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
