@@ -231,77 +231,71 @@ ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamen
 proporcionar liderazgo en
 forma conjunta</td>
       <td>
-        <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Como responsable del primer sprint, coordiné meticulosamente las reuniones diarias, garantizando que cada integrante compartiera su progreso, dificultades y planes. Establecí una rotación en el rol de facilitador para fomentar el desarrollo de habilidades de liderazgo en todos los miembros.<br>
+        <strong>Collantes Carrillo, Diego Mateo</strong>
 	      <br>
-        TP: Durante esta etapa, distribuí estratégicamente la función de líder para potenciar las capacidades del equipo. Colaboramos en la migración de Figma a WebStorm, realizando evaluaciones técnicas que evidenciaron mejoras de rendimiento para nuestro proyecto.
+       		TB1: Como responsable del primer sprint, coordiné meticulosamente las reuniones diarias, garantizando que cada integrante compartiera su progreso, dificultades y planes. Establecí una rotación en el rol de facilitador para fomentar el desarrollo de habilidades de liderazgo en todos los miembros.
 	      <br>
 	      <br>
-	      TB2: Durante el proyecto trabajé con el equipo organizando entrevistas, evaluaciones heurísticas y desarrollo de funcionalidades. Coordinamos tareas y objetivos para cumplir los entregables a tiempo y de forma colaborativa.
-<br>
+        	TP: Durante esta etapa, distribuí estratégicamente la función de líder para potenciar las capacidades del equipo. Colaboramos en la migración de Figma a WebStorm, realizando evaluaciones técnicas que evidenciaron mejoras de rendimiento para nuestro proyecto.
+	      <br>
+	      <br>
+	      TB2: Durante el proyecto trabajé con el equipo organizando entrevistas, evaluaciones heurísticas y desarrollo de funcionalidades. Coordinamos tareas y objetivos para cumplir los entregables a tiempo y de forma colaborativa. <br>
+	      <br>
+	      TF: Lideré la integración del sistema de Identity and Access Management y desarrollé los endpoints de posts. También participé activamente en la corrección del frontend, brindando soporte a mis compañeros para mejorar la interfaz.     <br>
 	      <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1:  Elaboré el diagrama entidad-relación inicial y documenté detalladamente las normas de validación. Coordiné sesiones de programación colaborativa para desarrollar endpoints críticos, además de crear un repositorio con ejemplos y estándares de codificación. Medié en discusiones sobre prioridades para equilibrar aspectos técnicos y de experiencia de usuario. <br>
-	      	      <br>
-        TP: M Dirigí el diseño de la interfaz de STAYMAP, implementando características como el sistema de autenticación y la visualización de eventos musicales.
+	      TB1: Elaboré el diagrama entidad-relación inicial y documenté detalladamente las normas de validación. Coordiné sesiones de programación colaborativa para desarrollar endpoints críticos, además de crear un repositorio con ejemplos y estándares de codificación. Medié en discusiones sobre prioridades para equilibrar aspectos técnicos y de experiencia de usuario. 
+	      <br>
+	      <br>
+        TP: Dirigí el diseño de la interfaz de STAYMAP, implementando características como el sistema de autenticación y la visualización de eventos musicales.
 	      <br>
 	      <br>
 	      TB2: Durante el desarrollo del proyecto, asumí un rol activo en el equipo al momento de realizar tanto la landing page como las entrevistas a los usuarios. Participé en la toma de decisiones y compartí responsabilidades clave con mis compañeros, fomentando una dinámica donde todos pudimos liderar desde nuestras fortalezas. Esta forma de liderazgo conjunto permitió que cada integrante se sintiera valorado y escuchado, facilitando una ejecución más eficiente del trabajo y asegurando que los entregables reflejaran el esfuerzo de todo el grupo.<br>
 	      <br>
+	      <br>
+	TF: Desarrollé los endpoints de conciertos y posts, además de proponer e implementar una nueva versión de la landing page, destacando en frontend y backend. Participó en el Sprint 4 y colaboró en la corrección del frontend.
+	      <br>
+	      <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Conduje el diseño iterativo de la página de inicio, integrando feedback mediante encuestas y herramientas colaborativas. Documenté guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad para enriquecer el enfoque del equipo. <br>
-	      	      <br>
+        TB1: Conduje el diseño iterativo de la página de inicio, integrando feedback mediante encuestas y herramientas colaborativas. Documenté guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad para enriquecer el enfoque del equipo. 
+	      <br>
+	      <br>
         TP: Facilité talleres de cocreación donde todos participaron en el prototipado, validando modificaciones mediante pruebas controladas para cumplir con los objetivos parciales.
 	      <br>
 	      <br>
 	TB2: Colaboré activamente con mis compañeros durante el desarrollo del proyecto, asumiendo un rol de liderazgo compartido al organizar tareas clave como el deployment y la integración de funcionalidades. Apoyé a mis compañeros en la resolución de problemas y promoví una toma de decisiones conjunta para garantizar el avance del equipo de forma coordinada.
-       <br>
+              <br>
+	      <br>
+	TF: Desarrollé el endpoint de Communities, el módulo de perfil de usuario e implementé funcionalidades relacionadas al Identity and Access Management. Participé activamente en el Sprint 4 y en la corrección del frontend.
+              <br>
 	      <br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Actué como enlace con stakeholders externos, simplificando requerimientos técnicos y organizando sesiones de sincronización. Recluté participantes para pruebas de usabilidad y optimicé la distribución de tareas para mejorar la eficiencia grupal.<br>
-	      	      <br>
+        TB1: Actué como enlace con stakeholders externos, simplificando requerimientos técnicos y organizando sesiones de sincronización. Recluté participantes para pruebas de usabilidad y optimicé la distribución de tareas para mejorar la eficiencia grupal.
+	      <br>
+	      <br>
         TP:Mejoré la interfaz de STAYMAP, asegurando su funcionalidad y alineación con las metas establecidas.
 	      <br>
 	      <br> 
 	      TB2: Durante el desarrollo del módulo de detalles de conciertos, la vista de perfil y la funcionalidad de confirmación de asistencia, colaboré activamente con mi equipo, proponiendo soluciones técnicas y coordinando tareas para asegurar una implementación coherente. Brindé apoyo a mis compañeros y participé en decisiones clave que guiaron el avance del sprint.
-	      <br><br>
-<strong>Zuniga Murillo, Diego Sebastian</strong><br>
-        TB1: Coordiné la evaluación de entrevistas para detectar áreas críticas de mejora en STAYMAP, generando informes con recomendaciones específicas. <br>
 	      <br>
-        TP:  Adapté el proyecto a los requisitos de esta fase, desarrollando una API para visualizar eventos musicales en mapas interactivos con detalles de artistas.
+	      <br> 
+	      TF: Asumí el reto de optimizar queries complejas y establecer conexiones de relaciones muchos a muchos. También trabajé en el Identity and Access Management y colaboré en la corrección del frontend, enfrentando desafíos técnicos con autonomía.
+	      <br>
+	      <br>
+<strong>Zuniga Murillo, Diego Sebastian</strong><br>
+        TB1: Coordiné la evaluación de entrevistas para detectar áreas críticas de mejora en STAYMAP, generando informes con recomendaciones específicas. 
+	      <br>
+	      <br>
+        TP: Adapté el proyecto a los requisitos de esta fase, desarrollando una API para visualizar eventos musicales en mapas interactivos con detalles de artistas.
+	       <br>
 	       <br>
 	TB2: Durante el desarrollo de StayMap, el trabajo en equipo fue fundamental. Asumí un rol activo en la toma de decisiones técnicas y en la coordinación del equipo. No se trató de imponer ideas, sino de liderar con el ejemplO. Aporté constantemente desde mi conocimiento técnico y también fui un puente entre diferentes perspectivas del equipo.
+	      <br>
+	      <br>
+	TP: Me encargué de revisar y corregir el contenido del Sprint 3, el keynote y de elaborar evidencia clave para el Sprint Review. También apoyé en la corrección del frontend, lo que fortaleció el resultado final del equipo.
       </td>
       <td>
-        <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Los esquemas técnicos que desarrollé permitieron establecer una comunicación más efectiva con los interesados, previniendo posibles confusiones durante las fases iniciales del proyecto.<br><br>
-	      TP:  Las mejoras implementadas optimizaron significativamente la interfaz de STAYMAP, logrando una navegación más intuitiva y fluida para los usuarios finales.
-	      <br> <br>
-	      TB2:La colaboración constante en el equipo me permitió contribuir a un entorno inclusivo y organizado, logrando cumplir con las metas planteadas de manera eficiente.
-	      <br> <br>
-        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: Diseñé el diagrama entidad-relación inicial y documenté exhaustivamente las reglas de validación. Lideré múltiples sesiones de programación en pareja para implementar los endpoints clave, y creé un repositorio interno con ejemplos de código y buenas prácticas. Cuando surgieron diferencias en las prioridades, medié para encontrar soluciones balanceadas. <br><br>
-	      TP: Me enfoqué en desarrollar la experiencia de usuario de STAYMAP, implementando personalmente funcionalidades clave como el sistema de autenticación y la visualización de conciertos. Cada elemento lo diseñé pensando en la usabilidad y coherencia con nuestro sistema.
-	      <br> <br>
-	     TB2: El liderazgo compartido fortaleció la cohesión del equipo y permitió que cada miembro asumiera un rol significativo en el proyecto, generando un ambiente de confianza, participación activa y corresponsabilidad.<br> <br>
-        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1: Lideré el proceso iterativo de diseño del Landing Page, incorporando activamente el feedback del equipo mediante encuestas estructuradas. Documenté minuciosamente las guías de estilo y componentes reutilizables, e impulsé discusiones sobre accesibilidad que enriquecieron nuestro enfoque. <br><br>
-	      TP: Organicé talleres de diseño participativo donde cada miembro contribuyó activamente a los prototipos. Validé los cambios mediante pruebas controladas, asegurándome de que cumplieran con todos los requisitos establecidos para esta entrega.
-	      <br> <br>
-	TB2: El liderazgo compartido y la comunicación constante fortalecieron el trabajo en equipo, permitiéndonos cumplir con los entregables de forma eficiente y mejorar el rendimiento grupal.
-       <br> <br>
-        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Gestioné la comunicación con los stakeholders, traduciendo requerimientos técnicos a lenguaje accesible. Organicé sesiones de alineación y recluté usuarios para pruebas de usabilidad. Identifiqué y resolví problemas de carga de trabajo mediante una redistribución equitativa de tareas. <br><br>
-	      TP:   Me encargué personalmente de revisar y mejorar el frontend de STAYMAP, implementando ajustes que garantizaron una experiencia de usuario más fluida y efectiva para cumplir con nuestros objetivos.
-	      <br> <br>
-	      TB2: El trabajo en equipo y el liderazgo compartido que ejercí permitieron un desarrollo más ágil y enfocado, donde cada integrante pudo aportar desde su rol con claridad. Esta colaboración mutua fortaleció el compromiso del grupo y aseguró el cumplimiento de nuestros objetivos comunes.
-	      <br><br>
-        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Lideré la gestión y análisis de entrevistas para identificar puntos críticos en STAYMAP, creando guías detalladas con las áreas de mejora prioritarias. <br> <br>
-	      TP: Ajusté personalmente la entrega del proyecto para alinearlo con los nuevos requerimientos. Desarrollé e implementé una API funcional que genera mapas dinámicos con la ubicación de conciertos, incluyendo detalles clave como los nombres de los artistas.
-	      <br> <br>
-	      TB2: Proporcionar liderazgo de forma conjunta no solo mejoró los resultados del proyecto, sino que fomentó un equipo más unido y productivo, demostrando que el liderazgo distribuido es clave para el éxito de cualquier desarrollo colaborativo.
-	      <br>
+         Durante el desarrollo del proyecto StayMap, nuestro grupo adoptó un enfoque de liderazgo compartido, en el cual cada integrante asumió un rol activo y decisivo en distintas etapas del proceso. Esta dinámica nos permitió demostrar que el liderazgo no depende de una sola persona, sino del compromiso colectivo para avanzar hacia un objetivo común. Cada uno lideró desde su especialidad: algunos en la parte técnica —como la implementación de endpoints, optimización de bases de datos y el sistema de Identity and Access Management—, otros en la interfaz y experiencia de usuario, y varios más en la planificación, revisión y coordinación general del proyecto. Gracias a esta rotación de responsabilidades y toma de decisiones conjunta, desarrollamos habilidades de liderazgo desde la práctica y con sentido de equipo. Además, esta estructura horizontal favoreció que todos nos sintiéramos valorados, escuchados y motivados para dar lo mejor de nosotros. La confianza mutua, el respeto profesional y la autonomía compartida fueron fundamentales para que el liderazgo emergiera naturalmente y de forma efectiva en cada sprint.
       </td>
     </tr>
     <tr>
@@ -318,6 +312,8 @@ Desarrollé la documentación técnica especializada para STAYMAP, transformando
 	      <br><br>
 	      TB2: Participé activamente en la planificación y desarrollo de la página de detalles y de la funcionalidad para unirse a comunidades. Aporté ideas y asumí responsabilidades junto al equipo, ejerciendo liderazgo compartido.
 	      <br><br>
+	        TF: Mantuve una comunicación constante con el equipo, compartiendo mis avances y dificultades. Me aseguré de cumplir mis tareas dentro de los plazos establecidos, y contribuí a la planificación colectiva de los sprints.
+	      <br> <br>
         <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
 	       TB1: 
 Creé la estrategia de contenido integral para STAYMAP, produciendo desde documentos técnicos especializados hasta textos persuasivos para la web, adaptando el lenguaje según cada audiencia y plataforma.
@@ -325,12 +321,15 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	      TP: Documenté en profundidad la estructura y funcionamiento de la base de datos, resaltando sus componentes esenciales y características fundamentales para el proyecto. <br><br>
 	      TB2: El entorno inclusivo y bien organizado facilitó que el equipo cumpliera sus objetivos con eficacia, asegurando entregables de calidad y una experiencia positiva de trabajo conjunto.
 	      <br><br>
+	      TF: Aporté ideas para mejorar la experiencia visual del proyecto y me aseguré de que mis entregas se alinearan con los objetivos del equipo. Coordiné tareas durante el Sprint 4 y mantuve siempre una actitud abierta a la retroalimentación.   <br> <br>
         <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
         TB1: Implementé un sistema de documentación modular con plantillas estandarizadas que permitió mantener la coherencia técnica mientras el proyecto escalaba.<br>
 	      <br>
 	      TP: Generé documentación detallada sobre el proceso de selección e implementación de APIs, facilitando su comprensión y aprovechamiento por parte del equipo.
 	      <br><br>
-		TB2: Fomenté un ambiente de trabajo participativo donde todos los miembros pudieron aportar sus ideas. Propuse metas claras para cada iteración del proyecto, ayudé a distribuir las tareas de manera equitativa y participé activamente en el seguimiento del progreso, lo que permitió alcanzar los objetivos dentro del plazo establecido.
+		TB2: Fomenté un ambiente de trabajo participativo donde todos los miembros pudieron aportar sus ideas. Propuse metas claras para cada iteración del proyecto, ayudé a distribuir las tareas de manera equitativa y participé activamente en el seguimiento del progreso, lo que permitió alcanzar los objetivos dentro del plazo establecido.  <br><br>
+	      TP: El liderazgo compartido y la comunicación constante fortalecieron el trabajo en equipo, permitiéndonos cumplir con los entregables de forma eficiente y mejorar el rendimiento grupal.
+       <br> <br>
        <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
         TB1: Redacté artículos técnicos especializados sobre diseño de bases de datos para el blog interno, convirtiéndome en el punto de referencia para consultas documentadas.<br>
@@ -339,48 +338,25 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	      <br><br>
 	      TB2: Fomenté un entorno colaborativo al coordinar con el equipo la planificación de tareas relacionadas con la vista de detalles del concierto, perfil de usuario y confirmación de asistencia. Participé en la definición de metas claras para el sprint, distribuyendo responsabilidades de manera equitativa y respetando los aportes de todos los miembros.
 	      <br><br>
+	        TF: Coordiné mis entregas con el resto del equipo y contribuí activamente a integrar correctamente los módulos. Estuve siempre dispuesto a apoyar en lo necesario y mantener el ritmo del equipo durante los sprints.
+	      <br><br>
         <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
         TB1: Implementé un sistema de dashboards automatizados para procesar feedback de usuarios, generando informes mensuales con insights accionables..<br>
 	       <br>
 	      TP: Desarrollé una guía completa que documenta el proceso de toma de decisiones técnicas, incluyendo la justificación detallada de cada implementación.
-	      <br> 
+	      <br> <br> 
 	      TB2: Desde el inicio del TB2, trabajamos en construir un entorno donde todos los integrantes pudieran participar activamente, sin barreras. Usamos herramientas como GitHub para distribuir tareas para organizar nuestros avances por sprints. Establecimos metas claras en cada reunión, y gracias a una planificación sólida, pudimos cumplir con los entregables dentro del plazo. Cada integrante sabía lo que debía hacer, y si alguien tenía dificultades, el resto del equipo intervenía para apoyar.
-	      <br>
+	      <br><br> 
+	      TF: Desarrollé el Team Collaboration Insights para analizar el trabajo conjunto del equipo. Promoví un espacio de mejora continua, enfocado en cumplir con nuestros objetivos y evaluar nuestra dinámica grupal.
       </td>
       <td>
-        <strong>Collantes Carrillo, Diego Mateo</strong><br>
-        TB1: Mi documentación se estableció como referencia técnica clave, asegurando una implementación precisa de la arquitectura del sistema.<br>
-	      <br>
-	      TP:  Los estándares documentados mejoraron significativamente la calidad y consistencia de los diagramas del proyecto.
-	      <br><br>
-	      TB2: Gracias a este proyecto fortalecí mi capacidad para trabajar en equipo con liderazgo compartido, asegurando el cumplimiento de tareas en conjunto y el avance continuo del proyecto.
-	      <br><br>
-        <strong>Lizarbe Alvarez, Ariana Nickole</strong><br>
-        TB1: Mis materiales comunicativos lograron transmitir efectivamente el valor de STAYMAP a diferentes audiencias.<br>   <br>
-	      TP:  La documentación de la base de datos permitió su manejo eficiente y consistente por todo el equipo.
-	      <br><br>
-	      TB2: El liderazgo compartido fortaleció la cohesión del equipo y permitió que cada miembro asumiera un rol significativo en el proyecto, generando un ambiente de confianza, participación activa y corresponsabilidad.
-	      <br><br>
-        <strong>Ortiz Cardenas, Johanna Antuanete</strong><br>
-        TB1:  Mis guías aceleraron la incorporación de nuevos miembros al simplificar la comprensión de la arquitectura del sistema.
-	         <br> <br>
-	      TP: La documentación de APIs clarificó su funcionamiento y contribución al proyecto.
-	      <br><br>
-		TB2: Gracias a una buena planificación y colaboración inclusiva, el equipo logró avanzar de manera organizada y efectiva, cumpliendo con los objetivos planteados para el desarrollo del proyecto.
-       <br><br>
-        <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
-        TB1: Mis artículos técnicos optimizaron los flujos de trabajo al eliminar ambigüedades en el manejo de datos.<br>
-	         <br>
-	      TP: Los análisis profundos mejoraron la capacidad del equipo para implementar requerimientos complejos.
-	      <br><br>
-	      TB2: Al establecer metas claras y promover la participación activa de todos los integrantes, contribuí a un ambiente inclusivo que permitió alcanzar los objetivos del sprint de forma organizada y efectiva. La planificación anticipada fue clave para cumplir con los entregables dentro del plazo previsto.
-	      <br><br>
-        <strong>Zúñiga Murillo, Diego Sebastian</strong><br>
-        TB1: Mis informes transformaron feedback cualitativo en priorizaciones claras de desarrollo.
-	         <br> <br>
-	      TP: La guía de decisiones técnicas unificó el entendimiento del proyecto entre todos los colaboradores.
-	      <br><br>
-	      TB2: Crear un entorno colaborativo e inclusivo, con metas claras y planificación constante, fue lo que nos permitió cumplir los objetivos de StayMap y trabajar de forma eficiente. Aprendí que una buena organización colectiva tiene tanto valor como las habilidades individuales.
+       Desde el inicio del proyecto, nos propusimos construir un entorno colaborativo donde todas las voces fueran escuchadas y cada aporte tuviera un espacio real dentro del proceso. 
+	      Establecimos dinámicas de comunicación continua —como reuniones diarias, espacios de retroalimentación y organización de tareas por fortalezas individuales— que nos permitieron planificar con claridad 
+	      y cumplir nuestras metas de forma progresiva. La inclusión fue un valor constante: promovimos el respeto por las ideas diferentes, nos apoyamos en momentos de dificultad técnica o de organización, y
+	      aprendimos a adaptarnos como equipo a los desafíos que surgieron. Cada sprint fue planificado con objetivos alcanzables pero desafiantes, lo que nos permitió avanzar con orden sin dejar de innovar. 
+	      Además, integramos buenas prácticas como la documentación, la revisión colaborativa del código y la validación cruzada de entregables, lo que nos ayudó a mantener la calidad en cada etapa. Esta 
+	      manera de trabajar no solo hizo más eficiente el desarrollo del proyecto, sino que fortaleció nuestros lazos como equipo, consolidando una cultura de trabajo en la que el cumplimiento de objetivos 
+	      fue el resultado directo de una colaboración auténtica y horizontal.
       </td>
     </tr>
   </tbody>
