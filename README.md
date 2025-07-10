@@ -1724,6 +1724,8 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 | TS-9    | Endpoint para ver asistentes de concierto      | Como developer, quiero permitir ver qué usuarios asistirán a un evento                      | **Escenario: Ver asistentes**<br>Dado que el evento tiene usuarios registrados<br>Cuando se consulta el endpoint GET /api/events/{id}/attendees<br>Entonces devuelve lista de usuarios con sus nombres de usuario o perfil                                                                                                                                                                          | EP04 / EP06               |
 | TS-10    | Endpoint para ver perfiles públicos            | Como developer, quiero permitir ver el perfil público de otros usuarios                     | **Escenario: Acceso a perfil público**<br>Dado que un usuario hace clic en otro<br>Cuando accede a /api/users/{id}<br>Entonces ve nombre, foto y comunidades visibles                                                                                                                                                                                                                               | EP04 / EP06               |
 | TS-11    | Endpoint para subir imágenes a publicaciones   | Como developer, quiero permitir que los usuarios suban imágenes en publicaciones            | **Escenario: Imagen aceptada**<br>Dado que el usuario adjunta una imagen al crear publicación<br>Cuando el archivo es válido<br>Entonces se guarda y muestra en el frontend<br><br>**Escenario: Archivo inválido**<br>Cuando sube un archivo no permitido<br>Entonces se devuelve un error con código y mensaje                                                                                     | EP04 / EP06               |
+| TS-12    | Endpoint para registrar usuario          | Como developer, quiero un endpoint POST para registrar usuarios en la base de datos con contraseña encriptada | **Escenario: Registro exitoso**<br>Dado que el usuario envía su correo y contraseña<br>Cuando la petición POST a /api/authentication/sign-in contiene datos válidos<br>Entonces se guarda el usuario con la contraseña encriptada usando hashing (ej. bcrypt)<br><br>**Escenario: Email duplicado**<br>Dado que el email ya existe<br>Cuando se intenta registrar<br>Entonces se devuelve un error de conflicto (409) | EP04 / EP06               |
+| TS-13    | Endpoint para login seguro               | Como developer, quiero un endpoint POST para permitir el login con verificación de contraseña encriptada | **Escenario: Login exitoso**<br>Dado que el usuario ya está registrado<br>Cuando hace POST a /api/authentication/sign-up con las credenciales correctas<br>Entonces recibe un token de autenticación JWT<br><br>**Escenario: Credenciales inválidas**<br>Dado que los datos son incorrectos<br>Cuando intenta loguearse<br>Entonces se devuelve un error 401 con mensaje adecuado                         | EP04 / EP06               |
 
 
 # 3.3. Impact Mapping
@@ -1794,6 +1796,8 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 | 47    | TS-09    | Endpoint para ver asistentes de concierto      | Como developer, quiero permitir ver qué usuarios asistirán a un evento.                      | 2            |
 | 48    | TS-10    | Endpoint para ver perfiles públicos            | Como developer, quiero permitir ver el perfil público de otros usuarios.                     | 1            |
 | 49    | TS-11    | Endpoint para subir imágenes a publicaciones   | Como developer, quiero permitir que los usuarios suban imágenes en publicaciones.            | 3            |
+| 50    | TS-12    | Endpoint para registrar usuario                | Como developer, quiero permitir que un usuario se registre con seguridad.                    | 3          |
+| 51    | TS-13    | Endpoint para login seguro                     | Como developer, quiero permitir que un usuario inicie sesión con validación segura.          | 3          |
 
 
 
@@ -4183,7 +4187,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 </td>
 	    <tr>
     <td>Sum of Story Points</td>
-    <td>55</td>
+    <td>61</td>
   </tr>
   </tbody>
 </table>
@@ -4391,6 +4395,27 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Ariana Lizarbe</td>
     <td>Done</td>
   </tr>
+
+  <tr>
+  <td>TS-12</td>
+  <td>Registrar usuario</td>
+  <td>TSK51</td>
+  <td>Crear endpoint de registro de usuario</td>
+  <td>Implementar endpoint POST que permita registrar un nuevo usuario en la base de datos con contraseña encriptada.</td>
+  <td>3 horas</td>
+  <td>Antuanete Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-13</td>
+  <td>Login seguro de usuario</td>
+  <td>TSK52</td>
+  <td>Crear endpoint de inicio de sesión</td>
+  <td>Implementar autenticación mediante verificación de email y contraseña con hash, retornando token JWT.</td>
+  <td>3 horas</td>
+  <td>Antuanete Ortiz</td>
+  <td>Done</td>
+	
 </table>
 
 
@@ -4423,8 +4448,100 @@ Commits - Aplicación Web
 
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 4 del proyecto StayMap, el equipo se centró en fortalecer la experiencia del usuario fan y artista, profundizando en funcionalidades sociales, interacción entre usuarios, geolocalización, y validación de datos clave en conciertos y comunidades.
+
+Además, este sprint marcó el inicio formal del desarrollo del backend real en C# con .NET 9.0, utilizando JetBrains Rider como entorno principal. El backend fue diseñado siguiendo principios RESTful y buenas prácticas de arquitectura, con endpoints simulados inicialmente en json-server como referencia funcional.
+
+Todas las historias de usuario y tareas técnicas contempladas en el Sprint Backlog 4 fueron ejecutadas exitosamente por los integrantes del equipo, cumpliendo los criterios de aceptación establecidos.
+
+	- Visualización de comunidades accedidas ("Tus grupos"): Se implementó una sección en el perfil donde los usuarios ven las comunidades musicales a las que pertenecen. Esta funcionalidad se conectará con un endpoint real desarrollado en .NET 9.0.
+
+	- Reacciones a publicaciones comunitarias: Se habilitó la opción de reaccionar con emojis a publicaciones dentro de cada comunidad. Se manejan restricciones para evitar reacciones duplicadas por usuario.
+
+	- Calificación de conciertos: Los usuarios pueden calificar eventos entre 1 y 5 estrellas. Esta información será almacenada en la base de datos a través del backend en desarrollo con C#.
+
+	- Visualización de asistentes a conciertos: Se muestra una lista de otros usuarios que han confirmado asistencia a un concierto, mejorando la dimensión social de los eventos.
+
+	- Acceso a perfiles públicos: Se activó la navegación hacia perfiles públicos desde comunidades o eventos, mostrando nombre, avatar y comunidades visibles del usuario.
+
+	- Historial de publicaciones con “like”: Se implementó una sección donde el usuario puede revisar las publicaciones que ha marcado como favoritas.
+
+	- Visualización de plataformas de venta: En la ficha del concierto se agregaron enlaces a sitios simulados de venta de entradas, guiando al usuario hacia la compra.
+
+	- Permiso de ubicación y conciertos cercanos: Al acceder a la app, se solicita el permiso de geolocalización. Los conciertos cercanos se renderizan según la ubicación obtenida, conectándose al backend en .NET para la lógica de proximidad.
+
+	- Listado de miembros en comunidades: Se implementó una pestaña de “Miembros” que muestra los integrantes de cada comunidad, obtenidos vía servicio.
+
+	- Publicaciones con imágenes: Se agregó la funcionalidad de subir imágenes a publicaciones dentro de comunidades. Incluye validaciones y previsualización.
+ 
+El equipo inició el desarrollo de endpoints en C# con .NET 9.0 desde cero, utilizando Rider y aplicando buenas prácticas como:
+
+- Separación por capas (Controller, Service, Repository).
+
+- Inyección de dependencias.
+
+- Validaciones automáticas con DataAnnotations.
+
+- Uso de Entity Framework y Swagger para pruebas de endpoints.
+
+<strong> Screenshots de las evidencias: </strong>
+
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 4, se lograron importantes avances en los módulos principales del sistema StayMap. Por un lado, se actualizó y desplegó la versión 4 de la Landing Page, ahora alojada en Render, la cual integra contenido audiovisual embebido y un redireccionamiento funcional hacia la aplicación web principal. Por otro lado, se consolidó la versión 3 de la Aplicación Web, que ahora cuenta con una arquitectura completa basada en una base de datos MySQL y un backend desarrollado en C# con .NET 9.0, implementado desde JetBrains Rider. Estos avances representan un paso clave hacia una infraestructura más escalable, robusta y alineada con los objetivos técnicos del proyecto.
+
+#### Landing Page
+
+Durante el Sprint 4, se completó exitosamente la actualización y despliegue de la versión 4 de la Landing Page de StayMap. Aunque ya había sido estructurada en Vue y desplegada previamente, esta nueva versión incorporó mejoras funcionales clave orientadas a la experiencia del usuario y fue migrada a la plataforma Render para un despliegue más flexible y dinámico.
+
+La Landing Page, desarrollada con Vue y Vite, fue compilada para producción mediante el comando:
+
+```
+npm run build -- --configuration production
+````
+
+A diferencia de versiones anteriores alojadas en GitHub Pages, esta nueva versión fue desplegada en Render, lo que permitió contar con un entorno más robusto y fácil de actualizar en tiempo real.
+
+Los principales cambios de esta versión incluyen:
+
+**Botón “Empezar” redirigido a la v3 de la App Web**: Ahora conecta directamente con la tercera versión de la aplicación StayMap, garantizando un flujo de navegación coherente y actualizado para nuevos usuarios.
+
+**Videos embebidos directamente en la interfaz**: Se integraron dos secciones con videos explicativos:
+
+- About the Team: Presenta brevemente al equipo detrás del desarrollo de StayMap.
+
+- About the Product: Muestra una introducción al funcionamiento, propuesta de valor y beneficios principales de la plataforma.
+
+Estas mejoras fortalecen la propuesta visual e informativa de StayMap, generando mayor impacto en nuevos usuarios desde la primera interacción.
+
+
+<strong> Vista de la Landing Page desplegada en Render: </strong>  
+URL de Landing page: `https://landingpage-v4.onrender.com`
+
+<div align="center">
+  <img src="assets/capturas/landingv4.1.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/landingv4.2.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/landingv4.3.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/landingv4.4.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/landingv4.5.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+---
+
+#### Aplicación Web 
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 # 5.3. Validation Interviews.
