@@ -4279,7 +4279,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Diseñar la sección "Tus grupos" donde el usuario puede ver las comunidades a las que pertenece.</td>
     <td>2 horas</td>
     <td>Ariana Lizarbe</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4290,7 +4290,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Permitir al usuario interactuar con publicaciones usando reacciones tipo emoji o símbolo.</td>
     <td>2 horas</td>
     <td>Diego Collantes</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4301,7 +4301,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Permitir al usuario asignar una calificación del 1 al 5 estrellas tras haber asistido a un evento.</td>
     <td>3 horas</td>
     <td>Renato Zegarra</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4312,7 +4312,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Mostrar quiénes asistirán a un evento dentro de su ficha de detalles.</td>
     <td>3 horas</td>
     <td>Diego Zúñiga</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4323,7 +4323,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Habilitar vista de perfil público cuando se da clic en un nombre de usuario o avatar.</td>
     <td>2 horas</td>
     <td>Antuanete Ortiz</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4334,7 +4334,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Listar todas las publicaciones marcadas con “me gusta” por el usuario en su perfil.</td>
     <td>3 horas</td>
     <td>Ariana Lizarbe</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4345,7 +4345,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Agregar en la ficha del evento los enlaces a plataformas externas donde se venden entradas.</td>
     <td>2 horas</td>
     <td>Diego Collantes</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4356,7 +4356,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Al ingresar por primera vez a la app, solicitar al usuario que otorgue permisos de geolocalización.</td>
     <td>2 horas</td>
     <td>Antuanete Ortiz</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4367,7 +4367,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Usar la ubicación del usuario para mostrar conciertos próximos en el mapa.</td>
     <td>5 horas</td>
     <td>Renato Zegarra</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4378,7 +4378,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Mostrar quiénes forman parte de una comunidad con foto y nombre.</td>
     <td>2 horas</td>
     <td>Diego Zúñiga</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 
   <tr>
@@ -4389,7 +4389,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
     <td>Permitir al usuario subir una o más imágenes en sus publicaciones de comunidad.</td>
     <td>3 horas</td>
     <td>Ariana Lizarbe</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 </table>
 
