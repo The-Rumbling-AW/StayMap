@@ -1571,6 +1571,139 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
       <strong>Escenario : Cancelar asistencia</strong><br>Dado que el evento ya está marcado como “Por asistir”,<br>Cuando presiona el botón "Cancelar asistencia",<br>Entonces el evento se elimina de su lista de eventos futuros y vuelve a estar disponible para confirmar.</td>
       <td>EP01</td>
     </tr>
+<tr>
+  <td>US28</td>
+  <td>Ver comunidades accedidas</td>
+  <td>Como usuario, quiero visualizar en el apartado "Tus grupos" las comunidades a las que me he unido.</td>
+  <td>
+    <strong>Escenario: Visualización de comunidades unidas</strong><br>
+    Dado que el usuario ha ingresado a comunidades<br>
+    Cuando accede a la sección "Tus grupos"<br>
+    Entonces puede ver la lista de comunidades a las que pertenece.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US29</td>
+  <td>Reaccionar a publicaciones en comunidades</td>
+  <td>Como usuario, quiero poder reaccionar a publicaciones dentro de las comunidades.</td>
+  <td>
+    <strong>Escenario: Reacción a publicación</strong><br>
+    Dado que el usuario navega por una comunidad<br>
+    Cuando encuentra una publicación<br>
+    Entonces puede reaccionar con un emoji o símbolo.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US30</td>
+  <td>Calificar concierto</td>
+  <td>Como usuario, quiero calificar un concierto de 1 a 5 estrellas para compartir mi experiencia.</td>
+  <td>
+    <strong>Escenario: Valoración del concierto</strong><br>
+    Dado que el usuario asistió a un concierto<br>
+    Cuando accede a su detalle<br>
+    Entonces puede seleccionar una puntuación del 1 al 5.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US31</td>
+  <td>Ver usuarios que asistirán a concierto</td>
+  <td>Como usuario, quiero ver qué otros usuarios asistirán al mismo concierto que yo.</td>
+  <td>
+    <strong>Escenario: Visualizar asistentes</strong><br>
+    Dado que el usuario confirmó su asistencia<br>
+    Cuando entra al evento<br>
+    Entonces puede ver una lista de otros usuarios que también asistirán.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US32</td>
+  <td>Acceder a perfil de otros usuarios</td>
+  <td>Como usuario, quiero poder acceder al perfil de otros usuarios para conocer más sobre ellos.</td>
+  <td>
+    <strong>Escenario: Navegar al perfil de otro usuario</strong><br>
+    Dado que el usuario ve un nombre o avatar<br>
+    Cuando hace clic sobre él<br>
+    Entonces se redirige al perfil público de ese usuario.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US33</td>
+  <td>Ver publicaciones con like</td>
+  <td>Como usuario, quiero ver una lista de publicaciones a las que les he dado "like".</td>
+  <td>
+    <strong>Escenario: Historial de publicaciones favoritas</strong><br>
+    Dado que el usuario ha interactuado en comunidades<br>
+    Cuando accede a su sección de favoritos<br>
+    Entonces puede visualizar todas las publicaciones que le han gustado.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US34</td>
+  <td>Ver plataformas de venta del concierto</td>
+  <td>Como usuario, quiero ver en qué plataformas puedo comprar entradas para un concierto.</td>
+  <td>
+    <strong>Escenario: Visualización de enlaces de venta</strong><br>
+    Dado que el usuario revisa un concierto<br>
+    Cuando accede a su ficha de detalles<br>
+    Entonces visualiza las plataformas donde están disponibles las entradas.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US35</td>
+  <td>Permitir acceso a ubicación</td>
+  <td>Como usuario, quiero que StayMap acceda a mi ubicación para recibir información personalizada.</td>
+  <td>
+    <strong>Escenario: Permiso de ubicación</strong><br>
+    Dado que el usuario entra a la app por primera vez<br>
+    Cuando se le solicita permiso de ubicación<br>
+    Entonces puede aceptar o denegar el acceso.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US36</td>
+  <td>Mostrar conciertos cercanos</td>
+  <td>Como usuario, quiero que StayMap me muestre conciertos cercanos a mi ubicación actual.</td>
+  <td>
+    <strong>Escenario: Conciertos basados en geolocalización</strong><br>
+    Dado que el usuario ha otorgado permisos de ubicación<br>
+    Cuando accede al mapa<br>
+    Entonces se muestran conciertos próximos geográficamente.
+  </td>
+  <td>EP01</td>
+</tr>
+<tr>
+  <td>US37</td>
+  <td>Ver miembros de comunidad</td>
+  <td>Como usuario, quiero ver la lista de miembros que pertenecen a una comunidad.</td>
+  <td>
+    <strong>Escenario: Listado de miembros</strong><br>
+    Dado que el usuario ha ingresado a una comunidad<br>
+    Cuando accede a la sección de miembros<br>
+    Entonces puede visualizar los usuarios que la integran.
+  </td>
+  <td>EP04</td>
+</tr>
+<tr>
+  <td>US38</td>
+  <td>Subir imágenes en comunidades</td>
+  <td>Como usuario, quiero subir imágenes en publicaciones de comunidad para compartir experiencias visuales.</td>
+  <td>
+    <strong>Escenario: Publicación con imagen</strong><br>
+    Dado que el usuario quiere compartir contenido<br>
+    Cuando crea una publicación<br>
+    Entonces puede adjuntar una o más imágenes que se muestren en el feed.
+  </td>
+  <td>EP04</td>
+</tr>
+
   </tbody>
 </table>
 
