@@ -4449,11 +4449,14 @@ Commits - Aplicación Web
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
-Durante el Sprint 4 del proyecto StayMap, el equipo se centró en fortalecer la experiencia del usuario fan y artista, profundizando en funcionalidades sociales, interacción entre usuarios, geolocalización, y validación de datos clave en conciertos y comunidades.
+Durante el Sprint 4 del proyecto StayMap, el equipo se centró en fortalecer la experiencia del usuario fan y artista, profundizando en funcionalidades sociales, interacción entre usuarios, geolocalización, y validación de datos clave en conciertos y comunidades. Además, se desplegó la versión 4 de la Landing Page, la cual ahora redirige a la versión 3 de la aplicación web e incluye videos embebidos sobre el equipo y el producto, mejorando la presentación general del proyecto y su accesibilidad.
 
-Además, este sprint marcó el inicio formal del desarrollo del backend real en C# con .NET 9.0, utilizando JetBrains Rider como entorno principal. El backend fue diseñado siguiendo principios RESTful y buenas prácticas de arquitectura, con endpoints simulados inicialmente en json-server como referencia funcional.
+Este sprint también marcó el inicio formal del desarrollo del backend real en C# con .NET 9.0, utilizando JetBrains Rider como entorno principal. El backend fue diseñado siguiendo principios RESTful y buenas prácticas de arquitectura, con endpoints simulados inicialmente en json-server como referencia funcional.
 
 Todas las historias de usuario y tareas técnicas contempladas en el Sprint Backlog 4 fueron ejecutadas exitosamente por los integrantes del equipo, cumpliendo los criterios de aceptación establecidos.
+
+
+	- Videos embebidos del equipo y el producto: Se añadieron a la Landing Page dos secciones con miniaturas de YouTube que presentan al equipo de desarrollo y una vista general del producto, brindando mayor contexto visual al visitante.
 
 	- Visualización de comunidades accedidas ("Tus grupos"): Se implementó una sección en el perfil donde los usuarios ven las comunidades musicales a las que pertenecen. Esta funcionalidad se conectará con un endpoint real desarrollado en .NET 9.0.
 
@@ -4474,7 +4477,8 @@ Todas las historias de usuario y tareas técnicas contempladas en el Sprint Back
 	- Listado de miembros en comunidades: Se implementó una pestaña de “Miembros” que muestra los integrantes de cada comunidad, obtenidos vía servicio.
 
 	- Publicaciones con imágenes: Se agregó la funcionalidad de subir imágenes a publicaciones dentro de comunidades. Incluye validaciones y previsualización.
- 
+
+  
 El equipo inició el desarrollo de endpoints en C# con .NET 9.0 desde cero, utilizando Rider y aplicando buenas prácticas como:
 
 - Separación por capas (Controller, Service, Repository).
@@ -4486,6 +4490,21 @@ El equipo inició el desarrollo de endpoints en C# con .NET 9.0 desde cero, util
 - Uso de Entity Framework y Swagger para pruebas de endpoints.
 
 <strong> Screenshots de las evidencias: </strong>
+
+<strong> Landing page </strong>
+
+Videos About-The-Product y About-The-Team añadidos a la Landing Page:
+
+<div align="center">
+  <img src="assets/capturas/landingv4.3.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+<div align="center">
+  <img src="assets/capturas/landingv4.4.png" alt="deploy landingpage" style="width: 80%;">
+</div>
+
+<strong> Aplicación Web </strong>
+
+
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -4543,6 +4562,32 @@ URL de Landing page: `https://landingpage-v4.onrender.com`
 #### Aplicación Web 
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 4, el equipo de desarrollo continuó fortaleciendo la arquitectura y funcionalidades clave de la plataforma StayMap, marcando un punto de inflexión con el inicio del backend real en C# con .NET 9.0. La colaboración entre los miembros se mantuvo activa y sincronizada, permitiendo el avance en paralelo del frontend y del backend real.
+
+Las principales actividades realizadas fueron:
+
+- Implementación del backend real en C# con .NET 9.0, estructurado por capas (Controller, Service, Repository), con integración de Entity Framework, Swagger y validaciones con DataAnnotations. El desarrollo se llevó a cabo utilizando JetBrains Rider.
+
+- Desarrollo de endpoints RESTful reales, cubriendo funcionalidades como creación de conciertos, reacciones, calificación de eventos y visualización de asistentes.
+
+- Conexión con base de datos MySQL, alojada en Render, para persistir datos clave del sistema como usuarios, conciertos y publicaciones.
+
+- Adaptación progresiva del frontend en Vue 3 para integrarse con el nuevo backend, reemplazando gradualmente el backend simulado usado en sprints anteriores.
+
+- Control de versiones y ramas usando Git y GitHub, con flujos claros de trabajo distribuidos por funcionalidades como auth, communities, concerts, api-dotnet, etc.
+
+- Actualización y despliegue de la Landing Page versión 4 en Render, la cual ahora redirige a la versión 3 de la aplicación web y contiene videos embebidos de YouTube sobre el equipo y el producto.
+
+- Despliegue de la nueva versión del backend real en Render, como API REST funcional, lista para pruebas y futuras integraciones completas con el frontend.
+
+- El equipo continuó utilizando GitHub como herramienta central de colaboración, manteniendo prácticas como trabajo en ramas específicas, commits frecuentes y descriptivos, y revisiones cruzadas antes de realizar merge hacia dev y main.
+
+**Gráficos de colaboración:**
+
+Landing Page: 
+
+
 
 # 5.3. Validation Interviews.
 
