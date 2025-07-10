@@ -38,7 +38,6 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 </div>
 
 ## Registro de Versiones del Informe
-<h2>Registro de Versiones del Informe</h2>
 
 <div align="center">
   <table border="1" cellspacing="0" cellpadding="8">
