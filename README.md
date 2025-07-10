@@ -38,58 +38,99 @@ Zúñiga Murillo, Diego Sebastian (u202310636)
 </div>
 
 ## Registro de Versiones del Informe
+<h2>Registro de Versiones del Informe</h2>
+
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TB1</td>
-      <td>27/04/2025</td>
-      <td>
-	- Collantes Carrillo, Diego Mateo <br>
-	- Lizarbe Alvarez, Ariana Nickole <br>
-	- Ortiz Cardenas, Johanna Antuanete <br>
-	- Zegarra Lopez, Renato Sebastian Rubber <br> 
-	- Zúñiga Murillo, Diego Sebastian <br>
-      </td>
-      <td>Se ha llevado a cabo un trabajo integral que abarca desde la investigación inicial hasta las primeras fases de diseño del producto.Se han realizado entrevistas y análisis de usuarios para comprender mejor las necesidades y expectativas del público objetivo, lo que ha permitido definir de manera clara el enfoque de la solución.Además, se ha trabajado en la construcción de perfiles de usuario, journey maps, mapas de empatía y escenarios, fortaleciendo así la comprensión de la experiencia del usuario.Posteriormente, se elaboraron wireframes, mockups y diagramas de arquitectura de información y software, estableciendo una base visual y técnica para el desarrollo de la aplicación.Todo este proceso ha sido clave para estructurar adecuadamente el producto, alineándolo tanto a las necesidades detectadas como a los objetivos estratégicos del proyecto.Actualmente, el equipo cuenta con una visión sólida y organizada que guiará las próximas etapas de prototipado, validación e implementación.</td>
-    </tr>
-    <tr>
-      <td>TP</td>
-      <td>16/05/2025</td>
-      <td>
-	- Collantes Carrillo, Diego Mateo <br>
-	- Lizarbe Alvarez, Ariana Nickole <br>
-	- Ortiz Cardenas, Johanna Antuanete <br>
-	- Zegarra Lopez, Renato Sebastian Rubber <br> 
-	- Zúñiga Murillo, Diego Sebastian <br>
-      </td>
-      <td>El equipo ha logrado avances significativos en el desarrollo de las funcionalidades principales del proyecto. Se ha optimizado la página principal incorporando mejoras derivadas de los comentarios obtenidos durante la fase inicial de desarrollo. La interfaz de usuario ya cuenta con su primera versión operativa, cumpliendo con todos los estándares técnicos y requerimientos de diseño previamente establecidos.
-Durante la segunda fase de trabajo, se llevó a cabo una planificación minuciosa donde se designaron líderes para cada área funcional clave. El equipo completó exitosamente todas las tareas programadas, evidenciado en los módulos desarrollados, pruebas realizadas y documentación técnica generada. Como parte del proceso continuo de mejora, se actualizaron los documentos del proyecto, incluyendo el informe de colaboración y los resultados académicos, donde se refleja claramente el progreso colectivo y la evolución de las capacidades del equipo.
-El trabajo colaborativo y la distribución efectiva de responsabilidades han permitido consolidar los componentes esenciales del sistema. Cada integrante ha contribuido activamente al desarrollo de las soluciones técnicas, asegurando que los diferentes módulos funcionen de manera integrada. Las iteraciones constantes y las revisiones periódicas han facilitado la identificación temprana de áreas de mejora, optimizando así tanto el proceso de desarrollo como los resultados obtenidos.</td>
-    </tr>
-    <tr>
-      <td>TB2</td>
-      <td>21/06/2025</td>
-      <td>
-	- Collantes Carrillo, Diego Mateo <br>
-	- Lizarbe Alvarez, Ariana Nickole <br>
-	- Ortiz Cardenas, Johanna Antuanete <br>
-	- Zegarra Lopez, Renato Sebastian Rubber <br> 
-	- Zúñiga Murillo, Diego Sebastian <br>
-      </td>
-      <td>Durante el Sprint 3 se logró desplegar exitosamente una nueva versión de la landing page, junto con la publicación de la aplicación web desarrollada con Vue y JavaScript, alojada en la plataforma Vercel. El equipo realizó una planificación detallada y asignó roles clave (Aspect Leaders) para asegurar el cumplimiento de los objetivos. Las tareas definidas en el Sprint Backlog fueron ejecutadas de forma efectiva, y se generaron evidencias claras a través del código, las pruebas realizadas y la documentación técnica correspondiente. También se actualizaron los artefactos previos, como el Project Report Collaboration Insights y la sección de Student Outcome, reflejando los avances alcanzados y la colaboración del equipo. En conclusión, se cuenta con una versión funcional parcial que satisface los requisitos definidos para esta etapa del proyecto.</td>
-    </tr>
-  </tbody>
-</table>
+  <table border="1" cellspacing="0" cellpadding="8">
+    <thead>
+      <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>TB1</td>
+        <td>27/04/2025</td>
+        <td>
+          - Collantes Carrillo, Diego Mateo<br>
+          - Lizarbe Alvarez, Ariana Nickole<br>
+          - Ortiz Cardenas, Johanna Antuanete<br>
+          - Zegarra Lopez, Renato Sebastian Rubber<br>
+          - Zúñiga Murillo, Diego Sebastian
+        </td>
+        <td>
+          Se ha llevado a cabo un trabajo integral que abarca desde la investigación inicial hasta las primeras fases de diseño del producto.
+          Se han realizado entrevistas y análisis de usuarios para comprender mejor las necesidades y expectativas del público objetivo, lo que ha permitido definir de manera clara el enfoque de la solución.
+          Además, se ha trabajado en la construcción de perfiles de usuario, journey maps, mapas de empatía y escenarios, fortaleciendo así la comprensión de la experiencia del usuario.
+          Posteriormente, se elaboraron wireframes, mockups y diagramas de arquitectura de información y software, estableciendo una base visual y técnica para el desarrollo de la aplicación.
+          Todo este proceso ha sido clave para estructurar adecuadamente el producto, alineándolo tanto a las necesidades detectadas como a los objetivos estratégicos del proyecto.
+          Actualmente, el equipo cuenta con una visión sólida y organizada que guiará las próximas etapas de prototipado, validación e implementación.
+        </td>
+      </tr>
+      <tr>
+        <td>TP</td>
+        <td>16/05/2025</td>
+        <td>
+          - Collantes Carrillo, Diego Mateo<br>
+          - Lizarbe Alvarez, Ariana Nickole<br>
+          - Ortiz Cardenas, Johanna Antuanete<br>
+          - Zegarra Lopez, Renato Sebastian Rubber<br>
+          - Zúñiga Murillo, Diego Sebastian
+        </td>
+        <td>
+          El equipo ha logrado avances significativos en el desarrollo de las funcionalidades principales del proyecto.
+          Se ha optimizado la página principal incorporando mejoras derivadas de los comentarios obtenidos durante la fase inicial de desarrollo.
+          La interfaz de usuario ya cuenta con su primera versión operativa, cumpliendo con todos los estándares técnicos y requerimientos de diseño previamente establecidos.
+          Durante la segunda fase de trabajo, se llevó a cabo una planificación minuciosa donde se designaron líderes para cada área funcional clave.
+          El equipo completó exitosamente todas las tareas programadas, evidenciado en los módulos desarrollados, pruebas realizadas y documentación técnica generada.
+          Como parte del proceso continuo de mejora, se actualizaron los documentos del proyecto, incluyendo el informe de colaboración y los resultados académicos, donde se refleja claramente el progreso colectivo y la evolución de las capacidades del equipo.
+          El trabajo colaborativo y la distribución efectiva de responsabilidades han permitido consolidar los componentes esenciales del sistema.
+          Cada integrante ha contribuido activamente al desarrollo de las soluciones técnicas, asegurando que los diferentes módulos funcionen de manera integrada.
+          Las iteraciones constantes y las revisiones periódicas han facilitado la identificación temprana de áreas de mejora, optimizando así tanto el proceso de desarrollo como los resultados obtenidos.
+        </td>
+      </tr>
+      <tr>
+        <td>TB2</td>
+        <td>21/06/2025</td>
+        <td>
+          - Collantes Carrillo, Diego Mateo<br>
+          - Lizarbe Alvarez, Ariana Nickole<br>
+          - Ortiz Cardenas, Johanna Antuanete<br>
+          - Zegarra Lopez, Renato Sebastian Rubber<br>
+          - Zúñiga Murillo, Diego Sebastian
+        </td>
+        <td>
+          Durante el Sprint 3 se logró desplegar exitosamente una nueva versión de la landing page, junto con la publicación de la aplicación web desarrollada con Vue y JavaScript, alojada en la plataforma Vercel.
+          El equipo realizó una planificación detallada y asignó roles clave (Aspect Leaders) para asegurar el cumplimiento de los objetivos.
+          Las tareas definidas en el Sprint Backlog fueron ejecutadas de forma efectiva, y se generaron evidencias claras a través del código, las pruebas realizadas y la documentación técnica correspondiente.
+          También se actualizaron los artefactos previos, como el Project Report Collaboration Insights y la sección de Student Outcome, reflejando los avances alcanzados y la colaboración del equipo.
+          En conclusión, se cuenta con una versión funcional parcial que satisface los requisitos definidos para esta etapa del proyecto.
+        </td>
+      </tr>
+      <tr>
+        <td>TF</td>
+        <td>10/07/2025</td>
+        <td>
+          - Collantes Carrillo, Diego Mateo<br>
+          - Lizarbe Alvarez, Ariana Nickole<br>
+          - Ortiz Cardenas, Johanna Antuanete<br>
+          - Zegarra Lopez, Renato Sebastian Rubber<br>
+          - Zúñiga Murillo, Diego Sebastian
+        </td>
+        <td>
+          Durante el Sprint 4 se consolidó el trabajo desarrollado a lo largo del proyecto, integrando las funcionalidades construidas previamente en una versión funcional final alojada en Vercel. 
+	El equipo continuó con una dinámica de liderazgo compartido, donde cada miembro asumió responsabilidades clave en frontend, backend y documentación.
+	Se desplegaron las últimas versiones de la Landing Page y Aplicación Web, accediendo a una base de datos MySQl
+	Se realizaron ajustes finales en la interfaz, pruebas de integración y se elaboraron los entregables finales, incluyendo la evidencia del Sprint Review, la presentación y el informe técnico. 
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 ## Contents
 
