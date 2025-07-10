@@ -332,7 +332,7 @@ forma conjunta</td>
 	TB2: Durante el desarrollo de StayMap, el trabajo en equipo fue fundamental. Asumí un rol activo en la toma de decisiones técnicas y en la coordinación del equipo. No se trató de imponer ideas, sino de liderar con el ejemplO. Aporté constantemente desde mi conocimiento técnico y también fui un puente entre diferentes perspectivas del equipo.
 	      <br>
 	      <br>
-	TP: Me encargué de revisar y corregir el contenido del Sprint 3, el keynote y de elaborar evidencia clave para el Sprint Review. También apoyé en la corrección del frontend, lo que fortaleció el resultado final del equipo.
+	TF: Me encargué de revisar y corregir el contenido del Sprint 3, el keynote y de elaborar evidencia clave para el Sprint Review. También apoyé en la corrección del frontend, lo que fortaleció el resultado final del equipo.
       </td>
       <td>
          Durante el desarrollo del proyecto StayMap, nuestro grupo adoptó un enfoque de liderazgo compartido, en el cual cada integrante asumió un rol activo y decisivo en distintas etapas del proceso. Esta dinámica nos permitió demostrar que el liderazgo no depende de una sola persona, sino del compromiso colectivo para avanzar hacia un objetivo común. Cada uno lideró desde su especialidad: algunos en la parte técnica —como la implementación de endpoints, optimización de bases de datos y el sistema de Identity and Access Management—, otros en la interfaz y experiencia de usuario, y varios más en la planificación, revisión y coordinación general del proyecto. Gracias a esta rotación de responsabilidades y toma de decisiones conjunta, desarrollamos habilidades de liderazgo desde la práctica y con sentido de equipo. Además, esta estructura horizontal favoreció que todos nos sintiéramos valorados, escuchados y motivados para dar lo mejor de nosotros. La confianza mutua, el respeto profesional y la autonomía compartida fueron fundamentales para que el liderazgo emergiera naturalmente y de forma efectiva en cada sprint.
@@ -368,7 +368,7 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 	      TP: Generé documentación detallada sobre el proceso de selección e implementación de APIs, facilitando su comprensión y aprovechamiento por parte del equipo.
 	      <br><br>
 		TB2: Fomenté un ambiente de trabajo participativo donde todos los miembros pudieron aportar sus ideas. Propuse metas claras para cada iteración del proyecto, ayudé a distribuir las tareas de manera equitativa y participé activamente en el seguimiento del progreso, lo que permitió alcanzar los objetivos dentro del plazo establecido.  <br><br>
-	      TP: El liderazgo compartido y la comunicación constante fortalecieron el trabajo en equipo, permitiéndonos cumplir con los entregables de forma eficiente y mejorar el rendimiento grupal.
+	      TF: El liderazgo compartido y la comunicación constante fortalecieron el trabajo en equipo, permitiéndonos cumplir con los entregables de forma eficiente y mejorar el rendimiento grupal.
        <br> <br>
        <br><br>
         <strong>Zegarra Lopez, Renato Sebastian Rubber</strong><br>
