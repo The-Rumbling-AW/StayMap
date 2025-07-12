@@ -5443,12 +5443,12 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 
 ![Image](assets/capturas/AboutTheTeam.png)
 
-**Duración:** 00:08:36   
+**Duración:** 00:06:47  
 **URL en Microsoft Stream:**    
-- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310358_upc_edu_pe/EZ2E1TG0iZFLlATG6F5x6UcBnasnpxvN-9dbIIfOFISCjA?e=Ptu1tR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`   
+- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ETj2sfMKMXNIprhJ6HX0UbkBZ0vOz16EZ1EEZ7hsKQWjhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SnOQ3k`
 
 **URL en Youtube:**    
-- `https://www.youtube.com/watch?v=UqFMGNLxV3Q`
+- `https://youtu.be/80YKmOd8JmM`
 
 # Anexos
 
