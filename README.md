@@ -5003,7 +5003,9 @@ Durante el Sprint 4, se llevó a cabo el despliegue del frontend de StayMap en l
 
 <strong> Vista de la aplicacion web desplegada en Render: </strong>  
 
-URL de Frontend de StayMap: `https://staymap-webservice.onrender.com/`
+URL de Frontend de StayMap: `https://staymap-frontend.onrender.com/`
+URL de Backend de StayMap: `https://staymap-webservice.onrender.com/`
+
 
 <div align="center">
   <img src="assets/capturas/captura-paginaprincipal.png" alt="iniciarsesion" style="width: 80%;">
