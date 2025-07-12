@@ -5445,10 +5445,10 @@ El entrevistado expresó que buscar comunidades por género musical facilitaría
 
 **Duración:** 00:06:47  
 **URL en Microsoft Stream:**    
-- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310636_upc_edu_pe/ETj2sfMKMXNIprhJ6HX0UbkBZ0vOz16EZ1EEZ7hsKQWjhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SnOQ3k`
+- `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311558_upc_edu_pe/EQ9VZD6tyXJHpBuneOTHk2oBzWvorddA_I0euxlo5AC8CA?e=may2KF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 
 **URL en Youtube:**    
-- `https://youtu.be/80YKmOd8JmM`
+- `https://youtu.be/ApGen5gG3aU`
 
 # Anexos
 
