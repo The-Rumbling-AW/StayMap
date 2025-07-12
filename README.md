@@ -4476,6 +4476,237 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
   <td>3 horas</td>
   <td>Antuanete Ortiz</td>
   <td>Done</td>
+<tr>
+  <td>TS-14</td>
+  <td>Obtener conciertos públicos</td>
+  <td>TSK53</td>
+  <td>Crear endpoint de listado de conciertos</td>
+  <td>Implementar endpoint GET en /api/v1/concerts/list para retornar todos los conciertos públicos.</td>
+  <td>3 horas</td>
+  <td>Ariana Lizarbe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-15</td>
+  <td>Confirmar asistencia a concierto</td>
+  <td>TSK54</td>
+  <td>Crear endpoint de confirmación</td>
+  <td>Crear endpoint POST para registrar asistencia a concierto por parte del usuario.</td>
+  <td>3 horas</td>
+  <td>Johanna Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-16</td>
+  <td>Cancelar asistencia a concierto</td>
+  <td>TSK55</td>
+  <td>Crear endpoint para cancelar asistencia</td>
+  <td>Implementar endpoint DELETE para anular asistencia a concierto.</td>
+  <td>2 horas</td>
+  <td>Renato Zegarra</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-17</td>
+  <td>Obtener comunidades</td>
+  <td>TSK56</td>
+  <td>Crear endpoint para listar comunidades</td>
+  <td>Crear endpoint GET para obtener todas las comunidades disponibles.</td>
+  <td>2 horas</td>
+  <td>Diego Collantes</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-18</td>
+  <td>Unirse a comunidad</td>
+  <td>TSK57</td>
+  <td>Crear endpoint para unirse a comunidad</td>
+  <td>Implementar endpoint POST que permita a un usuario unirse a una comunidad.</td>
+  <td>2 horas</td>
+  <td>Diego Zúñiga</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-19</td>
+  <td>Salir de comunidad</td>
+  <td>TSK58</td>
+  <td>Crear endpoint para salir de comunidad</td>
+  <td>Crear endpoint DELETE para que un usuario abandone una comunidad.</td>
+  <td>2 horas</td>
+  <td>Ariana Lizarbe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-20</td>
+  <td>Crear concierto</td>
+  <td>TSK59</td>
+  <td>Crear endpoint para registrar concierto</td>
+  <td>Implementar endpoint POST para registrar un concierto en la base de datos.</td>
+  <td>3 horas</td>
+  <td>Johanna Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-21</td>
+  <td>Ver concierto por ID</td>
+  <td>TSK60</td>
+  <td>Crear endpoint para consultar por ID</td>
+  <td>Crear endpoint GET para obtener detalles de un concierto por su ID.</td>
+  <td>1 hora</td>
+  <td>Renato Zegarra</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-22</td>
+  <td>Eliminar concierto</td>
+  <td>TSK61</td>
+  <td>Crear endpoint para eliminar concierto</td>
+  <td>Implementar endpoint DELETE para eliminar concierto registrado.</td>
+  <td>2 horas</td>
+  <td>Diego Collantes</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-23</td>
+  <td>Alternar asistencia a concierto</td>
+  <td>TSK62</td>
+  <td>Crear endpoint toggle asistencia</td>
+  <td>Crear endpoint POST que active o desactive la asistencia a concierto.</td>
+  <td>3 horas</td>
+  <td>Diego Zúñiga</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-24</td>
+  <td>Actualizar estado de concierto</td>
+  <td>TSK63</td>
+  <td>Crear endpoint para cambiar estado</td>
+  <td>Implementar endpoint PUT que permita cambiar el estado de un concierto.</td>
+  <td>3 horas</td>
+  <td>Ariana Lizarbe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-25</td>
+  <td>Buscar conciertos por plataforma</td>
+  <td>TSK64</td>
+  <td>Crear endpoint para buscar por plataforma</td>
+  <td>Crear endpoint GET para listar conciertos según plataforma.</td>
+  <td>2 horas</td>
+  <td>Johanna Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-26</td>
+  <td>Ver perfil de usuario</td>
+  <td>TSK65</td>
+  <td>Crear endpoint para ver perfil</td>
+  <td>Implementar endpoint GET que devuelva el perfil público de un usuario.</td>
+  <td>1 hora</td>
+  <td>Renato Zegarra</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-27</td>
+  <td>Actualizar perfil de usuario</td>
+  <td>TSK66</td>
+  <td>Crear endpoint para editar perfil</td>
+  <td>Crear endpoint PUT que permita a un usuario modificar sus datos.</td>
+  <td>2 horas</td>
+  <td>Diego Collantes</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-28</td>
+  <td>Listar usuarios</td>
+  <td>TSK67</td>
+  <td>Crear endpoint para listar usuarios</td>
+  <td>Implementar endpoint GET para obtener todos los usuarios registrados.</td>
+  <td>1 hora</td>
+  <td>Diego Zúñiga</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-29</td>
+  <td>Dar like a publicación</td>
+  <td>TSK68</td>
+  <td>Crear endpoint para dar like</td>
+  <td>Crear endpoint POST que registre una reacción tipo "like" en una publicación.</td>
+  <td>2 horas</td>
+  <td>Ariana Lizarbe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-30</td>
+  <td>Quitar like a publicación</td>
+  <td>TSK69</td>
+  <td>Crear endpoint para quitar like</td>
+  <td>Implementar endpoint DELETE para eliminar una reacción de tipo like.</td>
+  <td>2 horas</td>
+  <td>Johanna Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-31</td>
+  <td>Crear publicación en comunidad</td>
+  <td>TSK70</td>
+  <td>Crear endpoint de publicación</td>
+  <td>Crear endpoint POST que permita crear publicaciones con texto e imagen.</td>
+  <td>3 horas</td>
+  <td>Renato Zegarra</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-32</td>
+  <td>Ver publicación por ID</td>
+  <td>TSK71</td>
+  <td>Crear endpoint para ver publicación</td>
+  <td>Implementar endpoint GET para consultar el detalle de una publicación específica.</td>
+  <td>1 hora</td>
+  <td>Diego Collantes</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-33</td>
+  <td>Eliminar publicación</td>
+  <td>TSK72</td>
+  <td>Crear endpoint para eliminar publicación</td>
+  <td>Crear endpoint DELETE que permita al autor eliminar su publicación.</td>
+  <td>2 horas</td>
+  <td>Diego Zúñiga</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-34</td>
+  <td>Ver publicaciones por comunidad</td>
+  <td>TSK73</td>
+  <td>Crear endpoint para publicaciones por comunidad</td>
+  <td>Implementar endpoint GET para listar publicaciones según comunidad.</td>
+  <td>2 horas</td>
+  <td>Ariana Lizarbe</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-35</td>
+  <td>Registro de usuario</td>
+  <td>TSK74</td>
+  <td>Crear endpoint de registro</td>
+  <td>Crear endpoint POST para registrar usuario con contraseña hasheada.</td>
+  <td>3 horas</td>
+  <td>Johanna Ortiz</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td>TS-36</td>
+  <td>Login de usuario</td>
+  <td>TSK75</td>
+  <td>Crear endpoint de login</td>
+  <td>Implementar endpoint POST para verificar credenciales y retornar token JWT.</td>
+  <td>3 horas</td>
+  <td>Renato Zegarra</td>
+  <td>Done</td>
+</tr>
+
 	
 </table>
 
