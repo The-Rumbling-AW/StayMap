@@ -4803,7 +4803,49 @@ Videos About-The-Product y About-The-Team añadidos a la Landing Page:
 
 <strong> Aplicación Web </strong>
 
+<div align="center">
+  <img src="assets/capturas/captura-paginaprincipal.png" alt="iniciarsesion" style="width: 80%;">
+</div>
 
+<div align="center">
+  <img src="assets/capturas/captura-registrosesion.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-iniciarsesion.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-sesioniniciada.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-concertdetails.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-mapastaymap.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-zoommapa.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-comunidades.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-comunidadesdetail.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-perfilusuario2.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+<div align="center">
+  <img src="assets/capturas/captura-vermiembros.png" alt="iniciarsesion" style="width: 80%;">
+</div>
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -4859,6 +4901,19 @@ URL de Landing page: `https://landingpage-v4.onrender.com`
 ---
 
 #### Aplicación Web 
+
+Durante el Sprint 4, se llevó a cabo el despliegue del frontend de StayMap en la plataforma Render. Para ello, se utilizó el repositorio público de GitHub StayMap-FrontEnd como fuente del proyecto. En Render, se creó un nuevo servicio web de tipo Static Site, enlazando directamente con dicho repositorio. Se configuraron los parámetros necesarios: el comando de compilación (npm run build), el directorio de publicación (dist/) y la rama principal como fuente del despliegue. Una vez completado este proceso, Render automatizó la instalación de dependencias, la construcción del proyecto y el despliegue a una URL pública. Esta tarea fue clave para garantizar que los avances del Sprint 4 pudieran ser probados y validados en un entorno accesible en línea, con integración continua desde GitHub.
+
+
+<strong> Vista de la aplicacion web desplegada en Render: </strong>  
+
+URL de Frontend de StayMap: `https://staymap-webservice.onrender.com/`
+
+<div align="center">
+  <img src="assets/capturas/captura-paginaprincipal.png" alt="iniciarsesion" style="width: 80%;">
+</div>
+
+
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
