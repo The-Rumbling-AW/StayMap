@@ -2351,19 +2351,19 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 ## 4.6.1. Software Architecture Context Diagram
 
 <div align="center">
-  <img src="assets/c4_model/context-diagram.png" alt="C4 Context Diagram" style="width: 80%">
+  <img src="assets/c4_model/context-diagram1.png" alt="C4 Context Diagram" style="width: 80%">
 </div>
 
 ## 4.6.2. Software Architecture Container Diagrams
 
 <div align="center">
-  <img src="assets/c4_model/container-diagram.png" alt="C4 Container Diagram" style="width: 80%">
+  <img src="assets/c4_model/container-diagram1.png" alt="C4 Container Diagram" style="width: 80%">
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
 
 <div align="center">
-  <img src="assets/c4_model/component-diagram.png" alt="C4 Components Diagram" style="width: 80%">
+  <img src="assets/c4_model/component-diagram1.png" alt="C4 Components Diagram" style="width: 80%">
 </div>
 
 # 4.7. Software Object-Oriented Design
@@ -2371,7 +2371,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 ## 4.7.1. Class Diagrams
 
 <div align="center">
-  <img src="assets/class_diagram/class_diagram.png" alt="UML Class Diagram" style="width: 80%">
+  <img src="assets/class_diagram/class_diagram1.png" alt="UML Class Diagram" style="width: 80%">
 </div>
 
 ## 4.7.2. Class Dictionary
@@ -2422,7 +2422,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 ## 4.8.1. Database Diagram
 
 <div align="center">
-  <img src="assets/database_diagram/database_diagram.png" alt="Database Diagram" style="width: 80%">
+  <img src="assets/database_diagram/database_diagram1.png" alt="Database Diagram" style="width: 80%">
 </div>
 
 En la base de datos de StayMap, el modelo lógico define la tabla usuario, cuyos registros pueden ser simplemente usuarios o convertirse en fans o artistas. Si un usuario es artista, tiene la posibilidad de organizar cero, uno o varios conciertos. La tabla organizar_concierto se conecta de forma uno a uno con concierto, ya que cada organización corresponde a un solo evento. A su vez, los conciertos están asociados a un recinto, donde un concierto se realiza en un único recinto, pero un recinto puede albergar muchos conciertos a lo largo del tiempo. Los usuarios pueden consultar los conciertos cercanos y también guardar aquellos conciertos a los que planean asistir o los que ya han asistido, todo esto mediante relaciones de uno a muchos con la tabla de conciertos. Además, los fans pueden unirse a cero o muchas comunidades, dejar múltiples comentarios sobre conciertos o artistas, y también calificar tanto a los conciertos como a los artistas.
@@ -4802,6 +4802,18 @@ Videos About-The-Product y About-The-Team añadidos a la Landing Page:
 </div>
 
 <strong> Aplicación Web </strong>
+
+Durante el **Sprint 4**, nos enfocamos en la configuración completa del backend y en la actualización del frontend con nuevas funcionalidades clave. Se implementó la creación de publicaciones que permiten subir imágenes locales desde el dispositivo del usuario, las cuales se convierten en enlaces que pueden ser almacenados en la base de datos. Además, se desarrolló la funcionalidad de dar y quitar likes en publicaciones, y se añadió la visualización de las plataformas donde se pueden comprar entradas para cada concierto. En el módulo de comunidades, se habilitó la opción de ver a los miembros que se han unido a cada una, mejorando así la interacción y visibilidad dentro de la plataforma.
+
+### Funcionalidades desarrolladas durante el Sprint 4:
+
+	- Configuración completa del backend para soportar nuevas funciones.
+	- Creación de publicaciones con opción de subir imágenes locales desde el dispositivo.
+	- Conversión automática de imágenes a enlaces para almacenarlos en la base de datos.
+	- Funcionalidad de dar y quitar likes en publicaciones.
+	- Visualización de las plataformas de compra de entradas en los detalles de conciertos.
+	- Visualización de los miembros que se han unido a cada comunidad.
+
 
 <div align="center">
   <img src="assets/capturas/captura-paginaprincipal.png" alt="iniciarsesion" style="width: 80%;">
