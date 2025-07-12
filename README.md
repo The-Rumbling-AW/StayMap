@@ -479,7 +479,29 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
   <img src="assets/capturas/tf-landing2.png" alt="commits grafico" width="700">
 </p>
 
-- URL del repositorio de la tercera versión de la Aplicación Web de "StayMap": 
+- URL del repositorio de la tercera versión de la Aplicación Web de "StayMap": `https://github.com/The-Rumbling-AW/StayMap-FrontEnd.git`
+
+<p align="center">
+  <img src="assets/capturas/captura-frontend.png" alt="commits grafico" width="700">
+</p>
+<p align="center">
+  <img src="assets/capturas/captura-commitsfrontend.png" alt="commits grafico" width="700">
+</p>
+
+- URL del repositorio del backend de "StayMap": `https://github.com/The-Rumbling-AW/StayMap-WebService.git`
+
+<p align="center">
+  <img src="assets/capturas/captura-backend.png" alt="commits grafico" width="700">
+</p>
+<p align="center">
+  <img src="assets/capturas/captura-commitsbackend.png" alt="commits grafico" width="700">
+</p>
+
+- URL del dominio de la database de "Staymap": `mysql-production-a2f7.up.railway.app`
+  
+<p align="center">
+  <img src="assets/capturas/captura-database.png" alt="commits grafico" width="700">
+</p>
 
 # CAPÍTULO I: INTRODUCCIÓN
 
