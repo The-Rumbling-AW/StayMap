@@ -2393,7 +2393,7 @@ Este prototipo demuestra cómo StayMap traduce la arquitectura de información e
 ## 4.7.1. Class Diagrams
 
 <div align="center">
-  <img src="assets/class_diagram/class_diagram1.png" alt="UML Class Diagram" style="width: 80%">
+  <img src="assets/class_diagram/class_diagram.png" alt="UML Class Diagram" style="width: 80%">
 </div>
 
 ## 4.7.2. Class Dictionary
