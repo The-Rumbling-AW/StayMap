@@ -4849,6 +4849,30 @@ Videos About-The-Product y About-The-Team añadidos a la Landing Page:
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+Durante el Sprint 4 se desarrollaron los principales endpoints RESTful para usuarios, conciertos, comunidades y autenticación. Estas funcionalidades fueron validadas mediante pruebas en Swagger y ya se encuentran conectadas al backend, permitiendo la integración con el frontend de StayMap y asegurando una experiencia fluida y segura para los usuarios. Con esto, se consolidó la base funcional del sistema, cumpliendo los objetivos del sprint y dejando el proyecto preparado para futuras iteraciones
+
+### Endpoints documentados - Sprint 4
+
+| Endpoint                                                  | Método | Descripción                                               | Ejemplo de llamada                                   | Ejemplo de respuesta                                    |
+|-----------------------------------------------------------|--------|-----------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------|
+| /api/v1/authentication/sign-up                            | POST   | Registrar nuevo usuario                                   | POST /authentication/sign-up                         | `{ "message": "Usuario registrado con éxito" }`         |
+| /api/v1/authentication/sign-in                            | POST   | Login seguro con validación                               | POST /authentication/sign-in                         | `{ "token": "jwt_token" }`                              |
+| /api/v1/users/{userId}/like                               | POST   | Dar like a una publicación                                | POST /users/3/like                                   | `{ "message": "Like registrado" }`                      |
+| /api/v1/users/{userId}/like                               | DELETE | Quitar like de una publicación                            | DELETE /users/3/like                                 | `{ "message": "Like eliminado" }`                       |
+| /api/v1/communities/{communityId}/posts                   | POST   | Crear una publicación en una comunidad                    | POST /communities/2/posts                            | `{ "message": "Publicación creada correctamente" }`     |
+| /api/v1/post/{id}/reactions                               | POST   | Agregar reacción a una publicación                        | POST /post/10/reactions                              | `{ "message": "Reacción agregada" }`                    |
+| /api/v1/post/{id}/reactions                               | DELETE | Eliminar reacción de una publicación                      | DELETE /post/10/reactions                            | `{ "message": "Reacción eliminada" }`                   |
+| /api/v1/communities/{communityId}/join                    | POST   | Unirse a una comunidad                                    | POST /communities/5/join                             | `{ "message": "Te uniste a la comunidad" }`             |
+| /api/v1/communities/{communityId}/join                    | DELETE | Salir de una comunidad                                    | DELETE /communities/5/join                           | `{ "message": "Has salido de la comunidad" }`           |
+| /api/v1/users/{userId}/upload                             | POST   | Subir imagen de perfil o publicación                      | POST /users/7/upload                                 | `{ "message": "Imagen subida correctamente" }`          |
+| /api/v1/post/{id}                                         | DELETE | Eliminar publicación por ID                               | DELETE /post/15                                      | `{ "message": "Publicación eliminada" }`                |
+| /api/v1/events/{eventId}/attendees                        | GET    | Obtener asistentes a un evento                            | GET /events/4/attendees                              | `[ { "userId": 2, "name": "Diego Zúñiga" }, ... ]`      |
+| /api/v1/users/{id}                                        | GET    | Obtener perfil público de un usuario                      | GET /users/4                                         | `{ "id": 4, "name": "Johanna Ortiz" }`                  |
+| /api/v1/post/{id}/upload                                  | POST   | Subir imagen a una publicación                            | POST /post/10/upload                                 | `{ "message": "Imagen añadida a la publicación" }`      |
+| /api/v1/events/{eventId}/attend                           | POST   | Confirmar asistencia a evento                             | POST /events/4/attend                                | `{ "message": "Asistencia confirmada" }`                |
+| /api/v1/events/{eventId}/attend                           | DELETE | Cancelar asistencia a evento                              | DELETE /events/4/attend                              | `{ "message": "Asistencia cancelada" }`                 |
+| /api/v1/events/{eventId}/toggle-attendance                | POST   | Cambiar estado de asistencia a un evento                  | POST /events/4/toggle-attendance                     | `{ "message": "Estado de asistencia actualizado" }`     |
+
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
