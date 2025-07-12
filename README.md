@@ -1637,13 +1637,13 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 </tr>
 <tr>
   <td>US32</td>
-  <td>Acceder a perfil de otros usuarios</td>
-  <td>Como usuario, quiero poder acceder al perfil de otros usuarios para conocer más sobre ellos.</td>
+  <td>Eliminar publicacion dentro de posts</td>
+  <td>Como usuario, quiero eliminar un post que he publicado.</td>
   <td>
-    <strong>Escenario: Navegar al perfil de otro usuario</strong><br>
-    Dado que el usuario ve un nombre o avatar<br>
-    Cuando hace clic sobre él<br>
-    Entonces se redirige al perfil público de ese usuario.
+    <strong>Escenario: Navegar entre los posts de comunidades</strong><br>
+    Dado que el usuario quiere eliminar un mensaje<br>
+    Cuando hace clic sobre el boton eliminar<br>
+    Entonces el mensaje se elimina.
   </td>
   <td>EP04</td>
 </tr>
@@ -1817,7 +1817,7 @@ A través de las distintas fases de su experiencia, se analiza qué acciones rea
 |      29 | US29         | Reaccionar a publicaciones en comunidades | Como usuario, quiero poder reaccionar a publicaciones dentro de las comunidades.                        | 2                        |
 |      30 | US30         | Calificar concierto                       | Como usuario, quiero calificar un concierto de 1 a 5 estrellas para compartir mi experiencia.           | 3                        |
 |      31 | US31         | Ver usuarios que asistirán a concierto    | Como usuario, quiero ver qué otros usuarios asistirán al mismo concierto que yo.                        | 3                        |
-|      32 | US32         | Acceder a perfil de otros usuarios        | Como usuario, quiero acceder al perfil de otros usuarios para conocer más sobre ellos.                  | 2                        |
+|      32 | US32         | Eliminar publicacion dentro de posts        | Como usuario, quiero eliminar un post que he publicado                | 2                        |
 |      33 | US33         | Ver publicaciones con like                | Como usuario, quiero ver una lista de publicaciones a las que les he dado "like".                       | 3                        |
 |      34 | US34         | Ver plataformas de venta del concierto    | Como usuario, quiero ver en qué plataformas puedo comprar entradas para un concierto.                   | 2                        |
 |      35 | US35         | Permitir acceso a ubicación               | Como usuario, quiero que StayMap acceda a mi ubicación para recibir información personalizada.          | 2                        |
@@ -4248,7 +4248,7 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 </td>
 	    <tr>
     <td>Sum of Story Points</td>
-    <td>61</td>
+    <td>105</td>
   </tr>
   </tbody>
 </table>
@@ -4382,10 +4382,10 @@ La participación activa del equipo quedó evidenciada en la frecuencia de los c
 
   <tr>
     <td>US32</td>
-    <td>Acceder a perfil de otros usuarios</td>
+    <td>Eliminar publicacion dentro de posts  </td>
     <td>TSK44</td>
-    <td>Ver perfil público desde comunidades o eventos</td>
-    <td>Habilitar vista de perfil público cuando se da clic en un nombre de usuario o avatar.</td>
+    <td>Eliminar publicacion dentro de la pestaña de posts</td>
+    <td>Hacer click en el boton eliminar para la eliminacion del post</td>
     <td>2 horas</td>
     <td>Antuanete Ortiz</td>
     <td>Done</td>
