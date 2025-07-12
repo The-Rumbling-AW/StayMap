@@ -4765,7 +4765,45 @@ Commits - Landing Page.
 | D4D3v4l       | index.html                      | (auto)    | Actualización de estructura | Ajustes generales                    | 10/07/2025   |
 | ariaalizz     | (varios archivos)               | (auto)    | Subida inicial              | Subiendo estructura de la landing    | 10/07/2025   |
 
-Commits - Aplicación Web
+Commits - FrontEnd
+
+| Usuario       | Branch / File                                | Commit Id | Commit Message                    | Commit Message Body                | Committed on |
+| ------------- | -------------------------------------------- | --------- | --------------------------------- | ---------------------------------- | ------------ |
+| ReiZCode      | community-management.component.vue           | (auto)    | Update community-management       | Actualización de componente        | 12/07/2025   |
+| ReiZCode      | community-management.component.vue           | (auto)    | Update community-management       | Actualización de componente        | 12/07/2025   |
+| ReiZCode      | concert-map-component.vue                    | (auto)    | Update concert-map-component      | Ajustes en componente de mapa      | 12/07/2025   |
+| D4D3v4l       | .env.production                              | (auto)    | Update .env.production            | Actualización de entorno prod      | 12/07/2025   |
+| D4D3v4l       | .gitignore                                   | (auto)    | Update .gitignore                 | Añadido archivo al .gitignore      | 12/07/2025   |
+| D4D3v4l       | index.html                                   | (auto)    | Update index.html                 | Cambios en estructura del HTML     | 12/07/2025   |
+| D4D3v4l       | .gitignore                                   | (auto)    | Update .gitignore                 | Ajustes adicionales                | 12/07/2025   |
+| DekayDeCanela | concert-map-component.vue                    | (auto)    | Update concert-map-component      | Mejoras en el componente de mapa   | 12/07/2025   |
+| DekayDeCanela | profile-management.vue                       | (auto)    | Update profile-management         | Actualización de gestión de perfil | 12/07/2025   |
+| ariaalizz     | concert.entity.js                            | (auto)    | Update concert.entity.js          | Cambios en entidad Concert         | 12/07/2025   |
+| ariaalizz     | community-post-list.vue                      | (auto)    | Update community-post-list.vue    | Actualización de lista de posts    | 12/07/2025   |
+| ariaalizz     | community-post-item.vue                      | (auto)    | Update community-post-item.vue    | Actualización de componente        | 12/07/2025   |
+| ariaalizz     | community-item-create-and-edit.component.vue | (auto)    | Update community-item-create-edit | Edición y creación de comunidades  | 12/07/2025   |
+| Antuanete01   | README.md                                    | (auto)    | Update README.md                  | Documentación inicial              | 12/07/2025   |
+| Antuanete01   | (todos los archivos iniciales)               | (auto)    | first commit                      | Primer commit del proyecto         | 12/07/2025   |
+
+Commits - BackEnd
+
+| Usuario       | Branch / File                     | Commit Id | Commit Message                                 | Commit Message Body                        | Committed on |
+| ------------- | --------------------------------- | --------- | ---------------------------------------------- | ------------------------------------------ | ------------ |
+| D4D3v4l       | Program.cs                        | (auto)    | Update Program.cs                              | Ajustes generales en el programa           | 12/07/2025   |
+| D4D3v4l       | User.cs                           | (auto)    | Update User.cs                                 | Actualización en modelo de usuario         | 12/07/2025   |
+| ariaalizz     | CommunityCommandService.cs        | (auto)    | Update CommunityCommandService.cs              | Actualización en comandos de comunidad     | 12/07/2025   |
+| ariaalizz     | UserCommandService.cs             | (auto)    | Update UserCommandService.cs                   | Lógica de comandos de usuario mejorada     | 12/07/2025   |
+| ariaalizz     | ConcertResource.cs                | (auto)    | Update ConcertResource.cs                      | Mejoras en el recurso Concert              | 12/07/2025   |
+| ariaalizz     | CreateConcertCommand.cs           | (auto)    | Update CreateConcertCommand.cs                 | Ajustes en creación de conciertos          | 12/07/2025   |
+| DekayDeCanela | PostCommandService.cs             | (auto)    | Update PostCommandService.cs                   | Actualización en comandos de post          | 12/07/2025   |
+| ReiZCode      | IUserRepository.cs                | (auto)    | Update IUserRepository.cs                      | Actualización en interfaz de repositorio   | 12/07/2025   |
+| ReiZCode      | IUserRepository.cs                | (auto)    | Update IUserRepository.cs                      | Cambios adicionales en IUserRepository     | 12/07/2025   |
+| ReiZCode      | IUserRepository.cs                | (auto)    | Update IUserRepository.cs                      | Mejoras finales en interfaz de repositorio | 12/07/2025   |
+| Antuanete01   | DockerFile                        | (auto)    | Update and rename DockerFile to DockerFile     | Renombrado y ajuste del DockerFile         | 12/07/2025   |
+| Antuanete01   | DockerFile                        | (auto)    | Update and rename DockerFile.txt to DockerFile | Conversión de archivo Docker               | 12/07/2025   |
+| Antuanete01   | (varios archivos)                 | (auto)    | Add files via upload                           | Subida de archivos iniciales               | 12/07/2025   |
+| Antuanete01   | (configuración)                   | (auto)    | connections Strings                            | Configuración de cadenas de conexión       | 12/07/2025   |
+| Antuanete01   | (estructura inicial del proyecto) | (auto)    | first commit                                   | Primer commit del backend                  | 12/07/2025   |
 
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
