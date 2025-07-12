@@ -472,6 +472,13 @@ Creé la estrategia de contenido integral para STAYMAP, produciendo desde docume
 
 - URL del repositorio de la cuarta versión de la Landing Page de "StayMap": `https://github.com/The-Rumbling-AW/LandingPage-V4.git`
 
+  <p align="center">
+  <img src="assets/capturas/tf-landing.png" alt="commits grafico" width="700">
+</p>
+<p align="center">
+  <img src="assets/capturas/tf-landing2.png" alt="commits grafico" width="700">
+</p>
+
 - URL del repositorio de la tercera versión de la Aplicación Web de "StayMap": 
 
 # CAPÍTULO I: INTRODUCCIÓN
@@ -4877,7 +4884,17 @@ Las principales actividades realizadas fueron:
 
 **Gráficos de colaboración:**
 
-Landing Page: 
+#### Landing Page: 
+
+  <p align="center">
+  <img src="assets/capturas/tf-landing.png" alt="commits grafico" width="700">
+</p>
+<p align="center">
+  <img src="assets/capturas/tf-landing2.png" alt="commits grafico" width="700">
+</p>
+
+#### Aplicación Web: 
+
 
 
 
